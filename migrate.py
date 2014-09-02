@@ -100,10 +100,12 @@ def generateRoutes(inputFilename):
 		# d['route_short_name'] = codecs.decode(inDict['descripcion'],'utf8')
 		d['route_short_name'] = route_id
 		d['route_type'] = 'Bus'
+		d['active'] = None
 		d['route_desc'] = codecs.decode(inDict['descripcion'],'utf8')
-		d = {k:v.encode('utf8') for k, v in d.items()}
+		d = {k:v.encode('utf8') for k, v in d.items() if v}
 		return d
-	fieldnames = ['route_id', 'route_short_name', 'route_type', 'route_desc']
+	fieldnames = ['route_id', 'route_short_name', 'route_type', 'route_desc', 
+		'active']
 	migrate(inputFilename, outputFilename, mapFunction, fieldnames)
 
 def generateShapes(inputFilename):
