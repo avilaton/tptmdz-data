@@ -1,1055 +1,1055 @@
-"trip_headsign","direction_id","trip_short_name","trip_id","route_id","shape_id"
-"011A-CARR-CG-CTROxFA","1","011A - CARRODILLA - CENTRO X FIGUEROA ALCORTA - C. GOB.","1690","011","1690"
-"011A-Ctro-CarrxF.A. ","0","011 - Centro - Carrodilla x F. Alcorta - C. Gob","2998","011","2998"
-"011A-Carr-Ctro.xF.A.","0","011 - Centro Carrodilla por F. Alcorta ","2999","011","2999"
-"011A-Carr-Ctro.XF.A.","1","011A - Carrodilla - Centro por F. Alcorta","3003","011","3003"
-"011B-B21-Ctro.xF.A.","1","011 - B. 21 de Julio - Carrodilla - Centro por F. Alcorta - C/Gob. ","2994","011","2994"
-"011B-B21-Ctro.xF.A.","0","011B-Centro - Carrodilla x F. Alcorta ","3000","011","3000"
-"011A-Carr-CtroxF.A.","0","011A - Centro - Carrodilla x F. Alcorta","3001","011","3001"
-"011A-Carr-Ctro.xF.A.","1","011-B. 21de Julio - Carrodilla - Centro x F. Alcorta ","3004","011","3004"
-"011C-Ctro-B21-Carr","0","011C - Centro - Carrodilla x F. Alcorta - B. 21 de Julio ","2995","011","2995"
-"011C-Ctro-B21-Carr","1","011C - Carrodilla - Centro - B. 21 de Julio x F. Alcorta - C/Gob. ","2996","011","2996"
-"011C-Ctro-B21-Carr","1","011C - Carrodilla - Centro x F. Alcorta - B. 21 de Julio","3005","011","3005"
-"011C-Ctro-B21-Carr","0","011C - Centro - Carrodilla x F. Alcorta - B. 21 de Julio","3006","011","3006"
-"011B-B21-Ctro.xF.A.","1","011 - Carrodilla-B. 21 de Julio - Centro x F. Alcorta","2239","011","2239"
-"011B-B21-Ctro.xF.A.","0","011 - Centro - Carrodilla x F. Alcorta - B.21 de Julio.","2241","011","2241"
-"011B-B21-Ctro.xF.A.","0","NULL","2990","011","2990"
-"011B-B21-Ctro.xF.A.","1","011 - Carrodilla-B. 21 de Julio - Centro x F. Alcorta. C./Gob.","2991","011","2991"
-"012-F.Cuyo-Chac-Ctro","1","012 - Carrodilla - Centro Por Flor de Cuyo - Chacras de Coria","2221","012","2221"
-"012-FCuyo-Casta-Ctro","0","012 - Centro - B  Flor de Cuyo - B  Los Castaños","2230","012","2230"
-"012-F.Cuyo-Ctro","1","012 - Carrodilla por B  Flor de Cuyo - Centro","3052","012","3052"
-"012-F.Cuyo-Ctro","0","012 - Centro - Carrodilla por B  Flor de Cuyo","3053","012","3053"
-"012-F.Cuyo-Chac-Ctro","1","012 - Carrodilla - Centro por B  Flor de Cuyo","3059","012","3059"
-"012-F.Cuyo-Chac-Ctro","0","012 - Centro - Chacras de Coria - Cementeria Parque Jardin Mendoza","3060","012","3060"
-"013-Ctro-LHerasxROCA","1","013 - Carrodilla - Centro - Las Heras por Roca - Casa de Gobierno","2243","013","2243"
-"013-LHer.CarrodxROCA","0","013 - Las Heras - Carrodilla por Roca","3061","013","3061"
-"013-Carr-LHerasxROCA","1","013 - Carrodilla - Las Heras por Roca","2960","013","2960"
-"013-LASHER.CARRxROCA","0","NULL","3085","013","3085"
-"013ES - Esc. Roca","1","013 - Escolar Roca de las 07:20 hs","2245","013","2245"
-"013ES - Esc. Roca","0","013-Escolar Roca7:20","2246","013","2246"
-"013ES -Esc. Roca","1","013 - Escolar Roca de las 12:30","2247","013","2247"
-"013ES - Esc. Roca","0","013 - Escolar Roca de las 12:30 hs","2248","013","2248"
-"013ES - Esc. Roca","1","013 - Escolar Roca de las 17:30 hs","2250","013","2250"
-"013ES - Esc. Roca","0","013 - Escolar Roca de las 17:30 hs","2251","013","2251"
-"013ES1 - Esc.Goretti","1","013ES1 - Escolar Goretti - San Pablo de las 12:30 hs","2252","013","2252"
-"013ES1 - Esc.Goretti","0","013 - Escolar Goretti - San Pablo de las 18:00 hs","2255","013","2255"
-"014A-Blanc.Enc.SP/GV","1","014 - Blanco Encalada - Saenz Peña / Guardia Vieja ","2256","014","2256"
-"014A-Blanc Enc.SP/GV","0","014 - Blanco Encalada por Saenz Peña-Guardia Vieja","2257","014","2257"
-"014A-Bco.Enc.SP/GV","1","014 - Blanco Encalada - Guardia Vieja / Saenz Peña","2258","014","2258"
-"014A-Bco.Enc.SP/GV","0","014A - Blanco Encalada - Guardia Vieja / Saenz Peña ","2259","014","2259"
-"014A-Bco.Enc.SP/GV","1","014A - Blanco Encalada por Saenz Peña","3095","014","3095"
-"014A-Bco.Enc.SP/GV","0","014A - Blanco Encalada por Saenz Peña","3096","014","3096"
-"014B-Bco Enc Pan.","1","014B - Escolar Blanco Encalada de las 06:08 hs","3165","014","3165"
-"014B-Bco Enc Pan.","1","014 - Escolar Blanco Encalada de las 17:00 hs","3174","014","3174"
-"014C-BcoEn-Pan-Sol","1","014C - Escolar Blanco Encalada de las 07:25 hs","2269","014","2269"
-"014C-BcoEn-Pan-Sol","0","014C- Escolar Blanco Encalada de las 07:25 hs","2270","014","2270"
-"014C-BcoEn-Pan-Sol","1","014C - Escolar Blanco Encalada de las 06:55 hs","2271","014","2271"
-"014C-BcoEn-Pan-Sol","0","014C- Escolar Blanco Encalada de las 06:55 hs","2272","014","2272"
-"014D-BcoEnc-Pan-Nat","1","014D - Escolar Blanco Encalada de las 07:15 hs","3180","014","3180"
-"014D-BcoEnc-Pan-Nat","0","014D - Escolar Blanco Encalada de las 07:15 hs","3181","014","3181"
-"014E-BcoEnc-Pan-Loc.","1","014E - Escolar Blanco Encalada de las 08:10 hs","2282","014","2282"
-"014E-BcoEnc-Pan-Loc.","0","014E - Escolar Blanco Encalada de las 08:10 hs","2283","014","2283"
-"014E-BcoEnc-Pan-Loc.","1","014E- Escolar Blanco Encalada de las 12:20 hs","2284","014","2284"
-"014E-BcoEnc-Pan-Loc.","0","014E - Escolar Blanco Encalada de las 12:20 hs","2285","014","2285"
-"014E-BcoEnc-Pan-Loc.","1","014E - Escolar Blanco Encalada de las 12:30 hs","3182","014","3182"
-"014E-BcoEnc-Pan-Loc.","0","014E - Escolar Blanco Encalada de las 12:30 hs","3183","014","3183"
-"014F-BcoEnc/Pan/Loc.","1","014F - Escolar Blanco Encalada de las 18:25 hs","2290","014","2290"
-"014F-BcoEnc/Pan/Loc.","0","014F - Escolar Blanco Encalada de las 18:25 hs","2291","014","2291"
-"014F-BcoEnc/Pan/Loc.","1","014F- Lujan - Blanco Encalada x Panamericana","2326","014","2326"
-"014F-BcoEnc/Pan/Loc.","0","014F - Blanco Encalada por Panamericana - Lujan","2327","014","2327"
-"014B-Bco Enc Pan.","0","014B - Escolar Blanco Encalada de las 06:08 hs","3166","014","3166"
-"014B-Bco Enc Pan.","0","014B - Escolar Blanco Encalada de las 17:00 hs","3175","014","3175"
-"014B-Bco Enc Pan.","1","014B - Escolar Blanco Encalda de las 11:40 hs","3169","014","3169"
-"014B-Bco Enc Pan.","0","014B - Escolar Blanco Encalada de las 11:40 hs","3170","014","3170"
-"014C-BcoEn-Pan-Sol","1","014C - Escolar Blanco Encalada de las 13:00 hs","2273","014","2273"
-"014C-BcoEn-Pan-Sol","0","014C - Escolar Blanco Encalada de las 13:00 hs","3176","014","3176"
-"014D-BcoEnc-Pan-Nat","1","014D - Escolar Blanco Encalada de las 17:50 hs","2278","014","2278"
-"014D-BcoEnc-Pan-Nat","0","014D - Escolar Blanco Encalada de las 17:50 hs","3179","014","3179"
-"014D-BcoEnc-Pan-Nat","1","014D - Escolar Blanco Encalada de las 16:25 hs","3177","014","3177"
-"014D-BcoEnc-Pan-Nat","0","014D - Escolar Blanco Encalada de las 16:25 hs","3178","014","3178"
-"014F-BcoEnc/Pan/Loc.","1","014F - Escolar Blanco Encalada de las 17:40 hs","3186","014","3186"
-"014F-BcoEnc/Pan/Loc.","0","014F - Escolar Blanco Encalada de las 17:40 hs","3187","014","3187"
-"015-B.Cast.-Ch.-Ctro","1","015 - B. Los Castaños - Chacras de Coria - Centro por Cervantes","2293","015","2293"
-"015-B.Cast.-Ch.-Ctro","0","015 - Centro - Chacras - B. Los Castaños por Cervantes","2294","015","2294"
-"015-B.Cast.-Ch.-Ctro","1","015 - B. Los Castaños - Chacras de Coria - Centro por Cervantes","2295","015","2295"
-"015-B.Cast.-Ch.-Ctro","0","015 - Centro - Chacras de Coria - B  Los Castaños","3050","015","3050"
-"015-B.Cast.-Ch.-Ctro","0","015 - Centro - Chacras - B  Los Castaños por Cervantes","2298","015","2298"
-"015-B.Cast.-Ch.-Ctro","1","015 - B  Los Castaños - Cementerio Parque Jardin Mendoza - Centro","3058","015","3058"
-"016A-L.Ch.S EL.SMSur","1","016 - Lujan - Chacras de Coria por San Martín Sur - Centro","2299","016","2299"
-"016A-L.Ch.S EL.SMSur","0","016 - Centro - Chacras por San Martin Sur - Lujan","2300","016","2300"
-"016A-L.Ch.S EL.SMSur","1","016 - Lujan - Chacras - Centro por Santa Elena","2301","016","2301"
-"016A-L.Ch.S EL.SMSur","0","016 - Centro - Chacras de Coria por Santa Elena - Lujan","2302","016","2302"
-"016ES -Esc.S.Elena","1","016 - Escolar Santa Elena de las 07:15 hs","2303","016","2303"
-"016ES -Esc.S.Elena","0","016 - Escolar Santa Elena de las 07:15 hs","2304","016","2304"
-"016ES -Esc.S.Elena","1","016 - Escolar Santa Elena de las 12:20 hs","2312","016","2312"
-"016ES -Esc.S.Elena","0","016 - Escolar Santa Elena de las 12:20","2313","016","2313"
-"016ES -Esc.S.Elena","1","016 - Escolar Santa Elena de las 17:40 hs","2320","016","2320"
-"016ES -Esc.S.Elena","0","016 - Escolar Santa Elena de las 17:40 hs","2321","016","2321"
-"016B-L.UNC.S.El.","1","016 - Santa Elena - Chacras Universidades","2322","016","2322"
-"016B-L.UNC.S.El.","0","016 - Universidades - Chacras - Lujan","2323","016","2323"
-"016B-L.UNC.S.El.","1","016 - Lujan - Universidades","2324","016","2324"
-"016B-L.UNC.S.El.","0","016 - Universidades - Chacras - S. Elena - Lujan","2325","016","2325"
-"017-B.Aler-Luj-Maipu","1","017 - Carrodilla - B. Los Alerces - Lujan","2328","017","2328"
-"017-B.Aler-Luj-Maipu","0","017 - Lujan - B  Los Alerces - Carrodilla","2329","017","2329"
-"017-B.Aler-Luj-Maipu","1","017 - Lujan - Cementerio Lujan - B. Los Alerces","2333","017","2333"
-"017-B.Aler-Luj-Maipu","0","017 - Lujan - B. Los Alerces","2334","017","2334"
-"017-B.Aler-Luj-Maipu","1","017-Lujan - Maipu","2338","017","2338"
-"017-B.Aler-Luj-Maipu","0","017-Maipu - Lujan","2339","017","2339"
-"018-Exp. Roca C.Gob.","0","018 - Expreso Roca - Casa de Gobierno","2336","018","2336"
-"018-Exp. Roca C.Gob","1","018 - Expreso Roca por Casa de Gobierno","3032","018","3032"
-"018-Exp. Roca CGob.","1","018 - Expreso Roca","2337","018","2337"
-"018-Exp. Roca C.Gob.","0","018-Expreso Roca","3036","018","3036"
-"019A-Luj.Ctro.Drumm.","1","019 - Lujan - Mendoza por Drummond - B. 27 de Abril","2340","019","2340"
-"019A-Luj.Ctro.Drumm.","0","019 - Centro - Lujan por Drummond - B. 27 de Abril","2341","019","2341"
-"019B-Lj.Huen.Ctro.Lb","1","019 - Lujan - Mendoza por Av. Libertad - B. Las Parras","2342","019","2342"
-"019B-Lj.Huen.Ctro.Lb","0","019 - Centro - Lujan por Av. Libertad - B. Las Parras","2343","019","2343"
-"019B-Lj.Huen.Ctro.Lb","1","019 - Lujan - Centro por Av. Libertad","2345","019","2345"
-"019B-Lj.Huen.Ctro.Lb","0","019 - Centro - Lujan por Av. Libertad","2346","019","2346"
-"019B-Lj.Huen.Ctro.Lb","1","019 - Luján - Centro por Av. Libertad - B. Huentota","2347","019","2347"
-"019B-Lj.Huen.Ctro.Lb","0","019 - Centro - Lujan por Av. Libertad","2348","019","2348"
-"019C-Lj.Ctro.Hue.SMt","1","019 - Lujan - Centro por Av. Libertad","2349","019","2349"
-"019C-Lj.Ctro.Hue.SMt","0","019 - Centro - B. Huentota - Lujan por Av. Libertad","2350","019","2350"
-"019A-Luj.Ctro.Drumm.","1","019 - Lujan - Centro por Drummond","2351","019","2351"
-"019A-Luj.Ctro.Drumm.","0","019 - Centro - Lujan por Drummond","2352","019","2352"
-"019EX-Exp.xS.Mt/Drm","1","019 - Expreso Drummond","2353","019","2353"
-"019EX-Exp.xS.Mt/Drm","0","019 - Expreso por Drummond","2354","019","2354"
-"019C-Lj.Ctro.Hue.SMt","1","019 - Lujan - Mendoza por San Martin","2355","019","2355"
-"019C-Lj.Ctro.Hue.SMt","0","019 - Centro - Lujan por San Martin","2356","019","2356"
-"019EX-Exp.xS.Mt/Drm","1","019 - Expreso por San Martin","2357","019","2357"
-"019EX-Exp.xS.Mt/Drm","0","019 - Expreso por San Martin","2358","019","2358"
-"019A-Luj.Ctro.Drumm.","1","019 - Lujan - PIP - Centro","2359","019","2359"
-"019A-Luj.Ctro.Drumm.","0","019 - Centro - Lujan por San Martin","2360","019","2360"
-"019C-Lj.Ctro.Hue.SMt","1","019 - Lujan Centro por San Martin","2361","019","2361"
-"019C-Lj.Ctro.Hue.SMt","0","019 - Centro - Lujan - PIP","2362","019","2362"
-"031-CENTRO","1","NULL","2204","031","2204"
-"031-G.CRUZ.CENTRO","0","NULL","2317","031","2317"
-"031G.CRZ.CTO.S/C.GOB","1","NULL","2561","031","2561"
-"31G.CRUZ.PLAZA","0","NULL","2562","031","2562"
-"032-ESTANZUELA CNTRO","1","032-ESTANZUELA CNTRO","2207","032","2207"
-"032-ESTANZUELA","0","NULL","2208","032","2208"
-"032BES.XPASO.S/C.GOB","1","032BES.XPASO.S/C.GOB","2563","032","2563"
-"32EST.G.CRUZ","0","NULL","2564","032","2564"
-"033-GODOY CRUZ","0","NULL","2209","033","2209"
-"033-LAS HERAS","1","NULL","2210","033","2210"
-"034-VIN.X OESTE.LAGO","1","NULL","2215","034","2215"
-"34-GODOY CRUZ","0","NULL","2216","034","2216"
-"034-VIN.ESTAN.LAGO.M","1","NULL","2218","034","2218"
-"34.ESTANZUELA G.CRUZ","0","NULL","2219","034","2219"
-"34VIN.X.OESTE.G.CRUZ","0","NULL","2547","034","2547"
-"034B VIN.OESTE.S/UNC","1","NULL","2546","034","2546"
-"034B VIN.B EST.S/UNC","1","NULL","2558","034","2558"
-"034B VIN.B ESTA.GC","0","NULL","2559","034","2559"
-"034B VIN.LAGO.B.FUCH","1","NULL","2475","034","2475"
-"034B VIN.O.G.C.BFUCH","0","NULL","2476","034","2476"
-"034B REF.VIN.UNC","1","NULL","2550","034","2550"
-"034C REF.VIN.EST.L.A","1","NULL","2551","034","2551"
-"034R.VIN.EST.LIC.CTO","1","NULL","2552","034","2552"
-"034RE.VIN.O.LIC.UNC","1","NULL","2553","034","2553"
-"035-PABLO VI LIC UNC","1","NULL","2211","035","2211"
-"35-PABLO VI","0","NULL","2212","035","2212"
-"035 REF.LICEO","1","NULL","2548","035","2548"
-"035REF.B.PBLOV.CTROL","1","NULL","2549","035","2549"
-"041-Foec.xPza.Ctro","1","041 - Foecyt - Sarmiento x Plaza de Godoy Cruz - Estanzuela Directo","2643","041","2643"
-"041-Foec.xPza.Ctro","0","041 - Foecyt - Sarmiento x Plaza de Godoy Cruz - Estanzuela Directo","2644","041","2644"
-"041-Foec.xPza.Ctro","1","041 - Foecyt - Sarmiento por San Martin - Estanzuela por Plaza de Godoy Cruz","2645","041","2645"
-"041-Foec.xPza.Ctro","0","041 - Foecyt - Sarmiento por San Martin - Estanzuela por Plaza de Godoy Cruz","2647","041","2647"
-"041-Foec.Dir.Ctro.","1","041 - Foecyt - Sarmiento por San Martín - Estanzuela por Plaza de Godoy Cruz - B  Ruiseñor","2648","041","2648"
-"041-Foec.xPza.Ctro","0","041 - Foecyt - Sarmiento por San Martín - Estanzuela por Plaza de Godoy Cruz - B  Ruiseñor","2649","041","2649"
-"042-B.FuchsXPza.Ctro","1","042 - B  Fuchs por Plaza de Gody Cruz","2650","042","2650"
-"042-B.FuchsXPza.Ctro","0","042 - B  Fuchs por Plaza de Godoy Cruz","2651","042","2651"
-"043-Palmares.Centro","1","043 - Palmares x Italia - Centro - Palmares","2652","043","2652"
-"043-Palmares.Centro","0","043 - Palmares x Italia - Centro - Palmares","2653","043","2653"
-"044-ExpresoXP.Andes","1","044 - Expreso por Paso de Los Andes","2654","044","2654"
-"044-ExpresoXP.Andes","0","044 - Expreso por Paso de Los Andes","2656","044","2656"
-"045-Est.Directo.Ctro","1","045 - B  La Estanzuela por Plaza de Godoy Cruz - Centro - FoecYt","2657","045","2657"
-"045-Est.Directo.Ctro","0","045 - B  La Estanzuela por Plaza de Godoy Cruz - Centro - FoecYt","2658","045","2658"
-"045-Est-CtroDir/Ruis","1","045 - Estanzuela Directo - Centro - FoecYt","2659","045","2659"
-"045-EstCtro Dir/Ruis","0","045 - Estanzuela Directo - Centro - FoecYt","2661","045","2661"
-"045-EstCtroDir/Ruis ","1","045 - B  Ruiseñor - Estanzuela por San Martin - FOECyT","2662","045","2662"
-"045-EstCtro DirRuis","0","045 - B  Ruiseñor - Estanzuela por San Martin - FOECyT","2663","045","2663"
-"046-Mosc.Bombal.Ctro","1","046 - Mosconi - Bombal - Centro - Mosconi","2664","046","2664"
-"046-Ctro.Bombal.Mosc","0","046 - Mosconi - Bombal - Centro - Mosconi","2666","046","2666"
-"046-Mosc.Bombal.Ctro","1","046 - Expreso Mosconi por Paso de Los Andes","2667","046","2667"
-"046-Mosc.Bombal.Ctro","0","046 - Mosconi Expreso por Paso de Los Andes","2668","046","2668"
-"047-Vinculacion O-E","1","047 - Servicio Vinculacion Oeste - Este","3159","047","3159"
-"047-Vinculacion O-E","0","047 - Servicio Vinculacion Oeste - Este","3161","047","3161"
-"051A S.ANA-PQUE","1","SANTA ANA - PARQUE SAN MARTIN","2363","051","2363"
-"051A S.ANA-PQUE","0","NULL","2364","051","2364"
-"051A S.ANA-PQUE","1","NULL","2366","051","2366"
-"051A S.ANA-PQUE","0","NULL","2554","051","2554"
-"051A S.ANA-PQUE","0","NULL","2380","051","2380"
-"051A S.ANA-PQUE","1","NULL","2560","051","2560"
-"051B S.ANA-SHOP-PQUE","1","NULL","2867","051","2867"
-"051B S.ANA-SHOP-PQUE","0","NULL","2868","051","2868"
-"051B S.ANA-SHOP-PQUE","1","NULL","2865","051","2865"
-"051B S.ANA-SHOP-PQUE","0","NULL","2866","051","2866"
-"052A MUN-SLNZO-C.GOB","1","NULL","2381","052","2381"
-"052A MUN-SLNZO-C.GOB","0","NULL","2382","052","2382"
-"052A MUN-SLNZO-C.GOB","1","NULL","2571","052","2571"
-"052A MUN-SLNZO-C.GOB","0","NULL","2573","052","2573"
-"052A MUN-SLNZO-C.GOB","1","NULL","2576","052","2576"
-"052A MUN-SLNZO-C.GOB","0","NULL","2577","052","2577"
-"052B MUN-S.LNZO-MUN","1","NULL","2578","052","2578"
-"052B MUN-S.LNZO-MUN","0","NULL","2579","052","2579"
-"052B MUN-S.LNZO-MUN","1","NULL","2580","052","2580"
-"052B MUN-S.LNZO-MUN","0","NULL","2581","052","2581"
-"052B MUN-S.LNZO-MUN","1","NULL","2582","052","2582"
-"052B MUN-S.LNZO-MUN","0","NULL","2583","052","2583"
-"052C S.LNZO-H.L-UNC","1","NULL","2584","052","2584"
-"052C S.LNZO-H.L-UNC","0","NULL","2585","052","2585"
-"052C S.LNZO-H.L-UNC","1","NULL","2395","052","2395"
-"052C S.LNZO-H.L-UNC","0","NULL","2396","052","2396"
-"052C S.LNZO-H.L-UNC","1","NULL","2587","052","2587"
-"052C S.LNZO-H.L-UNC","0","NULL","2815","052","2815"
-"052D S.LNZO-UNC-LIC","0","NULL","2400","052","2400"
-"052D S.LNZO-UNC-LIC","1","NULL","2609","052","2609"
-"053A MUN-BELGR-C.GOB","1","NULL","2589","053","2589"
-"053A MUN-BELGR-C.GOB","0","NULL","2590","053","2590"
-"053A MUN-BELGR-C.GOB","1","NULL","2403","053","2403"
-"053A MUN-BELGR-C.GOB","0","NULL","2591","053","2591"
-"053A MUN-BELGR-C.GOB","1","NULL","2592","053","2592"
-"053A MUN-BELGR-C.GOB","0","NULL","2593","053","2593"
-"053B MUN-BELGRANO","0","NULL","2408","053","2408"
-"053B MUN-BELGRANO","1","NULL","2588","053","2588"
-"053B MUN-BELGRANO","1","NULL","2594","053","2594"
-"053B MUN-BELGRANO","0","NULL","2595","053","2595"
-"053B MUN-BELGRANO","1","NULL","2596","053","2596"
-"053B MUN-BELGRANO","0","NULL","2597","053","2597"
-"053C BELGNO-H.L-UNC","1","NULL","2598","053","2598"
-"053C BELGNO-H.L-UNC","0","NULL","2599","053","2599"
-"053C BELGNO-H.L-UNC","0","NULL","2416","053","2416"
-"053C BELGNO-H.L-UNC","1","NULL","2608","053","2608"
-"053C BELGNO-H.L-UNC","1","NULL","2612","053","2612"
-"053C BELGNO-H.L-UNC","0","NULL","2613","053","2613"
-"053D BEL-H.L-UNC-LIC","1","NULL","2642","053","2642"
-"053D BEL-H.L-UNC-LIC","0","NULL","2646","053","2646"
-"054A MUN-BERM.CTRO","1","NULL","2655","054","2655"
-"054A MUN-BERM.CTRO","0","NULL","2660","054","2660"
-"054A MUN-BERM.CTRO","1","NULL","2453","054","2453"
-"054A MUN-BERM.CTRO","0","NULL","2454","054","2454"
-"054A MUN-BERM.CTRO","1","NULL","2669","054","2669"
-"054A MUN-BERM.CTRO","0","NULL","2670","054","2670"
-"054B MN-ESC-BERM-GOB","1","NULL","2457","054","2457"
-"054B MN-ESC-BERM-GOB","0","NULL","2458","054","2458"
-"054B MN-ESC-BERM-GOB","1","NULL","2672","054","2672"
-"054B MN-ESC-BERM-GOB","0","NULL","2673","054","2673"
-"054B MN-ESC-BERM-GOB","1","NULL","2461","054","2461"
-"054B MN-ESC-BERM-GOB","0","NULL","2674","054","2674"
-"054C BERM-CTRO-GOB","1","NULL","2690","054","2690"
-"054C BERM-CTRO-GOB","0","NULL","2679","054","2679"
-"054C BERM-CTRO-GOB","1","NULL","2687","054","2687"
-"054C BERM-CTRO-GOB","1","NULL","2678","054","2678"
-"054D CTRO-H.LAGO.UNC","1","NULL","3317","054","3317"
-"054D CTRO-H.LAGO.UNC","1","NULL","3266","054","3266"
-"054D CTRO-H.LAGO.UNC","1","NULL","3321","054","3321"
-"054F CARMEN-CENTRO","1","NULL","2469","054","2469"
-"054F CARMEN-CENTRO","1","NULL","3323","054","3323"
-"054F CARMEN-CENTRO","1","NULL","3333","054","3333"
-"054G COL.HS.GOB.CTRO","1","NULL","3335","054","3335"
-"054G COL.HS.GOB.CTRO","1","NULL","2799","054","2799"
-"054G COL.HS.GOB.CTRO","1","NULL","3337","054","3337"
-"054H C.SEG.-CENTRO","1","NULL","3339","054","3339"
-"054H C.SEG.-CENTRO","1","NULL","3259","054","3259"
-"054H C.SEG.-CENTRO","0","NULL","3264","054","3264"
-"054H C.SEG.-CENTRO","1","NULL","3341","054","3341"
-"054H C.SEG.-CENTRO","0","NULL","3342","054","3342"
-"054I C.SEGOVIA-CTRO","1","NULL","3343","054","3343"
-"054I C.SEGOVIA-CTRO","0","NULL","3344","054","3344"
-"054I C.SEGOVIA-CTRO","1","NULL","3345","054","3345"
-"054I C.SEGOVIA-CTRO","0","NULL","3346","054","3346"
-"054I C.SEGOVIA-CTRO","1","NULL","2689","054","2689"
-"054I C.SEGOVIA-CTRO","0","NULL","2805","054","2805"
-"054J BERM-ESC.CART ","0","NULL","3195","054","3195"
-"054J BERM-ESC.CART ","1","NULL","2517","054","2517"
-"054J BERM-ESC.CART ","0","NULL","2522","054","2522"
-"054J BERM-ESC.CART ","1","NULL","2523","054","2523"
-"054J BERM-ESC.CART ","0","NULL","2524","054","2524"
-"054K-M.C.NIEVE.CTRO","1","54 NOTTIX TIRASSO","2968","054","2968"
-"054K-MC.NIEVE.CTRO","0","NULL","3314","054","3314"
-"054K-M.C.NIEVE.CTRO","1","NULL","3188","054","3188"
-"054K-M.C.NIEVE.CTRO","0","NULL","3189","054","3189"
-"055A CENTRO-C.MOLINA","0","NULL","2692","055","2692"
-"055A CENTRO-C.MOLINA","0","NULL","3282","055","3282"
-"055A CENTRO-C.MOLINA","0","NO APARECÍA EN EL EXCEL DE GABRIEL","3318","055","3318"
-"055B-CTRO.COL SEG.","0","NULL","3267","055","3267"
-"055B-CTRO.COL SEG.","0","NO APARECÍA EN EL EXCEL DE GABRIEL","3320","055","3320"
-"055B-CTRO.COL SEG.","0","NO APARECÍA EN EL EXCEL DE GABRIEL","3322","055","3322"
-"055C CENTRO-C.SEG.","0","NULL","2487","055","2487"
-"055C CENTRO-C.SEG.","0","NULL","3324","055","3324"
-"055C CENTRO-C.SEG.","0","NULL","3326","055","3326"
-"055D-COLONIA H.SAUCE","0","NULL","3328","055","3328"
-"055D-COLONIA H.SAUCE","0","NULL","3330","055","3330"
-"055D-COLONIA H.SAUCE","0","NULL","3332","055","3332"
-"055F MUN-B CARMEN","1","NULL","2715","055","2715"
-"055F MUN-B CARMEN","1","NULL","2499","055","2499"
-"055F MUN-B CARMEN","1","NULL","2708","055","2708"
-"055G C.SEG-HS-CARMEN","0","NULL","2818","055","2818"
-"055G C.SEG-HS-CARMEN","0","NULL","2724","055","2724"
-"055G C.SEG-HS-CARMEN","0","NULL","2508","055","2508"
-"055H C.MOLINA-CENTRO","0","NULL","2510","055","2510"
-"055H C.MOLINA-CENTRO","1","NULL","2862","055","2862"
-"055H C.MOLINA-CENTRO","0","NULL","2822","055","2822"
-"055H C.MOLINA-CENTRO","1","NULL","2824","055","2824"
-"055H C.MOLINA-CTRO ","1","NULL","3194","055","3194"
-"055I BERM-CTRO-GOB","1","NULL","2878","055","2878"
-"055I BERM-CTRO-GOB","0","NULL","2879","055","2879"
-"055I BERM-CTRO-GOB","1","NULL","2886","055","2886"
-"055I BERM-CTRO-GOB","0","NULL","2888","055","2888"
-"055I BERM-CTRO-GOB","1","NULL","3198","055","3198"
-"055I BERM-CTRO-GOB","0","NULL","3221","055","3221"
-"055J-CENTROxCALLE 7","1","NULL","3222","055","3222"
-"055J-CENTROxCALLE 7","0","NULL","3223","055","3223"
-"055J-CENTROxCALLE 7","1","NULL","3255","055","3255"
-"055J-CENTROxCALLE 7","0","NULL","3256","055","3256"
-"056A COL-ALAM-C.GOB","1","NULL","3319","056","3319"
-"056A COL-ALAM-C.GOB","1","NULL","2803","056","2803"
-"056A COL-ALAM-C.GOB","0","NULL","2804","056","2804"
-"056A COL-ALAM-C.GOB","1","NULL","3325","056","3325"
-"056B ALAM-GOB-CTRO","1","NULL","3327","056","3327"
-"056B ALAM-GOB-CTRO","1","NULL","3329","056","3329"
-"056B ALAM-GOB-CTRO","1","NULL","3331","056","3331"
-"056C ALA-E POUG-CAR","0","NULL","3334","056","3334"
-"056C ALA-E POUG-CAR","0","NULL","3336","056","3336"
-"056C ALA-E POUG-CAR","0","Termina en B  El Carmen y vuelve al Control VN sin trabajar.","2802","056","2802"
-"056D-ALAM-EL CARMEN","0","NULL","3338","056","3338"
-"056D-ALAM-EL CARMEN","0","NULL","3340","056","3340"
-"061 M.HOYOS VANDOR","1","061 MATHUS HOYOS VANDOR","2111","061","2111"
-"061 M.HOYOS VANDOR","0","061 MATHUS HOYOS VANDOR","2112","061","2112"
-"061 Vand S.Y Sierr","1","061 Centro Vandor Sol y Sierra","2125","061","2125"
-"061 S Y SIERRA VANDO","0","061 MATHUS HOYOS SOL Y SIERRA VANDOR CENTRO CONTROL","2132","061","2132"
-"61 BAJADA VANDOR","0","61 BAJADA VANDOR CENTRO CONTROL","2128","061","2128"
-"61BAJADA SOL Y SIER","0","61 MATHUS HOYOS BAJADA SOL Y SIERRA VANDOR CENTRO CONTROL","2131","061","2131"
-"061 BORBOLL SY SIERR","1","BORBOLLON VANDOR SOL Y SIERRAS POR BELTRAN JUAN B JUSTO","2189","061","2189"
-"061 S.Y SIERR BORB","0","SOL Y SIERRAS EL BORBOLLON ","2190","061","2190"
-"062A M.HOYOS BELG ","0","NULL","1639","062","1639"
-"062A M.HOYOS BELG","1","62 MATHUS HOYOS BELGRANO SIN CASA DE GOBIERNO","2109","062","2109"
-"062B H.MORAL H.UNC","1","62 MATHUS HOYOS SEGUNDO CALLEJON MORALES HOSPITAL UNIVERSIDAD NACIONAL CUYO SIN CASA DE GOBIERNO","1904","062","1904"
-"062A M.HOY.MOR.CTROL","0","62 MATHUS HOYOS SEGUNDO CALLEJÓN MORALES","1905","062","1905"
-"062B MHOSP.UNC C.G","1","62 MATHUS HOYOS SEGUNDO CALLEJÓN MORALES HOSPITAL UNIVERSIDAD NACIONAL DE CUYO CASA DE GOBIERNO","1915","062","1915"
-"062B M.H MOR.CTROL","0","62 MATHUS HOYOS SEGUNDO CALLEJÓN MORALES CONTROL GRUPO 6","1916","062","1916"
-"062B M.H.MoH.UNC C.G","1","NULL","3347","062","3347"
-"062B MHO HOSP. S/CG","1","NULL","2187","062","2187"
-"062B MHOY H.PIRA SCG","0","NULL","2188","062","2188"
-"062C M.H.SEUR B.S.M.","1","62 MATHUS HOYOS HOSPITAL SIN EUREKA POR B. S. MER SIN CASA DE GOBIERNO","2110","062","2110"
-"062C M.H.SEUREK SC.G","0","62 MATHUS HOYOS HOSPITAL SIN EUREKA SIN CASA DE GOBIERNO","2133","062","2133"
-"063A I.PATRI SIN C.G","1","63 INDEPENDENCIA PATRICIA SIN CASA DE GOBIERNO","1917","063","1917"
-"063A INDEP.CONTROL","0","63 INDEPENDENCIA CONTROL","1948","063","1948"
-"063A IND.PATRI C.GOB","1","63 INDEPENDENCIA PATRICIAS CASA DE GOBIERNO","1919","063","1919"
-"063A INDEP.CONTROL","0","63 INDEPENDENCIA CONTROL","1950","063","1950"
-"063B IND.AER.SIN C.G","1","63 INDEPENDENCIA AEROPUERTO SIN CASA DE GOBIERNO","1920","063","1920"
-"063B AEROP.CONTROL","0","63 AEROPUERTO CONTROL","1949","063","1949"
-"063B IND.AEROP.C.GOB","1","63 INDEPENDENCIA AEROPUERTO CON CASA DE GOBIERNO","1947","063","1947"
-"063B IND.AER.CTROL","0","63 INDEPENDENCIA AEROPUERTO CONTROL","1951","063","1951"
-"063B INEP.HOSP.S.CG","1","INDEPENDENCIA","2203","063","2203"
-"063B IND.HOSP SIN CG","0","INDEPENDENCIA HOSPITAL SIN C GOB.","2768","063","2768"
-"063C IND.HOSP.S.CG","1","INDEPEDENCIA-HOSPITAL-SIN EUREKA-SIN CASA DE GOBIERNO","2806","063","2806"
-"063C INDP H.S/CG BSM","0","NULL","2807","063","2807"
-"063C IND.H UNC C.CG","1","NULL","2811","063","2811"
-"063C IND.H UNC C/CG","0","NULL","2814","063","2814"
-"063D IND.PATR S.CG ","1","INDEPENDENCIA PATRICICAS SIN CASA DE GOBIERNO CON PARQUE INDUSTRIAL","2494","063","2494"
-"063D IND.PC.CG C.PI","0","INDEPENDENCIA PATRICIAS SIN CASA DE GOBIERNO CON  PARQUE INDUSTRIAL","2543","063","2543"
-"063A IND.PATR.SCGPI","1","63 INDEPENDENCIA PATRICIA PARQUE INDUSTRIAL SIN CASA DE GOBIERNO","2885","063","2885"
-"063A IND.PATR.CGPI","0","63 INDEPENDENCIA PATRICIA PARQUE INDUSTRIAL CASA DE GOBIERNO ","2889","063","2889"
-"064A UJEMVI S/C.GOB","1","B  UJEMVI SIN CASA DE GOBIERNO","2292","064","2292"
-"064A UJEMVI S/C.GOB","0","B UJEMVI SIN CASA DE GOBIERNO","2368","064","2368"
-"064A UJEMVI C/C.GOB","0","B UJEMVI CON CASA DE GOBIERNO","2485","064","2485"
-"064A UJEMVI C/C.GOB","1","64 UJENVI CON CASA DE GOBIERNO","2880","064","2880"
-"065A 1 DE MAYO","1","1 DE MAYO","2819","065","2819"
-"065A 1 DE MAYO","0","1 DE MAYO","2823","065","2823"
-"066A DOR MATHEU-S/CG","1","DORR-MATHEU-S/CG","2675","066","2675"
-"066A DOR-MATHEU-S/CG","0","066A DORREGO MATHIU SIN CASA DE GOBIERNO","2887","066","2887"
-"66 DORR-MATHEU-C/CG","1","DORREGO-MATHEU-CON CASA DE GOBIERNO","2610","066","2610"
-"066A DOR-MATHEU-S/CG","0","DORREGO-MATHEU CON CASA DE GOBIERNO","2611","066","2611"
-"067A EXP DORR S/CG","1","67 EXPRESO DORREGO SIN CASA DE GOBIERNO","2624","067","2624"
-"067A EXP DORR S/CG","0","67 EXPRESO DORREGO SIN CASA DE GOBIERNO","2629","067","2629"
-"067A EXP-DOR C/CGOB","1","67 EXPRESO DORREGO CON CASA DE GOBIERNO","2574","067","2574"
-"067A EXP DOR C/CGOB","0","67 EXPRESO DORREGO CON CASA DE GOBIERNO","2575","067","2575"
-"068A ORTIZ S/CG","0","ORTIZ SIN CASA DE GOBIERNO","2528","068","2528"
-"068A ORTIZ S/CG","1","ORTIZ SIN CASA DE GOBIERNO","2529","068","2529"
-"068A ORTIZ C/CG","1","68 ORTIZ CON CASA DE GOBIERNO ","2526","068","2526"
-"068A ORTIZ C/CG","0","68 ORTIZ CON CASA DE GOBIERNO ","2527","068","2527"
-"069A HOSP. NOTTI","1","069A HOSP. NOTTI","2134","069","2134"
-"069A HOSP. NOTTI","0","069A HOSP. NOTTI","2135","069","2135"
-"069 MUNI LAS HER","1","MUNICIPALIDAD LAS HERAS","2191","069","2191"
-"069 MUNI LAS HERAS","0","NULL","2192","069","2192"
-"071A GLLEN-G.CxTER","1","NULL","2421","071","2421"
-"071A GLLEN-G.CxTER","0","NULL","2422","071","2422"
-"071A GLLEN-G.CxTER","1","NULL","2874","071","2874"
-"071A GLLEN-G.CxTER","0","NULL","2875","071","2875"
-"071B GLLEN-GC-GOBxOB","1","NULL","2425","071","2425"
-"071B GLLEN-GC-GOBxOB","0","NULL","2426","071","2426"
-"071B GLLEN-GC-GOBxOB","1","NULL","2881","071","2881"
-"071B GLLEN-GC-GOBxOB","0","NULL","2882","071","2882"
-"072C S.IGN-TER-CGOB","1","NULL","2429","072","2429"
-"072C S.IGN-TER-C.GOB","0","NULL","2430","072","2430"
-"072C S.IGN-TER-C.GOB","1","NULL","2896","072","2896"
-"072C S.IGN-TER-C.GOB","0","NULL","2897","072","2897"
-"072F S.IGN COLON GOB","1","NULL","2435","072","2435"
-"072F S.IGN-COLON-GOB","0","NULL","2436","072","2436"
-"072F S.IGN-COLON-GOB","1","NULL","2899","072","2899"
-"072F S.IGN-COLON-GOB","0","NULL","2900","072","2900"
-"073A B°SUPE/Jud/C.G.","1","NULL","3014","073","3014"
-"073A B°SUPE/Jud/C.G.","1","NULL","2439","073","2439"
-"073A B°SUPE-Jud-C.G.","0","NULL","2442","073","2442"
-"073B B°SUPE/Jud/C.G.","0","NULL","2906","073","2906"
-"073B B°SUPE/Jud/C.G.","1","NULL","3013","073","3013"
-"073B B°SUPE/Jud/C.G.","1","NULL","3016","073","3016"
-"073C B°SUPE-Jud-C.G.","0","NULL","3020","073","3020"
-"073C B°SUPE/Jud-C.G.","0","NULL","3022","073","3022"
-"074A B°SUPE-Jud-C.G.","0","NULL","3015","074","3015"
-"074A B°SUPE/Jud/C.G.","0","NULL","2440","074","2440"
-"074A B°SUPE/Jud/C.G.","1","NULL","2441","074","2441"
-"074B B°SUPE/Jud/C.G.","1","NULL","2905","074","2905"
-"074B B°SUPE-Jud-C.G.","0","NULL","3018","074","3018"
-"074B B°SUPE/Jud/C.G.","0","NULL","3017","074","3017"
-"074C B°SUPE/Jud/C.G.","1","NULL","3019","074","3019"
-"074C B°SUPE/Jud/C.G.","1","NULL","3021","074","3021"
-"075A SUPE-PLAZA G.C.","1","NULL","2445","075","2445"
-"075A SUPE-PLAZA G.C.","0","NULL","2446","075","2446"
-"075A SUPE-PLAZA G.C.","1","75B SOl ySIERA.P.GC ","3153","075","3153"
-"075A SUPE-PLAZA G.C.","0","75B SOl ySIERA.P.GC ","3160","075","3160"
-"076A EXPR/SUPE/CTRO","1","NULL","2447","076","2447"
-"076A EXPR-SUPE-CTRO","0","NULL","2448","076","2448"
-"076A EXPR/SUPE-CTRO","0","NULL","2449","076","2449"
-"081-Roca x SMartin","1","NULL","2903","081","2903"
-"081-Roca x SMartin","0","NULL","2904","081","2904"
-"081-Roca x SMartin ","1","NULL","2914","081","2914"
-"081 Roca x SanMartín","0","NULL","2935","081","2935"
-"082-S. Miguel C.Gob","1","NULL","2915","082","2915"
-"082-San Miguel C.Gob","0","NULL","2936","082","2936"
-"082-San Miguel C.Gob","1","NULL","2916","082","2916"
-"082-San Miguel C.Gob","0","NULL","2937","082","2937"
-"083 Finca González","0","NULL","2940","083","2940"
-"083 Finca González","1","NULL","2977","083","2977"
-"083-Finca González  ","1","NULL","2920","083","2920"
-"083 Finca González","0","NULL","2941","083","2941"
-"084 Minetti","0","NULL","2942","084","2942"
-"084 Minetti","1","NULL","2974","084","2974"
-"084-Minetti  ","1","NULL","2922","084","2922"
-"084 Minetti","0","NULL","2943","084","2943"
-"086-Espejo Casa Gob.","1","NULL","2923","086","2923"
-"086-Espejo Casa Gob.","0","NULL","2944","086","2944"
-"086-Espejo Casa Gob.","1","NULL","2924","086","2924"
-"086-Espejo Casa Gob.","0","NULL","2945","086","2945"
-"087-Municip.Pza. C/G","1","NULL","2925","087","2925"
-"087-Municip.Pza. C/G","0","NULL","2946","087","2946"
-"087-Municip.Pza. C/G","1","NULL","2926","087","2926"
-"087-Municip.Pza. C/G","0","NULL","2947","087","2947"
-"087 Hosp. Carrillo","0","NULL","2950","087","2950"
-"087 Hosp. Carrillo","1","NULL","2976","087","2976"
-"087-Municip.Salta","1","NULL","2928","087","2928"
-"087-Municip.Salta","1","NULL","2930","087","2930"
-"087 Municip.x Salta","0","NULL","2951","087","2951"
-"087-Municip.Salta","1","NULL","2931","087","2931"
-"087-Municip.Salta","0","NULL","2952","087","2952"
-"088-Shopping - Notti","1","NULL","2932","088","2932"
-"088 Shopping - Notti","0","NULL","2953","088","2953"
-"091A S.Mart SC.Gob","1","NULL","1649","091","1649"
-"091A S.Mart.SC.Gob","0","NULL","1654","091","1654"
-"091A S.MART-C.GOB","1","NULL","1679","091","1679"
-"091A S.Mart C/Gob","0","91 San Martin con casa de gobierno","2893","091","2893"
-"091B Ba S Mar NOTT","1","091B Ba. San Martin Hospital Pediatrico SC de Gobierno","1699","091","1699"
-"091B S MAR NOTT C8","0","91 BARRIO SAN MARTIN HOSPITAL NOTTI CONTROL G-8","1923","091","1923"
-"091B BSMAR NOTTI","1","91 BARRIO SAN MARTIN HOSPITAL PEDIATRICO S/CG","1824","091","1824"
-"091B S MAR NOTTI ","0","91 BARRIO SAN MARTIN HOSPITAL NOTTI SIN CASA DE GOBIERNO","1902","091","1902"
-"091B VIAJ UNC S M","1","91 BARRIO VIAJANTES UNC BARRIO SAN MARTIN ","1926","091","1926"
-"091B UNC VIAJANTES","0","91 B  SAN MARTIN UNC B  VIAJANTES ","1927","091","1927"
-"092A Ba. MUNICIP","1","92 BARRIO MUNICIPAL ","1928","092","1928"
-"092A Ba MUNICIP ","0","92 BARRIO MUNICIPAL TERMINAL","1929","092","1929"
-"092A Ba.MUN PELUQ","1","92 BARRIO MUNICIPAL CON BARRIO LOS PELUQUEROS","1931","092","1931"
-"092A Ba. PELUQ ","0","92 Ba. los Peluqueros centro ","1932","092","1932"
-"092A Ba. MUNI NOTT","1","92 Ba. MUNICIPAL HOSPITAL PEDIATRICO","1933","092","1933"
-"092A Ba.MUNI NOTTI","0","92 BARRIO MUNICIPAL HOSP PEDIATRICO","1934","092","1934"
-"092B B MUN INF UNC","0","92 BARRIO MUNICIPAL HOSPITAL LAGOMAGGIORE UNC ","2153","092","2153"
-"092B MUNI HOSP UNC","1","92 BARRIO MUNICIPAL B  INFANTA HOSPITAL LAGOMAGGIORE UNC","2154","092","2154"
-"092B INFAN MUNIC","1","92-94 Barrio Infanta Barrio Municipal ","1943","092","1943"
-"092B MUNIC INFANT","0","92-94 Barrio Municipal Barrio Infanta Terminal","1952","092","1952"
-"092EX EXPR RECONQ","0","EXPRESO RECONQUISTA","1983","092","1983"
-"092EX EXPR RECONQ","1","EXPRESO RECONQUISTA CENTRO","2156","092","2156"
-"092B UNC LIC AGRIC","1","92 MUNICIPAL UNC LICEO AGRICOLA","2031","092","2031"
-"092B LIC UNC MUNI","0","92 LICEO UNC BARRIO MUNICIPAL","2032","092","2032"
-"ESC CHAMPAGNAT VTA","0","ESCOLAR CAMPAGNAT EL CHALLAO VUELTA","2101","092","2101"
-"092ES ESC CHAMPA IDA","1","ESCOLAR CHAMPAGNAT EL CHALLAO ","2100","092","2100"
-"092EX MUNIC S/C.GOB","0","130 EXP.SIN S/GOB","2122","092","2122"
-"092EX RECONQ S/CG","1","EXPRESO RECONQUISTA SIN CASA DE GOBIERNO","2155","092","2155"
-"092ES ESC PAROIS","1","ESCOLAR DIEGO PAROISSIENS IDA DE TARDE","2151","092","2151"
-"092ES ESC PAROIS VTA","0","ESCOLAR DIEGO PAROISSIENS VUELTA DE TARDE","2152","092","2152"
-"092ES ESC PAROIS VTA","1","ESCOLAR ESCUELA PAROISSIENS VUELTA","2104","092","2104"
-"092ES ESC PAROIS IDA","0","ESCOLAR ESCUELA PAROISSIENS IDA","2105","092","2105"
-"093 CEMENT VIAJAN","1","93-95 BARRIO VIAJANTES CEMENTISTA","1990","093","1990"
-"093 CEMENT VIAJAN","0","95 BARRIO VIAJANTES ","1991","093","1991"
-"093 CEMENT C/CGOB","1","93 BARRIO CEMENTISTA CON CASA DE GOBIERNO","2027","093","2027"
-"093  VIAJANT C/GOB","0","95 BARRIO VIAJANTES CON CASA DE GOBIERNO","2028","093","2028"
-"093 CEM-MANZOTTI","1","93 ESC. MANZOTTI","2123","093","2123"
-"093 ESC. MANZOTTI","0","93/95 ESC MANZOTTI B  VIAJANTES ","2147","093","2147"
-"093ES CEMEN MANZO ","1","93/95 CAS DE BOB B CEMENTISTA ESCUELA MANZOTTI","2148","093","2148"
-"093ES ESC MANZO VIAJ","0","93/95 ESC MANZOTTI CASA DE GOBIERNO B  VIAJANTES ","2150","093","2150"
-"094 INFANTA S CG","1","94 BARRIO INFANTA SIN CASA DE GOBIERNO","2012","094","2012"
-"094 BARRIO INFANTA ","0","94 BARRIO INFANTA TERMINAL","2013","094","2013"
-"094 INFANTA C/C GOB","1","94 BARRIO INFANTA CON CASA DE GOBIERNO","2025","094","2025"
-"094 INFANTA C GOB","0","94 BARRIO INFANTA CON CASA DE GOBIERNO ","2026","094","2026"
-"101 CADORE-CTRO-CGO","1","101 CADORE-CENTRO POR CASA DE GOBIERNO","2029","101","2029"
-"101 CENTRO  B CADORE","0","101 CADORE -CENTRO-POR CASA DE GOBIERNO","2030","101","2030"
-"101 CADORE CENTRO","1","NULL","2069","101","2069"
-"101 CENTRO-B CADORE","0","NULL","2070","101","2070"
-"102 S.CAYET-CG-HOSP","1","DE IDA B SAN CAYETANO","2042","102","2042"
-"102 CAYE-6SEC-CG HOS","0","BARRIO SAN CAYETANO -6TA SECCION  CON CASA DE GOBIERNO Y HOSPITAL LAGOMAGGIORE","2071","102","2071"
-"102 6ta SECC H LAGO ","1","102 B  SAN CAYETANO 6ta SECCION HOSPITAL LAGOMAGIORE","2979","102","2979"
-"102 6ta DORREGO","0","102 6ta SECCION DORREGO B  SAN CAYETANO","2980","102","2980"
-"103 Naza-UNC-liceo","1","Nazareno-UNC-por Julian Barraquero-Liceo Agricola","2047","103","2047"
-"103 NAZA-UNC-L.AGRI","0","NAZARENO-UNC-JULIAN BARRAQUERO-LICEO AGRICOLA","2048","103","2048"
-"103 NAZ-UNC-JBJUS-LI","1","NULL","2049","103","2049"
-"103 NAZ-UNC-JBJUS-LI","0","NULL","2050","103","2050"
-"103 NA-QI-UNI-UNC-LI","1","NULL","2051","103","2051"
-"103 NA-QI-UNI-UNC-LI","0","NULL","2052","103","2052"
-"103 NAZ-S/UNC X BARR","1","NULL","2053","103","2053"
-"103 NAZ-S/UNC X BARR","0","NULL","2054","103","2054"
-"103 NA-S/UNC X JBJUS","1","NULL","2055","103","2055"
-"103 NA-S/UNC X JBJUS","0","NULL","2056","103","2056"
-"103 NA-QUI-DAD S/UNC","1","NULL","2057","103","2057"
-"103 NA-QUI-DAD.S/UNC","0","NULL","2058","103","2058"
-"103 NA-QUI-UNC S/DAD","0","NULL","3133","103","3133"
-"103 NA-QUI-UNC S/DAD","1","NULL","3134","103","3134"
-"103 NA-UNC X BARR-LI","1","NAZ-UNCXBARRAQ-LICEO","2061","103","2061"
-"103 NA-UNC X BARR-LI","0","NAZ-UNCXBARRAQ-LICEO","2062","103","2062"
-"103 NA-UNCxJBJ-LI SC","1","NAZARENO-UNC POR JUAN B JUSTO-LICEO AGRICOLA AP. SAN CAYETANO","2063","103","2063"
-"103 NA-UNCxJBJ-LI.SC","0","NAZARENO-UNC POR JUAN B JUSTO-LICEO AGRICOLA AP. SAN CAYETANO","2064","103","2064"
-"104 UNIMEV-BANC CG","1","NULL","2044","104","2044"
-"104 BANCAR CG UNIMEV","0","104 CON CASA DE GOBIERNO UNIMEV CONTROL","2901","104","2901"
-"104 UNIMEV BANC S CG","1","BARRIO UNIMEV","2067","104","2067"
-"104 UNIMEV-BANC-S/CG","0","BARRIO UNIMEV","2068","104","2068"
-"111 C.HIPICO-E.G.B.","1","111 C.HIPICO-E.G.B.","3023","111","3023"
-"111 FAV-UNC-H.CTRAL","0","111 C.HIPICO-E.G.B.","3026","111","3026"
-"111 C.HIP-EGB-B OLIV","1","111 C.HIP-EGB-B OLIV","3035","111","3035"
-"111 CTRO-LH-H.CTRAL","0","111 C.HIP-EGB-B OLIV","3037","111","3037"
-"111C HIPICO.OLIVARES","1","NULL","3024","111","3024"
-"111 CTRO-LH-xH.CTRAL","0","NULL","3034","111","3034"
-"114-115 SANID CHALL","1","NULL","2213","114","2213"
-"114-115 CHALLAO CTRO","0","NULL","2214","114","2214"
-"114SDAD.CHALL.S.ISID","1","Activar para fiesta Virgen de Lourdes","2556","114","2556"
-"114SDAD.CTRO","0","Activar para fiesta Virgen de Lourdes","2557","114","2557"
-"116-B.Matheu-UNC-Zoo","1","116-Bo.Matheu - UNC","2933","116","2933"
-"116-B.Mat.-UNC-Zoo","0","NULL","2954","116","2954"
-"116-B.Mat.-UNC-Zoo","1","116-Bo.Matheu - Zoo","2934","116","2934"
-"116-B.Mat.-UNC-Zoo","0","116-Bo.Matheu - Zoo","2955","116","2955"
-"121 B La Glo x R.P.","1","121 B La Glo x R.P.","2157","121","2157"
-"121 B La Gloria x RP","0","B  La Gloria por Rodriguez Peña","2158","121","2158"
-"121 9Jul-Als-C.IMPSA","1","NULL","2084","121","2084"
-"121 B LGLOR-9JUL-ALS","0","B La Gloria por 9 de julio-Alsina-Club Impsa","2163","121","2163"
-"122 B LA GLO-P.OLIVE","1","B  LA GLORIA POR PUENTE OLIVE","2169","122","2169"
-"122 B LA GLO-P.OLIVE","0","B  LA GLORIA POR PUENTE OLIVE","2171","122","2171"
-"123 B ANT. GC CTRO","1","BARRIO ANTARTIDA","2170","123","2170"
-"123 B ANT PLA G/CRUZ","0","123 BARRIO ANTARTIDA B  EL MIRADOR PLAZA G CRUZ ","2177","123","2177"
-"124 DIRECTO ACC SUR","1","124 DIRECTO  PÒR ACCESO SUR","2159","124","2159"
-"124 LA GLOR ACC SUR","0","124 LA GLORIA POR ACCESO SUR ","2160","124","2160"
-"124 B L.Glor-Dir-Cos","1","B  La Gloria -Directo por Costanera","2172","124","2172"
-"124 B L.Glo-Dir-Cost","0","B La Gloria Directo por Costanera","2173","124","2173"
-"125 B LA GLO V NUEVA","1","125 BARRIO LA GLORIA VILLA NUEVA HOSPITAL NOTTI","2183","125","2183"
-"125 V NUE LA GLORIA","0","125 VILLA NUEVA HOSPITAL NOTTI PLAZA GODOY CRUZ B  LA GLORIA","2184","125","2184"
-"131 B VICT ACC.NOR","1","131 BARRIO VICTORIA POR ACCESO NORTE","2136","131","2136"
-"131B VICT ACC.NOR","0","131 BARRIO VICTORIA POR ACCESO NORTE","2137","131","2137"
-"131A BORB-CTRO X ACC","0","BORBOLLON DE CENTRO A ZONA POR ACCESO NORTE  No corresponde ida","2863","131","2863"
-"131A BORB X ACC","1","BORBOLLON POR ACCESO NORTE","2864","131","2864"
-"131A BORB X ACC","0","BORBOLLON POR ACCESO NORTE","2869","131","2869"
-"131B CUYAN X ACC N","1","131 CUYANITA POR ACCESO NORTE A BORBOLLON","2639","131","2639"
-"131B CUYAN X ACC N","0","131 CUYANITA POR ACCESO NORTE A BORBOLLON","2640","131","2640"
-"131B CUYANITA BORBO","1","131 CUYANITA POR CALLE MAIPÚ A BORBOLLON","2635","131","2635"
-"131B CUYANITA BORBO","0","131 CUYANITA POR CALLE MAIPÚ A BORBOLLON","2636","131","2636"
-"132 B VIC PZA LS HS","1","BARRIO VICTORIA PLAZA LAS HERAS ","2537","132","2537"
-"132 B VIC PZA LS HS","0","LAS HERAS CALLE MAIPU EL BORBOLLON","2538","132","2538"
-"133A B VICT X MAIPU","1","133 B VICTORIA X MAIPU","2138","133","2138"
-"133A B VICT X MAIPU","0","NULL","2144","133","2144"
-"133A B VICT C/GOB","1","133A B VICTORIA X MAIPU C/GOB","2146","133","2146"
-"133A B VIC X MPU C.G","0","NULL","2165","133","2165"
-"133A B VICT X ZAPATA","1","133A B VICTORIA POR CALLE ZAPATA","2166","133","2166"
-"133A B VIC. X ZAPATA","0","133A B VICTORIA X CALLE ZAPATA","2168","133","2168"
-"133B BORBO X C MAIPU","1","BORBOLLON POR CALLE MAIPU","2870","133","2870"
-"133B BORB X C MAIPU","0","BORBOLLON POR CALLE MAIPÚ","2871","133","2871"
-"133B BORB X MAIPU CG","1","NULL","2957","133","2957"
-"133B BORB X MAIPU CG","0","NULL","2958","133","2958"
-"133B BORB MPU CUY","1","133B BORBOLLON POR CALLE MAIPÚ A CUYANITA","2681","133","2681"
-"133B BORB A CUY","0","133B BORBOLLON POR CALLE MAIPÚ A CUYANITA","2682","133","2682"
-"133C ALG CTRO MPU V","1","133C ALGARROBAL-CENTRO-CALLE MAIPU-B  VICTORIA","2566","133","2566"
-"133C ALG CTRO MPO V","0","ALGARROBAL-CENTRO-CALLE MAIPU-B  VICTORIA","2568","133","2568"
-"133D VIC CEN MPU AL","1","B VICTORIA-CENTRO POR C. MAIPÚ-ALGARROBAL DE ABAJO","2536","133","2536"
-"133D VI CTRO MPU ALG","0","B VICTORIA-CENTRO-CENTRO MAIPÚ-ALGARROBAL DE ABAJO","2539","133","2539"
-"133D VIC ALG ZAPATA","1","NULL","2377","133","2377"
-"133D VIC ALG ZAP","0","133 B  Victoria al Algarrobal Por Zapata","2433","133","2433"
-"133C ALG ABA VICT CG","1","133 ALGARROBAL ABAJO B VICTORIA CASA GOBIERNO X MAIPU","2330","133","2330"
-"133C ALG VIC CG MPU","0","NULL","2371","133","2371"
-"133E BORBOLL.ZAPATA","1","133E BORBOLLON POR CALLE ZAPATA","2311","133","2311"
-"133E BORBO X ZAPATA","0","NULL","2318","133","2318"
-"133D VIC LA PEGA","1","133D B  VICTORIA CENTRO","2200","133","2200"
-"133D CENT ALG PEGA","0","133D CENTRO ALGARROBAL LA PEGA CONTROL ","2201","133","2201"
-"133C ALG PEGA CTRO ","1","NULL","2198","133","2198"
-"133C ALG PEGA CTRO","0","AGARROBAL ABAJO-LA PEGA-CENTRO B  VICTORIA-CONTROL","2262","133","2262"
-"151-MPU-MZA LIN/TERR","1","151-MAIPU-MENDOZA POR LINEA VUELTA POR TERRADA","3132","151","3132"
-"151-MZA-MAIPU TERR","0","NULL","3155","151","3155"
-"151 MPU PTE OLIV MZA","1","MAIPU PUENTE OLIVE MENDOZA ","1615","151","1615"
-"151 MZA PTE OLI MPU","0","MENDOZA PUERNTE OLIVE MAIPÚ","1617","151","1617"
-"151-PTE OLIVE C GOB","1","MAIPÚ PTE OLIVE CON C/ GOBIERNO MENDOZA","1623","151","1623"
-"151-MZA P OLIVE MPU","0","MENDOZA PUENTE OLIVE MAIPÚ","1624","151","1624"
-"151 ESCOL VIEYTES","1","ESCOLAR VIEYTES","1974","151","1974"
-"151 ESCOL VIEYTES","0","ESCOLAR VIEYTES","2975","151","2975"
-"ESC.VIRG CAR DE CUYO","1","ESCUELA VIRGEN DEL CARMEN DE CUYO 1/2 DIA","3139","151","3139"
-"ESC.VIRG CARM CUYO","0","NULL","3154","151","3154"
-"ESC.VIEYTES TARDE","1","ESCOLAR VIEYTES DE TARDE","3094","151","3094"
-"ESC IVCC TARDE","0","NULL","3156","151","3156"
-"151 ESCOL IVCC ","1","ESCOLAR IVCC TARDE","1978","151","1978"
-"151 ESCOL IVCC ","0","ESCOLAR IVCC VUELTA","2978","151","2978"
-"ESCOLAR VIEYTES","1","NULL","3069","151","3069"
-"151-MPU BDO PTE OL","1","MPÚ BOEDO PTE OLIVE MDZ","1625","151","1625"
-"151-MZA PTE O BDO MP","0","MENDOZA POR PUENTE OLIVE BOEDO MAIPÚ","1626","151","1626"
-"152MZA-AC S-TERR-MPU","0","RECORRIDO 152 -MAIPU POR TERRADA-ACCESO SUR ","1620","152","1620"
-"152MPU MZA TER ACC S","1","152 MAIPÚ MENDOZA TERRADA POR ACCESO SUR","3051","152","3051"
-"153 MAIPU-MZA x MAZA","1","Maipú - Mendoza  por Maza ","1703","153","1703"
-"153 MZA-MAIPU x MAZA","0","Mendoza Maipú por Maza ","1704","153","1704"
-"153 MPU-MZA-CGOB-MAZ","1","NULL","1936","153","1936"
-"153 MAIPU-MZA-MAZA","0","NULL","1937","153","1937"
-"155 MPU MZA EXP.MAZA","1","NULL","1939","155","1939"
-"155 MZA-MPU EXP.MAZA","0","NULL","1940","155","1940"
-"161-MAIP-EXP.URQ-MZA","1","161- MAIPU EXPRESO URQUIZA-MENDOZA","1610","161","1610"
-"161-MZA-EXP.URQ-MAIP","0","161- MAIPU-EXPRESO URQUIZA-MENDOZA","1611","161","1611"
-"161 MPU-EXP.STEA-MZA","1","161-MAIPU-EXPRESO-SARRATEA-MENDOZA","1613","161","1613"
-"161-MZ-EXP.STEA-MAIP","0","161-MAIPU-EXPRESO SARRATEA-MENDOZA","1614","161","1614"
-"162 MAIP H ITAL MZA","1","162 LINEA POR HSPITAL ITALIANO MENDOZA ","1675","162","1675"
-"162A MENDOZA MAIPU ","0","MENDOZA POR LINEA MAIPU","1676","162","1676"
-"162-T.SOSA-HOSP.ITAL","1","RECORRIDO 162 BARRIO TROPERO SOSA - HOSPITAL ITALIANO.","1621","162","1621"
-"162A-H.ITAL.B.T.SOSA","0","RECORRIDO 162 BARRIO TROPERO SOSA- HOSPITAL ITALIANO","1622","162","1622"
-"162-MAL T SOSA MZA","1","BARRIO MALCAYAE TROPERO SOSA MENDOZA","1678","162","1678"
-"162C-MZA-TROP.S-MAL","0","Recorrido 162- Malcayanes -Tropero Sosa","1680","162","1680"
-"162-C.GOB-REF.TERR","1","CASA DE GOBIERNO-REFUERZO TERRADA","1632","162","1632"
-"162-REF.TERR-C.GOB.","0","CASA DE GOBIERNO -REFUERZO TERRADA","1633","162","1633"
-"162-MPU-MZA-C.GOB","1","162-POR CASA DE GOBIERNO","1641","162","1641"
-"162B MENDOZA MAIPU","0","NULL","1648","162","1648"
-"162 PESCARA H IT MZA","1","162B LINEA POR PESCARA HOSPITAL ITALIANO MENDOZA","1630","162","1630"
-"162B PESCARA MAIPU","0","162 PESCARA MAIPÚ ","1631","162","1631"
-"162-BOEDO MAIPU","0","NULL","3211","162","3211"
-"162 M Y T SOSA MZA","1","162 MALCAYAE Y TROPERO SOSA MENDOZA","1684","162","1684"
-"162C MZA MAL T.S.MPU","0","162 MENDOZA BARRIO MALCAYAE TROPERO SOSA MAIPÚ","1685","162","1685"
-"162C Ref.CG C Rioja","1","162 LINEA POR HSPITAL ITALIANO MENDOZA ","3212","162","3212"
-"162C Ref.CG C Rioja","0","MENDOZA POR LINEA MAIPU","3213","162","3213"
-"162 BOEDO C.GOB MZA","1","162 POR BOEDO C/ CASA DE GOBIERNO MENDOZA  codigo redbus 128","1628","162","1628"
-"162 BOEDO C-GOB MPU","0","162 POR BOEDO  CON CASA DE GOBIERNO MAIPÚ  codigo redbus 128","1629","162","1629"
-"163 MAIPU-MZA P.NAZ","1","NULL","1647","163","1647"
-"163 MZA-MAIPU X NAZ","0","Mendoza-Maipú por Nazareno","1696","163","1696"
-"163-NAZARENO-CENTRO","1","RECORRIDO DESDE EL B NAZARENO AL CENTRO","1955","163","1955"
-"163 NAZARENO-VUELTA","0","RECORRIDO 163 NAZARENO DESDE EL CENTRO AL B  NAZARENO","1959","163","1959"
-"ESC COMERCIO COQUIM","1","NULL","3257","165","3257"
-"ESC COMERCIO S EDUAR","1","NULL","3258","165","3258"
-"165 LOC COQ MPU","1","165 LOCAL COQUIMBITO MAIPU","1686","165","1686"
-"165 MPU COQUIMBITO","0","165 MAIPU COQUIMBITO ","1687","165","1687"
-"ESC.GABRIELLI(maña)","1","ESCUELA GABRIELLI CORTO DE MAÑANA","1960","165","1960"
-"ESC.GABRIELLI","0","NULL","3062","165","3062"
-"ESC GABRIELLI CORTO","1","NULL","3260","165","3260"
-"165ES Esc. Gabriell","0","NULL","1973","165","1973"
-"LOCAL ESC.GABR LAR","1","LOCAL ESCULA GABRIELLI LARGO ","2972","165","2972"
-"ESCOLAR GABRIELI","1","NULL","1963","165","1963"
-"165 coq. san eduardo","1","165 COQUIMBITO MAIPÚ BARRIO SAN EDUARDO","1691","165","1691"
-"LOCAL COQUIM LUZUR","0","LOCAL COQUIMBITO LUZURIAGA","1694","165","1694"
-"166 UTMA S CAY P.VA","1","UTMA-SAN CAYETANO POR REDRO VARGAS","1964","166","1964"
-"166 UTMA-S.CAY-P.VAR","0","UTMA-SAN CAYETANO POR P. VARGAS","2910","166","2910"
-"166 UTMA-S.CAY-LAMA","1","UTMA-SAN CAYETANO POR LAMADRID","1966","166","1966"
-"166 UTMA-S.CAY-LAMA","0","UTMA-SAN CAYETANO POR LAMADRID","2909","166","2909"
-"163 UTMA ANTAR","1","163 UTMA ANTARTIDA ","1968","166","1968"
-"166 B ANTA-CTRO-DORR","0","BARRIO ANTARTIDA CENTRO POR DORREGO","2912","166","2912"
-"166 NAZ-CG X DORR","1","NAZARENO CON CASA DE GOBIERNO POR DORREGO","2913","166","2913"
-"166 NAZAR CG XDORR","0","NULL","2966","166","2966"
-"171 MPU.COQ.R.CR.MZA","1","Maipú - Coquimbito - Rodeo de la Cruz - Mendoza","1906","171","1906"
-"171 MPU.COQ.R.CRZ.MZ","1","Maipú - Coquimbito - Rodeo de la Cruz - Mendoza","1909","171","1909"
-"171 Mpu.R.Cruz-Mza","1","Maipú - Rodeo de la Cruz - Mendoza","1956","171","1956"
-"171 Maipu.R.Cruz-Mdz","1","Maipu - Rodeo de la Cruz - Mendoza","1985","171","1985"
-"171 V.VIÑ.GUTIERR.LC","1","171 V.VIÑEDO Z.ALCOHOLERA GUTIERREZ","2637","171","2637"
-"171 Z.ALCOH.GUT.MPU","0","171 V.VIÑEDO Z.ALCOHOLERA GUTIERREZ","2641","171","2641"
-"171 MPU.RPEÑA.MDZ","1","Maipú - Rodriguez Peña - Mendoza","2107","171","2107"
-"171 R.CRUZ GUT.MAIPU","0","171 V.NUEVA R.CRUZ GUTIERREZ","2620","171","2620"
-"171 Maipú-R.Peña-Mdz","1","Maipú - Rodriguez Peña - Mendoza","2118","171","2118"
-"171 Mdz-R.Cruz-MPU","0","Mendoza - Rodeo de la Cruz - Maipú","2119","171","2119"
-"171 R.CRUZ V.VIÑEDO","0","171 V.VIÑDO V.NUEVA R.CRUZ","2615","171","2615"
-"171 MAIPÚ.R.CRUZ.MDZ","1","171V.NUEVA R.CRUZ X GUTIERREZ","2959","171","2959"
-"171 R.CRUZ MZA","1","171 V.VIÑEDO R.CRUZ V.NUEVA MZA","2616","171","2616"
-"171 RCRUZ V.VIÑ.GUT","0","171 V.VIÑEDO V.NUEVA R.CRUZ GUTIRREZ ","2617","171","2617"
-"171 R.CRUZ V.NUV.MZA","1","171 V.VIÑEDO R.CRUZ MZA R.CRUZ MAIPU","2618","171","2618"
-"171 R.CRUZ GUT.MAIPU","0","171 V.NUEVA R.CRUZ GUTIERREZ","2619","171","2619"
-"171 RCRUZ V.NUV.MZ","1","171 V.VIÑEDO V.NUEVA R.CRUZ MZA","2621","171","2621"
-"171 MPU.VIÑ.RCRUZ.MZ","1","Maipú - Viejo Viñedo - Rodeo de la Cruz - Mendoza","2224","171","2224"
-"171 MZ.RCRUZ.VVIÑEDO","0","Mendoza - Rodeo de la Cruz - Viejo Viñedo","2249","171","2249"
-"171 MPU.VIÑ.RCRUZ.MZ","1","NULL","2225","171","2225"
-"171 MPU.VIÑ.RCRUZ.MZ","1","Maipú - Viejo Viñedo - Rodeo de la Cruz - Mendoza","2226","171","2226"
-"171 MPU.VIÑ.RCRUZ.MZ","1","Maipú - Viejo Viñedo - Rodeo de la Cruz - Mendoza","2227","171","2227"
-"171 MZ.RCRUZ.MPU","0","Mendoza - Rodeo de la Cruz - Maipú","2544","171","2544"
-"171 MPU.VIÑ.RCRUZ.MZ","1","Maipú - Viejo Viñedo - Rodeo de la Cruz - Mendoza","2228","171","2228"
-"171 MZ.RCRUZ.VIÑ.MPU","0","Mendoza - Rodeo de la Cruz - Viejo Viñedo - Maipú","2275","171","2275"
-"171 V.VIÑ.RCRUZ MZ","1","171 V.VIÑEDO V.NUEVA R.CRUZ GUTIERREZ","2626","171","2626"
-"171 MZ V.NVA.RCRUZ","1","171 V.VIÑEDO V.NUEVA R.CRUZ GUTIERREZ","2631","171","2631"
-"171 R.CRUZ GUTIERR.","0","171 V.NUEVA R.CRUZ GUTIERREZ","2634","171","2634"
-"172 Maipu-R.Cruz-Mdz","1","Maipu - Rodeo de la Cruz - Mendoza","2016","172","2016"
-"172 Mpu-R.Cruz-Mdz","1","Maipú - Rodeo de la Cruz - Mendoza","2019","172","2019"
-"172V.NUEV.R.CRUZ MZA","1","172 MAIPU.R.CRUZ RUTTINI ORTEGA 173","2894","172","2894"
-"172Maipú-R.Cruz-Mdz","1","Maipú - Rodeo de la Cruz - Mendoza","2024","172","2024"
-"172Mdz-R.Cruz-Maipú","0","Mendoza - Rodeo de la Cruz - Maipú","2043","172","2043"
-"172- MPU.R.PEÑA.MDZ","1","Maipú - Rodriguez Peña - Mendoza","2113","172","2113"
-"172 MDZ.R.CRUZ.MPU","0","Mendoza - Rodeo de la Cruz - Maipú","2116","172","2116"
-"172 MPU R.PEÑA.R.MDZ","1","Maipú - Rodriguez Peña - Mendoza","2141","172","2141"
-"172MDZ.R.CRUZ.MAIPÚ","0","Mendoza - Rodeo de la Cruz - Maipú","2142","172","2142"
-"172 MDZ.R.CRUZ.MPÚ","0","Mendoza - Rodeo de la Cruz - Maipú","2162","172","2162"
-"172 MAIPÚ.R.PEÑA.MDZ","1","Maipú - Rodriguez Peña - Mendoza","2167","172","2167"
-"172 MDZ.R.CRUZ.MPÚ","0","Mendoza - Rodeo de la Cruz - Maipú","2178","172","2178"
-"172 MAIPÚ.R.PEÑA.MDZ","1","Miapú - Rodriguez Peña - Mendoza","2179","172","2179"
-"172 R.CRUZ.MDZ","1","Rodeo de la Cruz - Mendoza","2434","172","2434"
-"MDZ.R.CRUZ.MAIPÚ","0","Mendoza - Rodeo de la Cruz - Maipú","2532","172","2532"
-"172 COQ.R.CRUZ MZA","1","172 V.NUEVA R.CRUZ COQ.T.SOSA","2604","172","2604"
-"172 R.CRUZ MZA","1","172 R.CRUZ V.NUEVA MZA","2633","172","2633"
-"172CENS-MPU R.C.MZA","1","172 ESC.CENS MAIPU RODEO DE LA CRUZ COQUIMBITO 173","3307","172","3307"
-"173 MDZ.R.PEÑA.MAIPÚ","0","Mendoza - Rodriguez Peña - Maipú","2319","173","2319"
-"173MZ GCR.V.VIÑ Mpu.","0","Mendoza - G.Cruz - R.Peña - Coquimbito - V.Viñedo - Maipú","1911","173","1911"
-"173 R.CRUZ.MDZ","1","Rodeo de la Cruz- Mza.","2034","173","2034"
-"173 R.Cruz-Mdz","1","Rodeo de la Cruz - Mendoza","1957","173","1957"
-"173Mz-Rutt.Ort-Mpu","0","Mendoza - Ruttini - Ortega - Maipú","1958","173","1958"
-"MAIPÚ.R.CRUZ.MDZ","1","Maipú - Rodeo de la Cruz - Mendoza","2872","173","2872"
-"173B MZ.Z.ALC.ORT","0","Mendoza - Zona Alcoholera - Ortega","2873","173","2873"
-"173 MZ GCRUZ.COQ.MPU","0","Mendoza - Plaza Godoy Cruz - R.Peña - Coquimbito - Maipú ","2018","173","2018"
-"173 R.Cruz-Mdz","1","Rodeo de la Cruz - Mendoza","2033","173","2033"
-"173 R.Cruz-Mdz ","1","Rodeo de la Cruz - Mendoza","2020","173","2020"
-"173 Mz-Rutt.Ort-MPU","0","Mendoza - Ruttini - Ortega - Maipú","2022","173","2022"
-"173 R.de la Cruz-Mdz","1","Rodeo de la Cruz - Mendoza ","2021","173","2021"
-"173 Mdz.Z.Alcoho.Ort","0","Mendoza - Zona Alcoholera - Ortega","2023","173","2023"
-"173 MAIPÚ.R.PEÑA.MDZ","1","Maipú - Rodriguez Peña - Mendoza","2099","173","2099"
-"173 MAIPÚ.R.PEÑA.MDZ","1","Maipú - Rodriguez Peña - Mendoza","2115","173","2115"
-"173 MPU.ORT.RPEÑA.MZ","1","Maipú - Ortega - Rodriguez Peña - Mendoza","2127","173","2127"
-"173 MPU.ORT.RPEÑA.MZ","1","Maipú - Ortega - Rodriguez Peña - Mendoza","2140","173","2140"
-"173 MPÚ.Z.ALCOHO.MZ","1","Maipú - Zona Alcoholera - Rodriguez Peña - Mendoza","2182","173","2182"
-"173 EXP.MPU.RPEÑA MZ","1","Expreso  Maipú - R.Peña Mza ","1709","173","1709"
-"173EXP.MZA MPU RPEÑA","0","Expreso Rodríguez Peña Mendoza Maipú","1710","173","1710"
-"173 EXP.NECH.MPU MZA","1","Expreso  Maipú   Ortega Necochea Rodríguez Peña Mendoza","1711","173","1711"
-"173 EXP.NEC.MZA MPU","0","Expreso  Ortega Necochea Rodríguez Peña Mendoza Maipú","1712","173","1712"
-"173 Z.IND.GCRUZ V.V.","1","173 ZONA IND.PL.G.CRUZ COQ.T.SOSA V.VIÑ.","2622","173","2622"
-"173 R.PEÑA.V.V.COQ","0","173 Z.IND.PL.G.CRUZ.COQ.T.SOSA V.VIÑEDO","2623","173","2623"
-"173 R.CRUZ.MDZ","1","Rodeo de la Cruz - Mendoza","2344","173","2344"
-"173 MZ.RPEÑA.VVIÑEDO","0","Mendoza - Rodriguez Peña - Viejo Viñedo","2369","173","2369"
-"173 MZA R.PEÑA ORT.","1","173 ZONA IND.PL.GCRUZ ORT.V.VIÑEDO","2605","173","2605"
-"173 RPEÑA V.VIÑ.ORT.","0","173 ZONA IND.PLA.G.CRUZ.COQ.T.SOSA .V.VIÑEDO","2606","173","2606"
-"173 Z.IND.GCRUZ COQ","1","173 ZONA IND.PL.G.CRUZ COQ.T.SOSA","2627","173","2627"
-"173 R.PEÑA COQ.TSOSA","0","173 ZONA IND. PL.G.CRUZ COQ.T.SOA","2628","173","2628"
-"173 COQ.R.PEÑA MZA","1","173 MAIPU R.PEÑA MZA R.CRUZ V.VIÑEDO 171","2630","173","2630"
-"173MZA GC.B.MOR.MPU","0","MAIPU MENDOZA POR B.MORON - PTE OLIVE - PL. GODOY CRUZ ","1714","173","1714"
-"173MPU.MZA MOR.GC.MZ","1","MAIPU MENDOZA POR B.MORON - PTE OLIVE - PL. GODOY CRUZ  ","3350","173","3350"
-"173EXP.MPU.ACCEST.MZ","1","Expreso - Maipú - B° 25 De Mayo - Acceso Este - Mendoza","3348","173","3348"
-"173 MZA ACCEST.MPU","0","Expreso Mendoza - Acceso Este - B° 25 De Mayo - Maipú","3349","173","3349"
-"173 R.CRUZ MZA","1","172 ESC.CENS MAIPU RODEO DE LA CRUZ COQUIMBITO 173","3308","173","3308"
-"173 R.PEÑA COQ.MPU","0","172 ESC.CENS 172 MAIPU RODEO DE LA CRUZ COQUIMBITO 173","3309","173","3309"
-"173 R.PEÑA COQ.MPU","0","172 ESC.CENS 172 MAIPU RODEO DE LA CRUZ COQUIMBITO 173","3310","173","3310"
-"174TSOSA MZA P.GCRUZ","1","B° Amupe -  Tropero Sosa Mendoza por Plaza Godoy Cruz","1713","174","1713"
-"174MZA P.GCRUZ TSOSA","0","Mendoza por Plaza Godoy Cruz Maipú - Tropero Sosa - B° Amupe","3351","174","3351"
-"174 T.SOSA MZA COST.","1","B° Amupe - Tropero Sosa - Mendoza por Costanera","2185","174","2185"
-"174MZA P.GCRUZ TSOSA","0","Mendoza Por Pl.Godoy Cruz - Tropero Sosa B° Amupe","2186","174","2186"
-"174R.ESC.MZA P.GCRUZ","1","B° Remedios de Escalada T.Sosa Maipú Mza por Plaza Godoy Cruz","2194","174","2194"
-"174MZA TSOSA P.GCRUZ","0","Mza por Plaza Godoy Cruz Maipú T.Sosa ","2195","174","2195"
-"174 C.BARRO MZ GCRUZ","1","Castro Barros - Tropero Sosa Mza por Plaza de Godoy Cruz","2196","174","2196"
-"174 MZ P.GCRUZ TSOSA","0","Mza por Plaza de Godoy Cruz Tropero Sosa ","2197","174","2197"
-"174 CBARROS MZA COST","1","Castro Barros - Tropero Sosa Mza por Costanera","2220","174","2220"
-"174 MZ P.GCRUZ TSOSA","0","Mza Por Pl.Godoy Cruz Tropero Sosa","2222","174","2222"
-"174T.S.MALC.MZ GCRUZ","1","B° Malcayae - Tropero Sosa Mendoza por Plaza Godoy Cruz","2306","174","2306"
-"174MZ GCRUZ MALC.T.S","0","Mendoza por Plaza Godoy Cruz B° Malcayae  Tropero Sosa ","2308","174","2308"
-"174 TSOSA Z.IND.MZA","1","B° Tropero Sosa - Zona Industrial","1725","174","1725"
-"1743ESQ.T.S.MALC.MZA","1","3 ESQUINAS TROPERO SOSA MALCAYAE MENDOZA POR PLAZA G. CRUZ","1756","174","1756"
-"174MZA G.CRUZ T.SOSA","0","MENDOZA POR PLAZA G.CRUZ MALCAYAES T.SOSA","2474","174","2474"
-"174MZA GCRUZ T.SOSA","1","174 B°AMUPE-T.SOSA MZA PL.G.CRUZ 3ESQ.","2477","174","2477"
-"174MZA GCRUZ MPU T.S","0","MENDOZA POR PLAZA G. CRUZ MAIPU TROPERO SOSA B° AMUPE","2519","174","2519"
-"174 TSOSA MPU.GC.MZ","1","B° AMUPE TROPERO SOSA MENDOZA POR P. GODOY CRUZ 3 ESQUINAS","2520","174","2520"
-"174MZ MPU.TSOSA.3ESQ","0","MENDOZA POR P. GODOY CRUZ MAIPU TROPERO SOSA 3 ESQUINAS","2521","174","2521"
-"174 TSOS.BJAZM.GC.MZ","1","B° Amupe -Tropero Sosa Mza por Pl. Godoy Cruz -(APERTURA LOS JAZMINES)","1765","174","1765"
-"174MZA MPU.JAZM.TSOS","0","Mza por Pl. Godoy Cruz - Maipú - B°Los Jazmines -Tropero Sosa - B° Amupe","2820","174","2820"
-"174CHACH.MPU.MZA","0","Chachingo por Urquiza Paraíso Ruta 60 Malcayae - Maipú - R. Peña - Mendoza","1839","174","1839"
-"175 MAIPU-LUJAN","1","Maipu - Lujan","1769","175","1769"
-"175 LUJAN-MAIPU","0","LUJAN MAIPU","1770","175","1770"
-"175 MPU LUJAN SUP ","1","Maipú - Lujan - Maipú (Superiora de ida)","1771","175","1771"
-"175 LUJAN MAIPU","0","LUJAN MAIPU","1772","175","1772"
-"175 LUJAN MAIPU MZA","0","LUJAN MAIPU MZA","1774","175","1774"
-"175 MZA MAIP LUJ","1","NULL","2696","175","2696"
-"175 MZA MAIP.LUJ.SUP","1","Mendoza - Lujan por Maipú (entra a la Superiora de ida y vuelta)","2876","175","2876"
-"175 LUJ.MAIP.SUP MZA","0","Lujan por Maipú Mendoza - (entra a la Superiora de ida  y vuelta) ","2877","175","2877"
-"175 MAIP.REC.LUJAN","1","Maipú - Recoaro - Luján","1898","175","1898"
-"175 LUJAN REC.MAIPU","0","Luján - Recoaro - Maipú ","2773","175","2773"
-"181MZA MPU.PMOL.CAGR","1","Mendoza - Pedro Molina - C. Agrarias(Superiora de vuelta) ","1777","181","1777"
-"181C.AGR.SUP.MPU.MZA","0","Mendoza - Pedro Molina - C. Agrarias(Superiora de vuelta) ","1778","181","1778"
-"181MZA MPU.SUP.CAGR","1","Mendoza - Pedro Molina - C. Agrarias(Superiora de ida ) - Maipú","1779","181","1779"
-"181C.AGR.SUP.MPU.MZA","0","C. Agrarias - Pedro Molina - Maipú Mendoza  ","1780","181","1780"
-"181MZA MPU.SUP.CAGR.","1","Mendoza - Pedro Molina - C. Agrarias(Superiora de ida ) - Maipú ","1781","181","1781"
-"181C.AGR.P.MOL.MPU","0","C. Agrarias - Pedro Molina - Maipú ","1782","181","1782"
-"181MZA.MPU.SUP.C.AGR","1","Mendoza - Pedro Molina - C. Agrarias(Superiora de ida y de vuelta )","1783","181","1783"
-"181C.AGR.SUP.MPU.MZA","0","C. Agrarias - Pedro Molina - (Superiora) Maipú Mendoza","1784","181","1784"
-"181 MPU.SUP.C.AGR","1"," Maipú Pedro Molina - C. Agrarias(Superiora)","1785","181","1785"
-"181C.AGR.SUP.MPU.MZA","0","C. Agrarias - Pedro Molina (Superiora) - Maipú - Mendoza ","1786","181","1786"
-"181 MZA MAIP.P.MOL.","1","181MENDOZA PEDRO MOLINA C.AGRARIAS SUP.IDA ","3162","181","3162"
-"181MZA MPUSUP.C.AGR.","1","181 MZA P.MOLINA C.AGRARIAS SUPERIORA DE IDA","3164","181","3164"
-"181P.MOL.MPU MZA","0","181 MZA P.MOLINA C.AGRARIS SUPERIORA IDA","3167","181","3167"
-"MAIPU MENDOZA ","1","MAIPU MENDOZA (P.MOLINA C.AGRARIAS)","3305","181","3305"
-"182 V.CAST.MAIPU","0"," Maipú B° Canciller - Videla Castillo - Maipú (LOCAL)","1741","182","1741"
-"182Mpu.Ba.Canc.VCast","1","Maipú Ba. Canciller - Videla Castillo - Maipu (LOCAL)","2891","182","2891"
-"182 Mpu.Canc.V.C.Esc","1"," Maipú B° Canciller - Videla Castillo - Maipú (LOCAL) hasta la Escuela Bernardo Ortiz","2890","182","2890"
-"182 V.CAST.MAIPU","0","Maipú B° Canciller - Videla Castillo - Maipú (LOCAL) hasta la Escuela Bernardo Orti","2892","182","2892"
-"182MPU.V.CAST.CANC.","1","Maipú Videla Castillo B° Canciller- Maipú (LOCAL) ","1744","182","1744"
-"182V.CASTILLO MAIPU","0","Maipú Videla Castillo B° Canciller- Maipú (LOCAL)","2895","182","2895"
-"182MPU.V.C.CANC.ESC.","1","Maipú Videla Castillo B° Canciller- Maipú (LOCAL) hasta la Escuela Bernardo Ortiz","1746","182","1746"
-"182V.CASTILLO MAIPU","0","Maipú Videla Castillo B° Canciller- Maipú (LOCAL) hasta la Escuela Bernardo Ortiz","1747","182","1747"
-"182MAIPU V.CAST.MZA","1","182 MAIPU VIDELA CASTILLO MZA","3092","182","3092"
-"182MAIPU V.CAST.MZA","0","182 MAIPU VIDELA CASTILLO MENDOZA","3093","182","3093"
-"182 3ESQ.SUP.MPU.MZA","0","Tres Esquinas (Superior) Maipú Mendoza","1791","182","1791"
-"182 MZA MPU 3ESQ.","1","182 MZA 3 ESQUINAS SUPERIORA DE VUELTA RIO MZA","3168","182","3168"
-"182 3ESQUINAS MAIPU","0","Tres Esquinas Maipú","1793","182","1793"
-"182MZA MPU SUP.3ESQ","1","182 MZA 3 ESQUINAS SUPERIORA DE IDA MAIPU","3171","182","3171"
-"182MAIPU 3 ESQUINAS","1","Maipú - 3 Esquinas (x P.Molina) ","1794","182","1794"
-"182 3ESQ.SUP.MPU.MZA","0","182 MAIPU 3 ESQUINAS X P.MOLINA (SUPERIORA DE VUELTA)REGRESA X CRUZ DE PIEDRA - MZA","3204","182","3204"
-"182 3ESQ.X P.MOL.MPU","0","Tres Esquinas por Pedro Molina - Maipú","1797","182","1797"
-"182MZA MPU SUP 3ESQ.","1","182 MZA TRES ESQUINAS POR PEDRO MOLINA (SUPERIORA DE IDA) MAIPU","3184","182","3184"
-"182 3ESQPM.SUPMPUMZA","0","Tres Esquinas por Pedro Molina (Superiora) Maipú Mendoza","1799","182","1799"
-"182 MZA 3ESQ.xP.MOL.","1","182 MENDOZA TRES EQUINAS POR P.MOLINA (SUPERIORA DE VTA) ","3185","182","3185"
-"182 MZA MPU 3ESQ.","1","182 MENDOZA TRES ESQUINAS X P.MOLINA","3190","182","3190"
-"182 3ESQ.P.M.MPUMZA","0","182 TRES ESQUINAS x P.MOLINA MENDOZA","3191","182","3191"
-"182 MPU 3ESQ.xP.MOL","1","Maipú - Tres Esquinas por Pedro Molina","1802","182","1802"
-"182 3ESQxP.M.MPU MZA","0","182 MAIPU TRES ESQUINAS POR P.MOLINA MZA","3193","182","3193"
-"182MZA MPU.SUP3ESQPM","1","182 MENDOZA TRES ESQUINAS POR P.MOLINA (SUPERIORA DE IDA Y VUELTA)","3196","182","3196"
-"182 3ESQPM.SUPMPUMZA","0","182 MENDOZA TRES ESQUINAS POR P.MOLINA (SUPERIORA DE IDA Y VUELTA)","3197","182","3197"
-"182MZA MPU3ESQ.xPM","1","182 MENDOZA - TRES ESQUINAS POR P.MOLINA HASTA RIO MZA","3199","182","3199"
-"182 3ESQ.MPU MZA","0","182 MENDOZA TRES ESQUINAS X P.MOLINA HASTA RIO MZA","3201","182","3201"
-"182 MZA MPU SUP REC.","1","182 MENDOZA RECOARO (SUPERIORA DE IDA)","3202","182","3202"
-"182 REC.MPU.MZA","0","182 MENDOZA RECOARO (SUPERIORA DE IDA)","3207","182","3207"
-"182 MZA MPU SUP.REC.","1","182 MENDOZA RECOARO (SUPERIORA DE IDA)- MAIPU","3209","182","3209"
-"182 RECOARO MAIPU","0","182 MENDOZA RECOARO (SUPERIORA DE IDA) - MAIPU","3210","182","3210"
-"182 REC.SUP.MPU MZA","0","182 MEDOZA RECOARO (SUPERIORA DE VUELTA)","3173","182","3173"
-"182 MZA MPU REC.","1","182 MENDOZA RECOARO (SUPERIORA DE IDA)","3235","182","3235"
-"182 MAIPU RECOARO","1","Maipú - Recoaro","1813","182","1813"
-"182 REC.SUP.MPU MZA","0","182 MAIPU RECOARO (SUPERIORA DE VTA) MENDOZA","3216","182","3216"
-"182 REC.SUP.MPU.MZA","1","182 RECOARO MENDOZA(SUPERIORA)","3217","182","3217"
-"182 MPU RECOARO","1","182 MAIPU RECOARO MENDOZA","3218","182","3218"
-"182 REC.MPU.MZA","0","182 MAIPU RECOARO - MENDOZA","3219","182","3219"
-"182MZAMPU SUP.C.P.  ","1","182 MENDOZA CRUZ DE PIEDRA(SUPERIORA DE IDA)MAIPU (OZAMIS Y V.ARANDA)","3220","182","3220"
-"182 C.PIEDRA MPU","0","182 MENDOZA CRUZ DE PIEDRA (SUPERIORA DE IDA)MAIPU (HASTA OZAMIS Y V.ARANDA)","3224","182","3224"
-"182MZA.MPU SUP.C.P.","1","182 MENDOZA CRUZ DE PIEDRA (SUPERIORA DE IDA)MAIPU (HASTA V.ARANDA Y MAZA","3225","182","3225"
-"182C.DE PIEDRA MPU","0","182 MENDOZA CRUZ DE PIEDRA (SUPERIORA DE IDA) MAIPU (HASTA V.ARANDA Y MAZA)","3227","182","3227"
-"182 MZA MPU SUP.C.P.","1","182 MENDOZA CRUZ DE PIEDRA (SUPERIORA IDA Y VUELTA)","3228","182","3228"
-"182 C.P.SUP.MPU MZA","0","182 MENDOZA CRUZ DE PIEDRA (SUPERIORA IDA Y VUELTA) ","3229","182","3229"
-"182 MZA MPU SUP.CH.","1","182 MENDOZA CHACHINGO POR RUSSELL (SUPERIORA IDA Y VUELTA)","3230","182","3230"
-"182CHRUSS.SUP.MPUMZA","0","182 MENDOZA CHACHINGO POR RUSSELL (SUPERIORA DE IDA Y VUELTA)","3231","182","3231"
-"182 MPU CHACH.","1","182 MAIPU CHACHINGO POR RUSSELL - MENDOZA","3232","182","3232"
-"182CH.RUSS.MPU MZA","0","182 MAIPU CHACHINGO POR RUSSELL MENDOZA","3234","182","3234"
-"182MZA MPU RUSS.CHA","1","182 MENDOZA CHACHINGO POR RUSSELL (SUPERIORA DE VUELTA)","3236","182","3236"
-"182CHRUSS.SUP.MPUMZA","0","182 MENDOZA CHACHINGO POR RUSSELL (SUPERIORA DE VUELTA )","3237","182","3237"
-"182 CHACH.RUSS.MAIPU","0","Chachingo por Russell - Maipú","1832","182","1832"
-"182MZA MPUSUP.RUSSCH","1","182 MENDOZA CHACHINGO POR RUSSELL (SUPERIORA DE IDA)- MAIPU","3238","182","3238"
-"182 MZA MAIPU","1","182 MENDOZA MAIPU (CHACHINGO)","3239","182","3239"
-"182MZA MPUCHACH.URQ.","1","182 MENDOZA CHACHINGO POR URQUIZA PARAISO POR RUTA 60 MENDOZA","3240","182","3240"
-"182CHACH.URQ.MPUMZA","0","182 MENDOZA CHACHINGO POR URQUIZA PARAISO RUTA 60 MENDOZA","3241","182","3241"
-"182CHACHINGO URQ.MPU","0","Chachingo por Urquiza Paraíso Ruta 60 - Maipú","1837","182","1837"
-"182MZAMPU CHACH.URQ.","1","182 MENDOZA CHACHINGO POR URQUIZA PARAISO RUTA 60 MAIPU","3242","182","3242"
-"182MAIPU CHACH.URQ.","1","Maipú - Chachingo por Urquiza","1838","182","1838"
-"182MZA MPUSUP3E.LUNL","1","182 MENDOZA LUNLUNTA POR EL BAJO (SUPERIORA IDA Y VUELTA)","3243","182","3243"
-"182LUNL.3E.SUPMPUMZA","0","182 MENDOZA LUNLUNTA POR EL BAJO (SUPERIORA IDA Y VUELTA)","3244","182","3244"
-"182MZA MAIP.SUP.LUNL","1","182 MENDOZA LUNLUNTA POR EL BAJO REGRESA POR EL ALTO (SUPERIORA DE IDA Y VUELTA)","3245","182","3245"
-"182LUNL.SUP.MAIP.MZA","0","182 MENDOZA LUNLUNTA POR EL BAJO REGRESA POR EL ALTO (SUPERIORA DE IDA Y VUELTA)","3246","182","3246"
-"182MZA MAIP.SUP.LUNL","1","182 MENDOZA LUNLUNTA POR EL BAJO REGRESA POR EL ALTO (SUPERIORA DE IDA) MAIPU","3248","182","3248"
-"182 LUNLUNTA MAIPU","0","182 MENDOZA LUNLUNTA POR EL BAJO REGRESA POR EL ALTO (SUPERIORA DE IDA) MAIPU","3249","182","3249"
-"182MZA MPU.SUP.LUNL.","1","182 MENDOZA LUNLUNTA POR EL ALTO REGRESA POR EL BAJO (SUPERIORA DE IDA)","3250","182","3250"
-"182 LUNL.MAIPU MZA","0","182 MENDOZA LUNLUNTA POR EL ALTO REGRESAPOR EL BAJO (SUPERIORA DE IDA)","3251","182","3251"
-"182MZA MAIP.SUP.LUNL","1","182 MENDOZA LUNLUNTA POR EL ALTO REGRESA POR EL BAJO (SUPERIORA DE IDA Y VUELTA)","3252","182","3252"
-"182LUNL.SUP.MAIP.MZA","0","182 MENDOZA LUNLUNTA POR EL ALTO REGRESA POR EL BAJO (SUPERIORA DE IDA Y VUELTA)","3253","182","3253"
-"182 MAIPU LUNLUNTA","1","182 MAIPU LUNLUNTA POR EL ALTO REGRESA POR EL BAJO (SUPERIORA DE VUELTA )MENDOZA","3254","182","3254"
-"182LUNL.SUP.MAIP.MZA","0","182 MAIPU LUNLUNTA POR EL ALTO REGRESA POR EL BAJO (SUPERIORA DE VUELTA)MENDOZA","3261","182","3261"
-"182 MZA MAIPU LUNL.","1","182 MENDOZA LUNLUNTA POR EL ALTO REGRESA POR EL BAJO","3263","182","3263"
-"182 LUNL.MAIPU MZA","0","182 MENDOZA LUNLUNTA POR EL ALTO REGRESA POR EL BAJO","3265","182","3265"
-"182MZA MPU.3ESQ.PMOL","1","Mendoza - Maipú - Tres Esquina por Pedro Molina","3289","182","3289"
-"182 3ESQ.PMOLINA MPU","0"," Tres Esquina por Pedro Molina Maipú","3290","182","3290"
-"182 MAIP.C.DE PIEDRA","1","Maipú - Cruz de Piedra hasta Videla Aranda y Maza","1884","182","1884"
-"182C.P.SUP.MPUMZA","0","Cruz de Piedra - (Superiora) Maipú -  Mza","3291","182","3291"
-"182 MAIPU CHACHINGO","1","Maipú - Chachingo por Russell ","3292","182","3292"
-"182CHRUSS.SUP.MPUMZA","0","Chachingo por Russell - Maipú - (Superiora) Mendoza","3293","182","3293"
-"182REC.LUNL.S.MPUMZA","0","Recoaro Lunlunta por el Bajo - Maipú(Superiora)- Mendoza","3295","182","3295"
-"182MZA MPU.S.3E.LUNL","1"," Mendoza - Maipú(Superiora) - Tres Esquinas por Pedro Molina - Lunlunta ","3296","182","3296"
-"182 LUNLUNTA MAIPU","0","Lunlunta Maipú","3297","182","3297"
-"182MZA MAIP.SUP.LUNL","1","Mendoza - Maipú(Superiora) - Lunlunta por el Bajo regresa por el Alto ","3300","182","3300"
-"182 LUNL.MAIPU MZA","0","Lunlunta - Maipú - Mendoza","3301","182","3301"
-"183MZA MPU.BARRANCAS","1"," Mendoza - Maipú - Barrancas por el Alto ida y Vuelta","1856","183","1856"
-"183 BARR.ALT.MPU.MZA","0","Barrancas por el Alto - Maipú - Mendoza","1857","183","1857"
-"183MZA MPU.SUP.BAR.A","1","183 MENDOZA BARRANCAS POR EL ALTO Y VUELTA","3268","183","3268"
-"183BARR.A.SUP.MPUMZA","0","183 MENDOZA BARRANCAS POR EL ALTO IDA Y VUELTA (SUPERIORA DE IDA)","3270","183","3270"
-"183MZA MAP.BARR.ALT","1","183 MENDOZA BARRANCAS POR EL ALTO IDA Y VUELTA (SUPERIORA DE VUELTA)","3271","183","3271"
-"183BARR.A.SUP.MPUMZA","0","183 MENDOZA BARRANCAS POR EL ALTO IDA Y VUELTA (SUPERIORA DE VUELTA)","3272","183","3272"
-"183MZA MAIP.BARR.ALT","1","183 MENDOZA BARRANCAS POR EL ALTO REGRESA POR EL CARRIL (SUPERIORA DE VUELTA)","3273","183","3273"
-"183BARR.C.SUP.MPUMZA","0","183 MENDOZA BARRANCAS POR EL ALTO REGRESA POR EL CARRIL (SUPERIORA DE VUELTA)","3275","183","3275"
-"183MAIPU BARR.CARRIL","1","Maipú - Barrancas por el carril ","1865","183","1865"
-"183BARR.ALT.MAIP.MZA","0","183 MAIPU BARRANCAS POR EL CARRIL REGRESA POR EL ALTO MENDOZA","3277","183","3277"
-"183MPU.R.60 BARR.ALT","1","Maipú - Ruta N° 60 - Barrancas por el alto","1867","183","1867"
-"183BARRC.R60 MPU.MZA","0","Barrancas por el carril - Ruta N° 60 - (Superiora)Maipú  Mendoza","3279","183","3279"
-"183MZA BARR.xURQ.ALT","1","Mendoza - Maipú - Barrancas por Urquiza por el Alto ","3280","183","3280"
-"183BARRxURQ.A.MPUMZA","0","Barrancas por Urquiza - por el Alto - Maipú - Mendoza","3283","183","3283"
-"183MPU BARR.URQ.CARR","1","Maipú - Barrancas por Urquiza por el Carril ","1872","183","1872"
-"183BARRxURQ.A.MPUMZA","0","Barrancas por Urquiza Regresa por el Alto - Maipú - Mendoza","3284","183","3284"
-"183BARR.URQ.CARR.MPU","0","Barrancas por Urquiza por el Carril - Maipú","1876","183","1876"
-"183MZA MPU.BAR.URQ.A","1","Mendoza - Maipú - Barrancas por Urquiza por el Alto ","3285","183","3285"
-"183BARR x CARRIL.MPU","0","Barrancas por el Carril - Russell - Maipú","1878","183","1878"
-"183MZA MPU.BARRURQ.A","1","Mendoza - Maipú - Barrancas por Urquiza por el Alto","3286","183","3286"
-"MAIPU MZA(BARR.)","1","NULL","2964","183","2964"
-"183MZA MPU.BAR.URQ.A","1","Mendoza - Maipú - Barrancas por Urquiza por el Alto","3287","183","3287"
-"183BARR.URQ.ALT.MPU","0","Barrancas por Urquiza por el Alto - Maipú","3288","183","3288"
-"183BARR.A.SUP.MPUMZA","0","Barrancas por el Alto - Maipú(Superiora) - Mendoza","3299","183","3299"
-"183MZA MPU.SUP.BARR","1","Mendoza - Maipú (Superiora) - Barranca por el Alto","3313","183","3313"
-"183MPU.BARR.URQ.CARR","1","183MPU.BARR.URQ.CARR","1894","183","1894"
-"183BARRxURQ.C.MPUMZA","0","183MPU.BARR.URQ.CARR","2911","183","2911"
-"183 MAIPU BARR. ALT","1","Maipú Barrancas por el alto","1900","183","1900"
-"183 BARR.ALT.MAIPU","0","183 MAIPÚ BARRANCAS MAIPÚ  ","3367","183","3367"
-"183MPU BARR.ESC.C.P.","1","183 MAIPU BARRANCAS MAIPU (ESC.CRUZ DE PIEDRA)","3311","183","3311"
-"183 BARRANCAS MAIPU","0","183 MAIPU BARRANCAS MAIPU ESC.CRUZ DE PIEDRA","3312","183","3312"
-"184 MZA MAIP.JUN.","1","Mendoza Junín Mendoza (x Maipú)","1748","184","1748"
-"184 JUNIN MAIPU MZA","0","Mendoza Junín Mendoza (x Maipú)","1749","184","1749"
-"184 MAIPU JUNIN","1","Maipú -Junín - Maipú - Mendoza","2965","184","2965"
-"184 JUNIN MAIPU MZA","0","JUNIN MAIPU MENDOZA","2969","184","2969"
-"184 Maipú - Mendoza","1","Maipú - Mendoza","2970","184","2970"
-"184 MENDOZA MAIPU","1","MENDOZA MAIPU","2971","184","2971"
-"185ST.BLANC.ORTG.MPU","0","Santa Blanca El Paraíso por Gutiérrez - Ortega - Maipú ","1755","185","1755"
-"185 MPU.ORT.ST.BLANC","1","Maipú Gutiérrez Ortega Santa Blanca El Paraíso","3352","185","3352"
-"A21A R.CRUZ X NAC.","1","A21 RODEO DE LA CRUZ POR NACIONAL","2530","A21","2530"
-"A21A R.CRUZ X NAC.","0","A21A R.CRUZ X NAC.","2677","A21","2677"
-"A21A R.CRUZ X NAC.PI","0","A21 RODEO DE LA CRUZ X NACIONAL-PICCIONE","2534","A21","2534"
-"A21A R.CRUZ X NAC.PI","1","A21 RODEO DE LA CRUZ X NACIONAL","2852","A21","2852"
-"A21B R.CRUZ X NAC.","0","A21 RODEO DE LA CRUZ X NACIONAL SHOPPING","2535","A21","2535"
-"A21B R.CRUZ X NAC.","1","A21 R. DE LA CRUZ X NACIONAL SHOPPING","2698","A21","2698"
-"A21B R.CRUZ X NAC.SH","1","A21 R.DE LA CRUZ X NAC. SHOPPING","2699","A21","2699"
-"A21B R.CRUZ X NAC.SH","0","A21 RODEO DE LA CRUZ SHOPPING DE IDA","2984","A21","2984"
-"A22A CORR.X NAC.MIL.","1","A22 CORRALITOS X NACIONAL MILAGROS","2756","A22","2756"
-"A22A CORR.X NAC MIL.","0","A22A CORR.X NAC.MIL.","2757","A22","2757"
-"A22B CORRxNAC.S.VTE","1","A 22 CORRALITOS X NACIONAL MILAGROS SAN VICENTE ","2758","A22","2758"
-" A22B CORRxNAC.S.VTE","0","A22 CORRALITOS X NACIONAL MILAGROS SAN VICENTE","2759","A22","2759"
-"A22C CORRxNAC.MALV.","1","A22 CORRALITOS X NACIONAL MALVINAS GRILLI","2760","A22","2760"
-"A22C CORRxNAC.MALV.","0","A22 CORRALÑITOS X NACIONAL MALVINAS GRILLI","2761","A22","2761"
-"A22D CORR.FERRARI","1","A22 CORRALITOS X NACIONAL FERRARI","2762","A22","2762"
-"A22D CORR FERRARI","0","A22 CORRALITOS X NACIONAL FERRARI","2763","A22","2763"
-"A22E CORR.VIOLETAS","1","A22 CORRALITOS POR ACC.ESTE VIOLETAS X PONCE","2764","A22","2764"
-"A22E CORR VIOLET","0","A22 CORRALITOS X ACC. ESTE VIOLETAS X PONCE","2765","A22","2765"
-"A22F CORR.X NAC.","1","A22F CORR.X NAC.","2766","A22","2766"
-"A22F CORR.X NAC.","0","A22 CORRALITOS X NACIONAL ","2767","A22","2767"
-"A22C CORRxNAC.MALV.","1","A22 CORRALITOS X NACIONAL GRILLI MALVINAS","2769","A22","2769"
-"A22C CORRxNAC.MALV.","0","A22 CORRALITOS X NACIONAL GRILLI MALVINAS VTA X SALCEDO","2770","A22","2770"
-"A22A CORR.X NAC. ","1","A22A CORR.X NAC. ","3099","A22","3099"
-"A22A CORR X NAC","0","A22 CORRALITOS MILAGROS VEA SALCEDO","3100","A22","3100"
-" A22B CORRxNAC.S.VTE","1","A22 CORRALITOS X NACIONAL SAN VICENTE","2774","A22","2774"
-"A22B CORRxNAC S VTE","0","A22 CORRALITOS X NAC. SAN VICENTE","2775","A22","2775"
-"A22C CORRxNAC.MALV.","1","A22 CORRALITOS X NACIONAL MALVINAS","2776","A22","2776"
-"A22C CORRxNAC.MALV.","0","A22 CORRALITOS X NACIONAL MALVINAS","2777","A22","2777"
-"A22E CORR.VIOLETAS","1","A22 CORRALITOS X NACIONAL ","2778","A22","2778"
-"A22E CORR.VIOLETAS","0","A22 CORRALITOS X NACIONAL REG. KM 11 SALCEDO","2779","A22","2779"
-"A22F CORR.X NAC.MVA.","1","A22 CORRALITOS X NACIONAL MILAGROS MALVINAS","2780","A22","2780"
-"A22F CORR.X NAC.MVA.","0","A22 CORRALITOS MILAGROS MALVINAS","2781","A22","2781"
-"A22A CORR.X NAC. ","1","A22A CORR.X NAC.","2782","A22","2782"
-"A22A CORR.X NAC. ","0","A22 CORRALITOS X NACIONAL MILAGROS VEA","2783","A22","2783"
-"A22E CORR.VIOLETAS","1","A22 CORRALITOS X ACC. ESTE VIOLETAS X TIRASSO","2784","A22","2784"
-"A22E CORR.VIOLETAS","0","A22 CORRALITOS X ACC. ESTE VIOLETAS TIRASSO","2785","A22","2785"
-"A22G CORR.GRILLI/Mil","1","A22 CORRALITOS X NACIONAL GRILLI","2786","A22","2786"
-"A22G CORR.GRILLI/Mil","0","A22 CORRALITOS X NACIONAL GRILLI ","2787","A22","2787"
-"A22G CORR.GRILLI/Mil","0","A22 CORRALITOS MILAGROS VEA REGRESA SALCEDO","3102","A22","3102"
-"A22G CORR.GRILLI/Mil","1","A22 CORRALITOS MILAGROS VEA","3103","A22","3103"
-"A22D CORR.FERRARI","1","A22 CORRALITOS X NACIONAL SALE FERRARI","2790","A22","2790"
-"A22D CORR.FERRARI","0","A22 CORRALITOS POR NACIONAL MILAGROS VEA","3105","A22","3105"
-"A22B CORRxNAC.S.VTE","1","A22 CORRALITOS POR NACIONAL FERRARI MILAGROS VEA REGRESA RODEO SALCEDO","3107","A22","3107"
-"A22B CORRxNC S.VTE","0","A22 CORRALITOS POR NACIONAL FERRARI MILAGROS VEA REGRESA RODEO SALCEDO","3108","A22","3108"
-"A22D CORR.FERRARI","0","A22 CORRALITOS X NACIONAL FERRERI","2796","A22","2796"
-"A22D CORR.FERRARI","1","A22CORRALITOS POR NACIONAL FERRARI MILAGROS RODEO","3109","A22","3109"
-"A23 SAN JAV NAC","1","B23 B° SANTA ANA SAN JAVIER X NACIONAL","2713","A23","2713"
-"A23 SAN JAV NAC","0","A23 B°SANTA ANA SAN JAVIER X NAC.","2714","A23","2714"
-"A23 SAN JAV Nac/CGob","0","A23 B° SANTA ANA SAN JAVIER X NAC. C.GOB","2717","A23","2717"
-"A23 SAN JAV Nac/CGob","1","A23 B° SANTA ANA SAN JAVIER CASA DE GOBIERNO","3028","A23","3028"
-"A23 SAN JAV Nac/CGob","0","A23 B° SANTA ANA B° SAN JAVIER CASA DE GOBIERNO IDA","3031","A23","3031"
-"A24 PRIMAVERA X NAC.","0","A24 PRIMAVERA POR NACIONAL","3079","A24","3079"
-"A24 PRIMAV.X NAC.","1","A24 PRIMAVERA POR NACIONAL","3081","A24","3081"
-"A25 Escorihuela","1","A25 B° ESCORIHUELA X NACIONAL","2748","A25","2748"
-"A25 Escorihuela","0","A25 B° ESCORIHUELA X NACIONAL R.DE LA CRUZ","2749","A25","2749"
-"A25 Escorihuela","0","A25 B° ESCORIHUELA X NAC.C.GOBIERNO","2751","A25","2751"
-"A25 Escorihuela  ","1","A25 B° ESCORIHUELA X NACIONAL CASA DE GOBIERNO","2907","A25","2907"
-"A25 Escorihuela","1","A25 B°ESCORIHUELA PARQUE DE DESCANSO","2987","A25","2987"
-"A25 ESCORIHUELA","0","A25 B° ESCORIHUELA X NACIONAL PARQUE DE DESCANSO","2988","A25","2988"
-"A27 COLONIA SEGOVIA","1","A27 COLONIA SEGOVIA X G. CRUZ","2744","A27","2744"
-"A27 COLONIA SEGOVIA","0","A27 COLONIA SEGOVIA R.DE LA CRUZ X G.CRUZ","2745","A27","2745"
-"A28 R.CRUZ C.BOMBAL","0","A 28 COLONIA BOMBAL MENDOZA","3042","A28","3042"
-"A28 R.CRUZ C.BOMBAL","1","A28 COLONIA BOMBAL POR NACIONAL","3043","A28","3043"
-"A29 PEDREGAL X NAC.","1","A 29 PEDREGAL X NACIONAL","2731","A29","2731"
-"A29 PEDREGAL X NAC. ","0","A 29 PEDREGAL R. DE LA CRUZ","2732","A29","2732"
-"B21 R.CRUZ X G.CRUZ","1","B21 MZA.R.DE LA CRUZ","2701","B21","2701"
-"B21 R CRUZ X G CRUZ","1","B21 R. CRUZ MENDOZA PQUE. DESCANSO","2702","B21","2702"
-"B21 R.CRUZ X G.CRUZ","1","B21 R. CRUZ X G. CRUZ SANTA RITA","2704","B21","2704"
-"B22A CORR. KM 14","1","B 22 CORRALITOS X G","2797","B22","2797"
-"B22A CORR.KM 14","0","B22 CORRALITOS X G. CRUZ KM 14","2798","B22","2798"
-"B22A CORR.KM 14  ","1","B22A CORRALITOS X G. CRUZ KM 14 MILAGROS MALVINAS","2800","B22","2800"
-"B22A CORR.KM 14","0","B22A CORRALITOS KM 14 MILAGROS MALVINAS","2801","B22","2801"
-"B22A CORR. X G.CRUZ","0","B22 CORRALITOS X GODOY CRUZ","2825","B22","2825"
-"B22 CORR.X G.CRUZ","1","B22A CORRALITOS POR CARRIL GODOY CRUZ","3214","B22","3214"
-"B22B CORR.X G.CRUZ","1","B22B CORRALITOS X GODOY CRUZ MALVINAS","2827","B22","2827"
-"B22B V.NUEVA CORR.","0","B22B CORRALITOS POR GODOY CRUZ","3112","B22","3112"
-"B22B CORR.X G.CRUZ","1","B22B CORRALITOS X G. CRUZ MILAGROS","2829","B22","2829"
-"B22B V.NUEVA CORR.","0","B22B CORRALITOS X G.CRUZ MILAGROS","2830","B22","2830"
-"B22B CORR.KM 14","1","B22B CORRALITOS X G. CRUZ KM 14 SAN VICENTE","2831","B22","2831"
-"B22B  CORR.KM14","0","B22B CORRALITOS X G.CRUZ KM 14 SAN VICENTE","2832","B22","2832"
-"B22C CORR.X G.CRUZ","1","B22 CORRALITOS X GODOY CRUZ MILAGROS VEA SALCEDO","2833","B22","2833"
-"B22C V.NUEVA CORR.","0","B22C CORRALITOS X GODOY CRUZ MILAGROS VEA SALCEDO","2834","B22","2834"
-"B22C CORR.KM 14","1","B22C CORRALITOS KM 14 VTA. RODEO","2835","B22","2835"
-"B22C V.NUEVA CORR","0","B22C CORRALITOS X GODOY CRUZ SALCEDO","2836","B22","2836"
-"B22C CORR.X G.CRUZ","1","B22C CORRALITOS X GODOY CRUZ MALVINAS SAN VICENTE","2837","B22","2837"
-"B22C V.NUEVA CORR.","0","B22C  CORRALITOS X G.CRUZ MALVINAS SAN VICENTE","2838","B22","2838"
-"B22D CORR.KM14","1","B22 CORRALITOS X G.CRUZKM 14 GRILLI SAN VICENTE ","2841","B22","2841"
-"B22D V.NUEVA CORR.","0","B22D CORRALITOS X G.CRUZ GRILLI SAN VICENTE","2842","B22","2842"
-"B22D CORR.KM14 MIL.","1","B22D CORRALITOS X GODOY CRUZ KM 14 MILAGROS","2843","B22","2843"
-"B22D V.N CORR KM 14","0","B22D CORRALITOS X GODOY CRUZ KM 14 MILAGROS","2844","B22","2844"
-"B22E CORR.X G.CRUZ","1","B22E CORRALITOS X GODOY CRUZ GRILLI","2846","B22","2846"
-"B22E V N CORR.","0","B22 CORRALITOS X GPDOY CRUZ GRILLI","2847","B22","2847"
-"B22E CORR.X G.CRUZ","1","B22E CORRALITOS X GODOY CRUZ MILAGROS VEA","2850","B22","2850"
-"B22E V.NUEVA CORR.","0","B22E CORRALITOS POR GODOY CRUZ MILAGROS VEA DE IDA ","3117","B22","3117"
-"B23 STA.ANA X G.CRUZ","1","B23 B STA ANA X G.CRUZ","2709","B23","2709"
-"B23 STA.ANA X G.CRUZ","0","B23 VILLA NUEVA R. DE LA CRUZ","2710","B23","2710"
-"B23 B S.ANA C.GOB","1","B23 B SANTA ANA X GODOY CRUZ CASA DE GOBIERNO","2985","B23","2985"
-"B23 V.NUEVA R.CRUZ","0","B23 B SANTA ANA X GODOY CRUZ CASA DE GOBIERNO ","2986","B23","2986"
-"A24 PRIMAV.X G.CRUZ","1","A24 PRIMAVERA X GODOY CRUZ","2845","B24","2845"
-"B24 PRIMAV.X G.CRUZ","0","B24PRIMAVERA POR GODOY CRUZ","3098","B24","3098"
-"B25 B.NUEVA X G.CRUZ","1","B25 BUENA NUEVA X G.CRUZ ","2726","B25","2726"
-"B25 V.NUEVA R. CRUZ ","0","B25 BUENA NUEVA X G. CRUZ ","2727","B25","2727"
-"B25 B.NUEVA C.GOB","1","B25 BUENA NUEVA POR GODOY CRUZ CASA DE GOBIERNO ","3122","B25","3122"
-"B23 B.NUEVA C.GOB","0","B25 BUENA NUEVA POR GODOY CRUZ","3123","B25","3123"
-"B26A PARAGUAY","1","B26A B PARAGUAY X G. CRUZ","2733","B26","2733"
-"B26A PARAGUAY ","0","B26A B PARAGUAY","2734","B26","2734"
-"B26A PARAGUAY ROCA","0","B26A B PARAGUAY POR GODOY CRUZ ROCA ","2989","B26","2989"
-"B26A PARAGUAY ROCA","1","B26A B PARAGUAY X GODOY CRUZ ROCA","2992","B26","2992"
-"B26A PAR. PALMERAS","1","B26 B PARAGUAY PALMERAS","2993","B26","2993"
-"B26A PAR.PALMERAS","0","B26 B PARAGUAY PALM. ","2997","B26","2997"
-"B26B PARAGUAY NOTTI","1","B26B B PARAGUAY X NAC. HTAL. NOTTI","2740","B26","2740"
-"B26B PARAGUAY NOTTI","0","B26B PARAGUAY NOTTI","3372","B26","3372"
-"B26B PARAGUAY MUNIC.","1","B26 B PARAGUAY POR GODOY CRUZ MUNICIPAL","3010","B26","3010"
-"B26B PARAGUAY MUNIC.","0","B26B PARAGUAY MUNICIPAL","3366","B26","3366"
-"B27 ESCOR.X G.CRUZ","1","B27 B ESCORIHUELA X G. CRUZ","2754","B27","2754"
-"B27 ESCOR.X G.CRUZ","0","B27 B ESCORIHUELA X G.CRUZ","2755","B27","2755"
-"MTM001 Mdz Gutz","0","NULL","1602","MTM","1602"
-"MTM 001 Gutz Mdz","1","NULL","3370","MTM","3370"
-"S.D MAIPU MENDOZA","1","Servicio Diferencial Maipú - Mendoza","1726","D138","1726"
-"S.D MENDOZA MAIPU","0","Servicio Diferencial Mendoza - Maipú ","1727","D138","1727"
-"SD 3 ESQ.MAIP.MZA","1","Servicio Diferencial - Tres Esquinas - Mendoza - Maipú","1728","D139","1728"
-"SD MENDOZA MAIPU","0","Servicio Diferencial Mendoza - Maipú","2725","D139","2725"
-"SD MAIPU MENDOZA","1","Servicio Diferencial - Maipú - Mendoza - Tres Esquinas","2730","D140","2730"
-"SD MZA MAIPU 3ESQ.","0","Servicio Diferencial Mendoza - Maipú - Tres Esquinas","2736","D140","2736"
-"SD RECOARO MAIP.MZA","1","Servicio Diferencial Recoaro - Mendoza Maipú","2854","D141","2854"
-"SD MENDOZA MAIPU","0","Servicio Diferencial Recoaro - Mendoza Maipú","2853","D141","2853"
-"SD REC.CEM.MAIP.MZA","1","Servicio Diferencial Recoaro - Mendoza Maipú (Entrada Cementerio Oasis de Paz)","2856","D142","2856"
-"SD MENDOZA MAIPU","0","Servicio Diferencial Mendoza Maipú","2857","D142","2857"
-"SD MAIPU MENDOZA","1","Servicio Diferencial  Maipú - Mendoza","2858","D143","2858"
-"SD MZA MAIP.RECOARO","0","Servicio Diferencial   Mendoza - Maipú - Recoaro","2859","D143","2859"
-"SD MAIPU MENDOZA","1","Servicio Diferencial  Maipú - Mendoza - Recoaro - Entrada Cementerio Oasis de Paz","2860","D144","2860"
-"SD MZA MAIP.REC.CEM.","0","Servicio Diferencial  Maipú - Mendoza - Recoaro - Entrada Cementerio Oasis de Paz","2861","D144","2861"
-"T11 P.MOLINA-UNIMEV","1","NULL","3354","T11","3354"
-"T11 UNIMEV-CENTRO","0","NULL","3359","T11","3359"
-"T11 UNIMEV-P.MOLINA","1","NULL","3353","T11","3353"
-"T11 P.MOL.CTRO.TERM","0","NULL","3358","T11","3358"
-"p.m.-centro-unimev","0","NULL","3373","T11","3373"
-"unimev-centro-p.m","1","NULL","3371","T11","3371"
-"unimev-centro-p.m","1","NULL","3369","T11","3369"
-"T12-Centro-Parque","1","NULL","1640","T12","1640"
-"T12-Centro-VNueva","1","NULL","1638","T12","1638"
-"T12-Centro-Dorrego","1","NULL","1642","T12","1642"
-"T12-Cent-Pellegrini","1","NULL","1643","T12","1643"
-"T12-GC-LH","1","NULL","1674","T12","1674"
-"T12-UNC","1","NULL","1681","T12","1681"
+trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,shape_id,card_code,active
+2612,11,,C Belgno-H.L-Unc,NULL,1,2612,132,True
+2454,12,,A Mun-Berm.Ctro,NULL,0,2454,150,True
+2669,12,,A Mun-Berm.Ctro,NULL,1,2669,151,True
+2670,12,,A Mun-Berm.Ctro,NULL,0,2670,151,True
+2457,12,,B Mn-Esc-Berm-Gob,NULL,1,2457,152,True
+2971,72,,Mendoza Maipu,MENDOZA MAIPU,1,2971,170,True
+2256,1,,A-Blanc.Enc.Sp/Gv,014 - Blanco Encalada - Saenz Peña / Guardia Vieja ,1,2256,140,True
+2257,1,,A-Blanc Enc.Sp/Gv,014 - Blanco Encalada por Saenz Peña-Guardia Vieja,0,2257,140,True
+2258,1,,A-Bco.Enc.Sp/Gv,014 - Blanco Encalada - Guardia Vieja / Saenz Peña,1,2258,141,True
+2259,1,,A-Bco.Enc.Sp/Gv,014A - Blanco Encalada - Guardia Vieja / Saenz Peña ,0,2259,141,True
+3095,1,,A-Bco.Enc.Sp/Gv,014A - Blanco Encalada por Saenz Peña,1,3095,142,True
+3096,1,,A-Bco.Enc.Sp/Gv,014A - Blanco Encalada por Saenz Peña,0,3096,142,True
+3165,1,,B-Bco Enc Pan.,014B - Escolar Blanco Encalada de las 06:08 hs,1,3165,143,True
+3174,1,,B-Bco Enc Pan.,014 - Escolar Blanco Encalada de las 17:00 hs,1,3174,143,True
+2269,1,,C-Bcoen-Pan-Sol,014C - Escolar Blanco Encalada de las 07:25 hs,1,2269,144,True
+2270,1,,C-Bcoen-Pan-Sol,014C- Escolar Blanco Encalada de las 07:25 hs,0,2270,144,True
+2271,1,,C-Bcoen-Pan-Sol,014C - Escolar Blanco Encalada de las 06:55 hs,1,2271,145,True
+2272,1,,C-Bcoen-Pan-Sol,014C- Escolar Blanco Encalada de las 06:55 hs,0,2272,145,False
+3180,1,,D-Bcoenc-Pan-Nat,014D - Escolar Blanco Encalada de las 07:15 hs,1,3180,146,False
+3181,1,,D-Bcoenc-Pan-Nat,014D - Escolar Blanco Encalada de las 07:15 hs,0,3181,146,False
+2282,1,,E-Bcoenc-Pan-Loc.,014E - Escolar Blanco Encalada de las 08:10 hs,1,2282,147,True
+2283,1,,E-Bcoenc-Pan-Loc.,014E - Escolar Blanco Encalada de las 08:10 hs,0,2283,147,True
+2284,1,,E-Bcoenc-Pan-Loc.,014E- Escolar Blanco Encalada de las 12:20 hs,1,2284,148,False
+2285,1,,E-Bcoenc-Pan-Loc.,014E - Escolar Blanco Encalada de las 12:20 hs,0,2285,148,False
+3182,1,,E-Bcoenc-Pan-Loc.,014E - Escolar Blanco Encalada de las 12:30 hs,1,3182,149,False
+3183,1,,E-Bcoenc-Pan-Loc.,014E - Escolar Blanco Encalada de las 12:30 hs,0,3183,149,False
+2290,1,,F-Bcoenc/Pan/Loc.,014F - Escolar Blanco Encalada de las 18:25 hs,1,2290,150,True
+2291,1,,F-Bcoenc/Pan/Loc.,014F - Escolar Blanco Encalada de las 18:25 hs,0,2291,150,True
+2326,1,,F-Bcoenc/Pan/Loc.,014F- Lujan - Blanco Encalada x Panamericana,1,2326,169,True
+2327,1,,F-Bcoenc/Pan/Loc.,014F - Blanco Encalada por Panamericana - Lujan,0,2327,169,True
+3166,1,,B-Bco Enc Pan.,014B - Escolar Blanco Encalada de las 06:08 hs,0,3166,500,True
+3175,1,,B-Bco Enc Pan.,014B - Escolar Blanco Encalada de las 17:00 hs,0,3175,500,True
+3169,1,,B-Bco Enc Pan.,014B - Escolar Blanco Encalda de las 11:40 hs,1,3169,501,True
+3170,1,,B-Bco Enc Pan.,014B - Escolar Blanco Encalada de las 11:40 hs,0,3170,501,True
+2273,1,,C-Bcoen-Pan-Sol,014C - Escolar Blanco Encalada de las 13:00 hs,1,2273,502,False
+3176,1,,C-Bcoen-Pan-Sol,014C - Escolar Blanco Encalada de las 13:00 hs,0,3176,502,False
+2278,1,,D-Bcoenc-Pan-Nat,014D - Escolar Blanco Encalada de las 17:50 hs,1,2278,503,False
+3179,1,,D-Bcoenc-Pan-Nat,014D - Escolar Blanco Encalada de las 17:50 hs,0,3179,503,False
+3177,1,,D-Bcoenc-Pan-Nat,014D - Escolar Blanco Encalada de las 16:25 hs,1,3177,504,True
+3178,1,,D-Bcoenc-Pan-Nat,014D - Escolar Blanco Encalada de las 16:25 hs,0,3178,504,False
+3186,1,,F-Bcoenc/Pan/Loc.,014F - Escolar Blanco Encalada de las 17:40 hs,1,3186,505,False
+3187,1,,F-Bcoenc/Pan/Loc.,014F - Escolar Blanco Encalada de las 17:40 hs,0,3187,505,False
+2293,2,,B.Cast.-Ch.-Ctro,015 - B. Los Castaños - Chacras de Coria - Centro por Cervantes,1,2293,151,True
+2294,2,,B.Cast.-Ch.-Ctro,015 - Centro - Chacras - B. Los Castaños por Cervantes,0,2294,151,True
+2295,2,,B.Cast.-Ch.-Ctro,015 - B. Los Castaños - Chacras de Coria - Centro por Cervantes,1,2295,152,True
+3050,2,,B.Cast.-Ch.-Ctro,015 - Centro - Chacras de Coria - B  Los Castaños,0,3050,152,True
+2298,2,,B.Cast.-Ch.-Ctro,015 - Centro - Chacras - B  Los Castaños por Cervantes,0,2298,153,True
+3058,2,,B.Cast.-Ch.-Ctro,015 - B  Los Castaños - Cementerio Parque Jardin Mendoza - Centro,1,3058,153,True
+2299,3,,A-L.Ch.S El.Smsur,016 - Lujan - Chacras de Coria por San Martín Sur - Centro,1,2299,161,True
+2300,3,,A-L.Ch.S El.Smsur,016 - Centro - Chacras por San Martin Sur - Lujan,0,2300,161,True
+2301,3,,A-L.Ch.S El.Smsur,016 - Lujan - Chacras - Centro por Santa Elena,1,2301,162,True
+2302,3,,A-L.Ch.S El.Smsur,016 - Centro - Chacras de Coria por Santa Elena - Lujan,0,2302,162,True
+2303,3,,Es -Esc.S.Elena,016 - Escolar Santa Elena de las 07:15 hs,1,2303,163,True
+2304,3,,Es -Esc.S.Elena,016 - Escolar Santa Elena de las 07:15 hs,0,2304,163,True
+2312,3,,Es -Esc.S.Elena,016 - Escolar Santa Elena de las 12:20 hs,1,2312,164,False
+2313,3,,Es -Esc.S.Elena,016 - Escolar Santa Elena de las 12:20,0,2313,164,False
+2320,3,,Es -Esc.S.Elena,016 - Escolar Santa Elena de las 17:40 hs,1,2320,165,False
+2321,3,,Es -Esc.S.Elena,016 - Escolar Santa Elena de las 17:40 hs,0,2321,165,False
+2322,3,,B-L.Unc.S.El.,016 - Santa Elena - Chacras Universidades,1,2322,167,True
+2323,3,,B-L.Unc.S.El.,016 - Universidades - Chacras - Lujan,0,2323,167,True
+2324,3,,B-L.Unc.S.El.,016 - Lujan - Universidades,1,2324,168,True
+2325,3,,B-L.Unc.S.El.,016 - Universidades - Chacras - S. Elena - Lujan,0,2325,168,True
+2328,4,,B.Aler-Luj-Maipu,017 - Carrodilla - B. Los Alerces - Lujan,1,2328,171,True
+2329,4,,B.Aler-Luj-Maipu,017 - Lujan - B  Los Alerces - Carrodilla,0,2329,171,True
+2333,4,,B.Aler-Luj-Maipu,017 - Lujan - Cementerio Lujan - B. Los Alerces,1,2333,172,True
+2334,4,,B.Aler-Luj-Maipu,017 - Lujan - B. Los Alerces,0,2334,172,True
+2338,4,,B.Aler-Luj-Maipu,017-Lujan - Maipu,1,2338,173,True
+2339,4,,B.Aler-Luj-Maipu,017-Maipu - Lujan,0,2339,173,True
+2336,5,,Exp. Roca C.Gob.,018 - Expreso Roca - Casa de Gobierno,0,2336,181,True
+3032,5,,Exp. Roca C.Gob,018 - Expreso Roca por Casa de Gobierno,1,3032,181,True
+2337,5,,Exp. Roca Cgob.,018 - Expreso Roca,1,2337,182,True
+3036,5,,Exp. Roca C.Gob.,018-Expreso Roca,0,3036,182,True
+2340,6,,A-Luj.Ctro.Drumm.,019 - Lujan - Mendoza por Drummond - B. 27 de Abril,1,2340,189,True
+2341,6,,A-Luj.Ctro.Drumm.,019 - Centro - Lujan por Drummond - B. 27 de Abril,0,2341,189,True
+2342,6,,B-Lj.Huen.Ctro.Lb,019 - Lujan - Mendoza por Av. Libertad - B. Las Parras,1,2342,190,True
+2343,6,,B-Lj.Huen.Ctro.Lb,019 - Centro - Lujan por Av. Libertad - B. Las Parras,0,2343,190,True
+2345,6,,B-Lj.Huen.Ctro.Lb,019 - Lujan - Centro por Av. Libertad,1,2345,191,True
+2346,6,,B-Lj.Huen.Ctro.Lb,019 - Centro - Lujan por Av. Libertad,0,2346,191,True
+2347,6,,B-Lj.Huen.Ctro.Lb,019 - Luján - Centro por Av. Libertad - B. Huentota,1,2347,192,True
+2348,6,,B-Lj.Huen.Ctro.Lb,019 - Centro - Lujan por Av. Libertad,0,2348,192,True
+2349,6,,C-Lj.Ctro.Hue.Smt,019 - Lujan - Centro por Av. Libertad,1,2349,193,True
+2350,6,,C-Lj.Ctro.Hue.Smt,019 - Centro - B. Huentota - Lujan por Av. Libertad,0,2350,193,True
+2351,6,,A-Luj.Ctro.Drumm.,019 - Lujan - Centro por Drummond,1,2351,194,True
+2352,6,,A-Luj.Ctro.Drumm.,019 - Centro - Lujan por Drummond,0,2352,194,True
+2353,6,,Ex-Exp.Xs.Mt/Drm,019 - Expreso Drummond,1,2353,195,True
+2354,6,,Ex-Exp.Xs.Mt/Drm,019 - Expreso por Drummond,0,2354,195,True
+2355,6,,C-Lj.Ctro.Hue.Smt,019 - Lujan - Mendoza por San Martin,1,2355,196,True
+2356,6,,C-Lj.Ctro.Hue.Smt,019 - Centro - Lujan por San Martin,0,2356,196,True
+2357,6,,Ex-Exp.Xs.Mt/Drm,019 - Expreso por San Martin,1,2357,197,True
+2358,6,,Ex-Exp.Xs.Mt/Drm,019 - Expreso por San Martin,0,2358,197,True
+2359,6,,A-Luj.Ctro.Drumm.,019 - Lujan - PIP - Centro,1,2359,198,True
+2360,6,,A-Luj.Ctro.Drumm.,019 - Centro - Lujan por San Martin,0,2360,198,True
+2361,6,,C-Lj.Ctro.Hue.Smt,019 - Lujan Centro por San Martin,1,2361,199,True
+2362,6,,C-Lj.Ctro.Hue.Smt,019 - Centro - Lujan - PIP,0,2362,199,True
+2207,7,,Estanzuela Cntro,032-ESTANZUELA CNTRO,1,2207,121,True
+2208,7,,Estanzuela,NULL,0,2208,121,True
+2563,7,,Bes.Xpaso.S/C.Gob,032BES.XPASO.S/C.GOB,1,2563,122,True
+2564,7,,32Est.G.Cruz,NULL,0,2564,122,True
+2209,8,,Godoy Cruz,NULL,0,2209,131,True
+2210,8,,Las Heras,NULL,1,2210,131,True
+2868,9,,B S.Ana-Shop-Pque,NULL,0,2868,191,True
+2363,9,,A S.Ana-Pque,SANTA ANA - PARQUE SAN MARTIN,1,2363,111,True
+2364,9,,A S.Ana-Pque,NULL,0,2364,111,True
+2366,9,,A S.Ana-Pque,NULL,1,2366,112,True
+2554,9,,A S.Ana-Pque,NULL,0,2554,112,True
+2380,9,,A S.Ana-Pque,NULL,0,2380,113,True
+2560,9,,A S.Ana-Pque,NULL,1,2560,113,True
+2867,9,,B S.Ana-Shop-Pque,NULL,1,2867,191,True
+2865,9,,B S.Ana-Shop-Pque,NULL,1,2865,192,True
+2866,9,,B S.Ana-Shop-Pque,NULL,0,2866,192,True
+2381,10,,A Mun-Slnzo-C.Gob,NULL,1,2381,114,True
+2382,10,,A Mun-Slnzo-C.Gob,NULL,0,2382,114,True
+2571,10,,A Mun-Slnzo-C.Gob,NULL,1,2571,115,True
+2573,10,,A Mun-Slnzo-C.Gob,NULL,0,2573,115,True
+2576,10,,A Mun-Slnzo-C.Gob,NULL,1,2576,116,True
+2577,10,,A Mun-Slnzo-C.Gob,NULL,0,2577,116,True
+2578,10,,B Mun-S.Lnzo-Mun,NULL,1,2578,117,True
+2579,10,,B Mun-S.Lnzo-Mun,NULL,0,2579,117,True
+2580,10,,B Mun-S.Lnzo-Mun,NULL,1,2580,118,True
+2581,10,,B Mun-S.Lnzo-Mun,NULL,0,2581,118,True
+2582,10,,B Mun-S.Lnzo-Mun,NULL,1,2582,119,True
+2583,10,,B Mun-S.Lnzo-Mun,NULL,0,2583,119,True
+2584,10,,C S.Lnzo-H.L-Unc,NULL,1,2584,120,True
+2585,10,,C S.Lnzo-H.L-Unc,NULL,0,2585,120,True
+2395,10,,C S.Lnzo-H.L-Unc,NULL,1,2395,121,True
+2396,10,,C S.Lnzo-H.L-Unc,NULL,0,2396,121,True
+2587,10,,C S.Lnzo-H.L-Unc,NULL,1,2587,122,True
+2815,10,,C S.Lnzo-H.L-Unc,NULL,0,2815,122,True
+2400,10,,D S.Lnzo-Unc-Lic,NULL,0,2400,123,True
+2609,10,,D S.Lnzo-Unc-Lic,NULL,1,2609,123,True
+2642,11,,D Bel-H.L-Unc-Lic,NULL,1,2642,133,True
+2589,11,,A Mun-Belgr-C.Gob,NULL,1,2589,124,True
+2590,11,,A Mun-Belgr-C.Gob,NULL,0,2590,124,True
+2403,11,,A Mun-Belgr-C.Gob,NULL,1,2403,125,True
+2591,11,,A Mun-Belgr-C.Gob,NULL,0,2591,125,True
+2592,11,,A Mun-Belgr-C.Gob,NULL,1,2592,126,True
+2593,11,,A Mun-Belgr-C.Gob,NULL,0,2593,126,True
+2408,11,,B Mun-Belgrano,NULL,0,2408,127,True
+2588,11,,B Mun-Belgrano,NULL,1,2588,127,True
+2594,11,,B Mun-Belgrano,NULL,1,2594,128,True
+2595,11,,B Mun-Belgrano,NULL,0,2595,128,True
+2596,11,,B Mun-Belgrano,NULL,1,2596,129,True
+2597,11,,B Mun-Belgrano,NULL,0,2597,129,True
+2598,11,,C Belgno-H.L-Unc,NULL,1,2598,130,True
+2599,11,,C Belgno-H.L-Unc,NULL,0,2599,130,True
+2416,11,,C Belgno-H.L-Unc,NULL,0,2416,131,True
+2608,11,,C Belgno-H.L-Unc,NULL,1,2608,131,True
+2613,11,,C Belgno-H.L-Unc,NULL,0,2613,132,True
+2646,11,,D Bel-H.L-Unc-Lic,NULL,0,2646,133,True
+2655,12,,A Mun-Berm.Ctro,NULL,1,2655,149,True
+2660,12,,A Mun-Berm.Ctro,NULL,0,2660,149,True
+2453,12,,A Mun-Berm.Ctro,NULL,1,2453,150,True
+2458,12,,B Mn-Esc-Berm-Gob,NULL,0,2458,152,True
+2672,12,,B Mn-Esc-Berm-Gob,NULL,1,2672,153,True
+2673,12,,B Mn-Esc-Berm-Gob,NULL,0,2673,153,True
+2461,12,,B Mn-Esc-Berm-Gob,NULL,1,2461,154,True
+2674,12,,B Mn-Esc-Berm-Gob,NULL,0,2674,154,True
+2690,12,,C Berm-Ctro-Gob,NULL,1,2690,155,True
+2679,12,,C Berm-Ctro-Gob,NULL,0,2679,156,True
+2687,12,,C Berm-Ctro-Gob,NULL,1,2687,156,True
+2678,12,,C Berm-Ctro-Gob,NULL,1,2678,157,True
+3317,12,,D Ctro-H.Lago.Unc,NULL,1,3317,158,True
+3266,12,,D Ctro-H.Lago.Unc,NULL,1,3266,159,True
+3321,12,,D Ctro-H.Lago.Unc,NULL,1,3321,161,True
+2469,12,,F Carmen-Centro,NULL,1,2469,162,True
+3323,12,,F Carmen-Centro,NULL,1,3323,163,True
+3333,12,,F Carmen-Centro,NULL,1,3333,169,True
+3335,12,,G Col.Hs.Gob.Ctro,NULL,1,3335,170,True
+2799,12,,G Col.Hs.Gob.Ctro,NULL,1,2799,171,True
+3337,12,,G Col.Hs.Gob.Ctro,NULL,1,3337,172,True
+3339,12,,H C.Seg.-Centro,NULL,1,3339,173,True
+3259,12,,H C.Seg.-Centro,NULL,1,3259,174,True
+3264,12,,H C.Seg.-Centro,NULL,0,3264,174,True
+3341,12,,H C.Seg.-Centro,NULL,1,3341,175,True
+3342,12,,H C.Seg.-Centro,NULL,0,3342,175,True
+3343,12,,I C.Segovia-Ctro,NULL,1,3343,176,True
+3344,12,,I C.Segovia-Ctro,NULL,0,3344,176,True
+3345,12,,I C.Segovia-Ctro,NULL,1,3345,177,True
+3346,12,,I C.Segovia-Ctro,NULL,0,3346,177,True
+2689,12,,I C.Segovia-Ctro,NULL,1,2689,178,True
+2805,12,,I C.Segovia-Ctro,NULL,0,2805,178,True
+3195,12,,J Berm-Esc.Cart,NULL,0,3195,187,True
+2517,12,,J Berm-Esc.Cart,NULL,1,2517,188,True
+2522,12,,J Berm-Esc.Cart,NULL,0,2522,188,True
+2523,12,,J Berm-Esc.Cart,NULL,1,2523,189,True
+2524,12,,J Berm-Esc.Cart,NULL,0,2524,189,True
+2968,12,,K-M.C.Nieve.Ctro,54 NOTTIX TIRASSO,1,2968,193,True
+3314,12,,K-Mc.Nieve.Ctro,NULL,0,3314,193,True
+3188,12,,K-M.C.Nieve.Ctro,NULL,1,3188,196,True
+3189,12,,K-M.C.Nieve.Ctro,NULL,0,3189,196,True
+2692,13,,A Centro-C.Molina,NULL,0,2692,155,True
+3282,13,,A Centro-C.Molina,NULL,0,3282,157,True
+3318,13,,A Centro-C.Molina,NO APARECÍA EN EL EXCEL DE GABRIEL,0,3318,158,True
+3267,13,,B-Ctro.Col Seg.,NULL,0,3267,159,True
+3320,13,,B-Ctro.Col Seg.,NO APARECÍA EN EL EXCEL DE GABRIEL,0,3320,160,True
+3322,13,,B-Ctro.Col Seg.,NO APARECÍA EN EL EXCEL DE GABRIEL,0,3322,161,True
+2487,13,,C Centro-C.Seg.,NULL,0,2487,162,True
+3324,13,,C Centro-C.Seg.,NULL,0,3324,163,True
+3326,13,,C Centro-C.Seg.,NULL,0,3326,165,True
+3328,13,,D-Colonia H.Sauce,NULL,0,3328,166,True
+3330,13,,D-Colonia H.Sauce,NULL,0,3330,167,True
+3332,13,,D-Colonia H.Sauce,NULL,0,3332,168,True
+2715,13,,F Mun-B Carmen,NULL,1,2715,179,True
+2499,13,,F Mun-B Carmen,NULL,1,2499,180,True
+2708,13,,F Mun-B Carmen,NULL,1,2708,181,True
+2818,13,,G C.Seg-Hs-Carmen,NULL,0,2818,182,True
+2724,13,,G C.Seg-Hs-Carmen,NULL,0,2724,183,True
+2508,13,,G C.Seg-Hs-Carmen,NULL,0,2508,184,True
+2510,13,,H C.Molina-Centro,NULL,0,2510,185,True
+2862,13,,H C.Molina-Centro,NULL,1,2862,185,True
+2822,13,,H C.Molina-Centro,NULL,0,2822,186,True
+2824,13,,H C.Molina-Centro,NULL,1,2824,186,True
+3194,13,,H C.Molina-Ctro,NULL,1,3194,187,True
+2878,13,,I Berm-Ctro-Gob,NULL,1,2878,211,True
+2879,13,,I Berm-Ctro-Gob,NULL,0,2879,211,True
+2886,13,,I Berm-Ctro-Gob,NULL,1,2886,212,True
+2888,13,,I Berm-Ctro-Gob,NULL,0,2888,212,True
+3198,13,,I Berm-Ctro-Gob,NULL,1,3198,213,True
+3221,13,,I Berm-Ctro-Gob,NULL,0,3221,213,True
+3222,13,,J-Centroxcalle 7,NULL,1,3222,214,True
+3223,13,,J-Centroxcalle 7,NULL,0,3223,214,True
+3255,13,,J-Centroxcalle 7,NULL,1,3255,215,True
+3256,13,,J-Centroxcalle 7,NULL,0,3256,215,True
+3319,14,,A Col-Alam-C.Gob,NULL,1,3319,160,True
+2803,14,,A Col-Alam-C.Gob,NULL,1,2803,164,True
+2804,14,,A Col-Alam-C.Gob,NULL,0,2804,164,True
+3325,14,,A Col-Alam-C.Gob,NULL,1,3325,165,True
+3327,14,,B Alam-Gob-Ctro,NULL,1,3327,166,True
+3329,14,,B Alam-Gob-Ctro,NULL,1,3329,167,True
+3331,14,,B Alam-Gob-Ctro,NULL,1,3331,168,True
+3334,14,,C Ala-E Poug-Car,NULL,0,3334,169,True
+3336,14,,C Ala-E Poug-Car,NULL,0,3336,170,True
+2802,14,,C Ala-E Poug-Car,Termina en B  El Carmen y vuelve al Control VN sin trabajar.,0,2802,171,True
+3338,14,,D-Alam-El Carmen,NULL,0,3338,172,True
+3340,14,,D-Alam-El Carmen,NULL,0,3340,173,True
+2111,15,,M.Hoyos Vandor,061 MATHUS HOYOS VANDOR,1,2111,111,True
+2112,15,,M.Hoyos Vandor,061 MATHUS HOYOS VANDOR,0,2112,111,True
+2125,15,,Vand S.Y Sierr,061 Centro Vandor Sol y Sierra,1,2125,112,True
+2132,15,,S Y Sierra Vando,061 MATHUS HOYOS SOL Y SIERRA VANDOR CENTRO CONTROL,0,2132,112,True
+2128,15,,61 Bajada Vandor,61 BAJADA VANDOR CENTRO CONTROL,0,2128,113,True
+2131,15,,61Bajada Sol Y Sier,61 MATHUS HOYOS BAJADA SOL Y SIERRA VANDOR CENTRO CONTROL,0,2131,114,True
+2189,15,,Borboll Sy Sierr,BORBOLLON VANDOR SOL Y SIERRAS POR BELTRAN JUAN B JUSTO,1,2189,193,True
+2190,15,,S.Y Sierr Borb,SOL Y SIERRAS EL BORBOLLON ,0,2190,193,True
+1639,16,,A M.Hoyos Belg,NULL,0,1639,121,True
+2109,16,,A M.Hoyos Belg,62 MATHUS HOYOS BELGRANO SIN CASA DE GOBIERNO,1,2109,121,True
+1904,16,,B H.Moral H.Unc,62 MATHUS HOYOS SEGUNDO CALLEJON MORALES HOSPITAL UNIVERSIDAD NACIONAL CUYO SIN CASA DE GOBIERNO,1,1904,125,True
+1905,16,,A M.Hoy.Mor.Ctrol,62 MATHUS HOYOS SEGUNDO CALLEJÓN MORALES,0,1905,125,True
+1915,16,,B Mhosp.Unc C.G,62 MATHUS HOYOS SEGUNDO CALLEJÓN MORALES HOSPITAL UNIVERSIDAD NACIONAL DE CUYO CASA DE GOBIERNO,1,1915,126,True
+1916,16,,B M.H Mor.Ctrol,62 MATHUS HOYOS SEGUNDO CALLEJÓN MORALES CONTROL GRUPO 6,0,1916,126,True
+3347,16,,B M.H.Moh.Unc C.G,NULL,1,3347,126,False
+2187,16,,B Mho Hosp. S/Cg,NULL,1,2187,128,True
+2188,16,,B Mhoy H.Pira Scg,NULL,0,2188,128,True
+2110,16,,C M.H.Seur B.S.M.,62 MATHUS HOYOS HOSPITAL SIN EUREKA POR B. S. MER SIN CASA DE GOBIERNO,1,2110,129,True
+2133,16,,C M.H.Seurek Sc.G,62 MATHUS HOYOS HOSPITAL SIN EUREKA SIN CASA DE GOBIERNO,0,2133,129,True
+1917,17,,A I.Patri Sin C.G,63 INDEPENDENCIA PATRICIA SIN CASA DE GOBIERNO,1,1917,131,True
+1948,17,,A Indep.Control,63 INDEPENDENCIA CONTROL,0,1948,131,True
+1919,17,,A Ind.Patri C.Gob,63 INDEPENDENCIA PATRICIAS CASA DE GOBIERNO,1,1919,132,True
+1950,17,,A Indep.Control,63 INDEPENDENCIA CONTROL,0,1950,132,True
+1920,17,,B Ind.Aer.Sin C.G,63 INDEPENDENCIA AEROPUERTO SIN CASA DE GOBIERNO,1,1920,133,True
+1949,17,,B Aerop.Control,63 AEROPUERTO CONTROL,0,1949,133,True
+1947,17,,B Ind.Aerop.C.Gob,63 INDEPENDENCIA AEROPUERTO CON CASA DE GOBIERNO,1,1947,134,True
+1951,17,,B Ind.Aer.Ctrol,63 INDEPENDENCIA AEROPUERTO CONTROL,0,1951,134,True
+2203,17,,B Inep.Hosp.S.Cg,INDEPENDENCIA,1,2203,135,True
+2768,17,,B Ind.Hosp Sin Cg,INDEPENDENCIA HOSPITAL SIN C GOB.,0,2768,135,True
+2806,17,,C Ind.Hosp.S.Cg,INDEPEDENCIA-HOSPITAL-SIN EUREKA-SIN CASA DE GOBIERNO,1,2806,136,True
+2807,17,,C Indp H.S/Cg Bsm,NULL,0,2807,136,True
+2811,17,,C Ind.H Unc C.Cg,NULL,1,2811,138,True
+2814,17,,C Ind.H Unc C/Cg,NULL,0,2814,138,True
+2494,17,,D Ind.Patr S.Cg,INDEPENDENCIA PATRICICAS SIN CASA DE GOBIERNO CON PARQUE INDUSTRIAL,1,2494,143,True
+2543,17,,D Ind.Pc.Cg C.Pi,INDEPENDENCIA PATRICIAS SIN CASA DE GOBIERNO CON  PARQUE INDUSTRIAL,0,2543,143,True
+2885,17,,A Ind.Patr.Scgpi,63 INDEPENDENCIA PATRICIA PARQUE INDUSTRIAL SIN CASA DE GOBIERNO,1,2885,144,True
+2889,17,,A Ind.Patr.Cgpi,63 INDEPENDENCIA PATRICIA PARQUE INDUSTRIAL CASA DE GOBIERNO ,0,2889,144,True
+2292,18,,A Ujemvi S/C.Gob,B  UJEMVI SIN CASA DE GOBIERNO,1,2292,141,True
+2368,18,,A Ujemvi S/C.Gob,B UJEMVI SIN CASA DE GOBIERNO,0,2368,141,True
+2485,18,,A Ujemvi C/C.Gob,B UJEMVI CON CASA DE GOBIERNO,0,2485,142,True
+2880,18,,A Ujemvi C/C.Gob,64 UJENVI CON CASA DE GOBIERNO,1,2880,142,True
+2819,19,,A 1 De Mayo,1 DE MAYO,1,2819,151,True
+2823,19,,A 1 De Mayo,1 DE MAYO,0,2823,151,True
+2675,20,,A Dor Matheu-S/Cg,DORR-MATHEU-S/CG,1,2675,161,True
+2887,20,,A Dor-Matheu-S/Cg,066A DORREGO MATHIU SIN CASA DE GOBIERNO,0,2887,161,True
+2610,20,,66 Dorr-Matheu-C/Cg,DORREGO-MATHEU-CON CASA DE GOBIERNO,1,2610,162,True
+2611,20,,A Dor-Matheu-S/Cg,DORREGO-MATHEU CON CASA DE GOBIERNO,0,2611,162,True
+2624,21,,A Exp Dorr S/Cg,67 EXPRESO DORREGO SIN CASA DE GOBIERNO,1,2624,171,True
+2629,21,,A Exp Dorr S/Cg,67 EXPRESO DORREGO SIN CASA DE GOBIERNO,0,2629,171,True
+2574,21,,A Exp-Dor C/Cgob,67 EXPRESO DORREGO CON CASA DE GOBIERNO,1,2574,172,True
+2575,21,,A Exp Dor C/Cgob,67 EXPRESO DORREGO CON CASA DE GOBIERNO,0,2575,172,True
+2528,22,,A Ortiz S/Cg,ORTIZ SIN CASA DE GOBIERNO,0,2528,181,True
+2529,22,,A Ortiz S/Cg,ORTIZ SIN CASA DE GOBIERNO,1,2529,181,True
+2526,22,,A Ortiz C/Cg,68 ORTIZ CON CASA DE GOBIERNO ,1,2526,182,True
+2527,22,,A Ortiz C/Cg,68 ORTIZ CON CASA DE GOBIERNO ,0,2527,182,True
+2134,23,,A Hosp. Notti,069A HOSP. NOTTI,1,2134,191,True
+2135,23,,A Hosp. Notti,069A HOSP. NOTTI,0,2135,191,True
+2191,23,,Muni Las Her,MUNICIPALIDAD LAS HERAS,1,2191,192,True
+2192,23,,Muni Las Heras,NULL,0,2192,192,True
+2421,24,,A Gllen-G.Cxter,NULL,1,2421,134,True
+2422,24,,A Gllen-G.Cxter,NULL,0,2422,134,True
+2874,24,,A Gllen-G.Cxter,NULL,1,2874,135,True
+2875,24,,A Gllen-G.Cxter,NULL,0,2875,135,True
+2425,24,,B Gllen-Gc-Gobxob,NULL,1,2425,136,True
+2426,24,,B Gllen-Gc-Gobxob,NULL,0,2426,136,True
+2881,24,,B Gllen-Gc-Gobxob,NULL,1,2881,137,True
+2882,24,,B Gllen-Gc-Gobxob,NULL,0,2882,137,True
+2429,25,,C S.Ign-Ter-Cgob,NULL,1,2429,138,True
+2430,25,,C S.Ign-Ter-C.Gob,NULL,0,2430,138,True
+2896,25,,C S.Ign-Ter-C.Gob,NULL,1,2896,139,True
+2897,25,,C S.Ign-Ter-C.Gob,NULL,0,2897,139,True
+2435,25,,F S.Ign Colon Gob,NULL,1,2435,140,True
+2436,25,,F S.Ign-Colon-Gob,NULL,0,2436,140,True
+2899,25,,F S.Ign-Colon-Gob,NULL,1,2899,141,True
+2900,25,,F S.Ign-Colon-Gob,NULL,0,2900,141,True
+3014,26,,A B°Supe/Jud/C.G.,NULL,1,3014,142,True
+2439,26,,A B°Supe/Jud/C.G.,NULL,1,2439,143,True
+2442,26,,A B°Supe-Jud-C.G.,NULL,0,2442,144,True
+2906,26,,B B°Supe/Jud/C.G.,NULL,0,2906,145,True
+3013,26,,B B°Supe/Jud/C.G.,NULL,1,3013,242,True
+3016,26,,B B°Supe/Jud/C.G.,NULL,1,3016,243,True
+3020,26,,C B°Supe-Jud-C.G.,NULL,0,3020,244,True
+3022,26,,C B°Supe/Jud-C.G.,NULL,0,3022,245,True
+3015,27,,A B°Supe-Jud-C.G.,NULL,0,3015,142,True
+2440,27,,A B°Supe/Jud/C.G.,NULL,0,2440,143,True
+2441,27,,A B°Supe/Jud/C.G.,NULL,1,2441,144,True
+2905,27,,B B°Supe/Jud/C.G.,NULL,1,2905,145,True
+3018,27,,B B°Supe-Jud-C.G.,NULL,0,3018,242,True
+3017,27,,B B°Supe/Jud/C.G.,NULL,0,3017,243,True
+3019,27,,C B°Supe/Jud/C.G.,NULL,1,3019,244,True
+3021,27,,C B°Supe/Jud/C.G.,NULL,1,3021,245,True
+2445,28,,A Supe-Plaza G.C.,NULL,1,2445,146,True
+2446,28,,A Supe-Plaza G.C.,NULL,0,2446,146,True
+3153,28,,A Supe-Plaza G.C.,75B SOl ySIERA.P.GC ,1,3153,190,True
+3160,28,,A Supe-Plaza G.C.,75B SOl ySIERA.P.GC ,0,3160,190,True
+2447,29,,A Expr/Supe/Ctro,NULL,1,2447,147,True
+2448,29,,A Expr-Supe-Ctro,NULL,0,2448,147,True
+2449,29,,A Expr/Supe-Ctro,NULL,0,2449,148,True
+2903,30,,Roca X Smartin,NULL,1,2903,215,True
+2904,30,,Roca X Smartin,NULL,0,2904,215,True
+2914,30,,Roca X Smartin,NULL,1,2914,216,True
+2935,30,,Roca X Sanmartín,NULL,0,2935,216,True
+2915,31,,S. Miguel C.Gob,NULL,1,2915,221,True
+2936,31,,San Miguel C.Gob,NULL,0,2936,221,True
+2916,31,,San Miguel C.Gob,NULL,1,2916,222,True
+2937,31,,San Miguel C.Gob,NULL,0,2937,222,True
+2940,32,,Finca González,NULL,0,2940,231,True
+2977,32,,Finca González,NULL,1,2977,231,True
+2920,32,,Finca González,NULL,1,2920,232,True
+2941,32,,Finca González,NULL,0,2941,232,True
+2942,33,,Minetti,NULL,0,2942,245,True
+2974,33,,Minetti,NULL,1,2974,245,True
+2922,33,,Minetti,NULL,1,2922,246,True
+2943,33,,Minetti,NULL,0,2943,246,True
+2923,34,,Espejo Casa Gob.,NULL,1,2923,261,True
+2944,34,,Espejo Casa Gob.,NULL,0,2944,261,True
+2924,34,,Espejo Casa Gob.,NULL,1,2924,262,True
+2945,34,,Espejo Casa Gob.,NULL,0,2945,262,True
+2932,35,,Shopping - Notti,NULL,1,2932,281,True
+2953,35,,Shopping - Notti,NULL,0,2953,281,True
+1649,36,,A S.Mart Sc.Gob,NULL,1,1649,111,True
+1654,36,,A S.Mart.Sc.Gob,NULL,0,1654,111,True
+1679,36,,A S.Mart-C.Gob,NULL,1,1679,112,True
+2893,36,,A S.Mart C/Gob,91 San Martin con casa de gobierno,0,2893,112,True
+1699,36,,B Ba S Mar Nott,091B Ba. San Martin Hospital Pediatrico SC de Gobierno,1,1699,113,True
+1923,36,,B S Mar Nott C8,91 BARRIO SAN MARTIN HOSPITAL NOTTI CONTROL G-8,0,1923,113,True
+1824,36,,B Bsmar Notti,91 BARRIO SAN MARTIN HOSPITAL PEDIATRICO S/CG,1,1824,114,True
+1902,36,,B S Mar Notti,91 BARRIO SAN MARTIN HOSPITAL NOTTI SIN CASA DE GOBIERNO,0,1902,114,True
+1926,36,,B Viaj Unc S M,91 BARRIO VIAJANTES UNC BARRIO SAN MARTIN ,1,1926,115,True
+1927,36,,B Unc Viajantes,91 B  SAN MARTIN UNC B  VIAJANTES ,0,1927,115,True
+2101,37,,Esc Champagnat Vta,ESCOLAR CAMPAGNAT EL CHALLAO VUELTA,0,2101,129,False
+1928,37,,A Ba. Municip,92 BARRIO MUNICIPAL ,1,1928,117,True
+1929,37,,A Ba Municip,92 BARRIO MUNICIPAL TERMINAL,0,1929,117,True
+1931,37,,A Ba.Mun Peluq,92 BARRIO MUNICIPAL CON BARRIO LOS PELUQUEROS,1,1931,118,True
+1932,37,,A Ba. Peluq,92 Ba. los Peluqueros centro ,0,1932,118,True
+1933,37,,A Ba. Muni Nott,92 Ba. MUNICIPAL HOSPITAL PEDIATRICO,1,1933,119,True
+1934,37,,A Ba.Muni Notti,92 BARRIO MUNICIPAL HOSP PEDIATRICO,0,1934,119,True
+2153,37,,B B Mun Inf Unc,92 BARRIO MUNICIPAL HOSPITAL LAGOMAGGIORE UNC ,0,2153,120,True
+2154,37,,B Muni Hosp Unc,92 BARRIO MUNICIPAL B  INFANTA HOSPITAL LAGOMAGGIORE UNC,1,2154,120,True
+1943,37,,B Infan Munic,92-94 Barrio Infanta Barrio Municipal ,1,1943,121,True
+1952,37,,B Munic Infant,92-94 Barrio Municipal Barrio Infanta Terminal,0,1952,121,True
+1983,37,,Ex Expr Reconq,EXPRESO RECONQUISTA,0,1983,122,True
+2156,37,,Ex Expr Reconq,EXPRESO RECONQUISTA CENTRO,1,2156,122,True
+2031,37,,B Unc Lic Agric,92 MUNICIPAL UNC LICEO AGRICOLA,1,2031,127,True
+2032,37,,B Lic Unc Muni,92 LICEO UNC BARRIO MUNICIPAL,0,2032,127,True
+2100,37,,Es Esc Champa Ida,ESCOLAR CHAMPAGNAT EL CHALLAO ,1,2100,129,False
+2122,37,,Ex Munic S/C.Gob,130 EXP.SIN S/GOB,0,2122,130,True
+2155,37,,Ex Reconq S/Cg,EXPRESO RECONQUISTA SIN CASA DE GOBIERNO,1,2155,130,True
+2151,37,,Es Esc Parois,ESCOLAR DIEGO PAROISSIENS IDA DE TARDE,1,2151,137,False
+2152,37,,Es Esc Parois Vta,ESCOLAR DIEGO PAROISSIENS VUELTA DE TARDE,0,2152,137,False
+2104,37,,Es Esc Parois Vta,ESCOLAR ESCUELA PAROISSIENS VUELTA,1,2104,138,False
+2105,37,,Es Esc Parois Ida,ESCOLAR ESCUELA PAROISSIENS IDA,0,2105,138,False
+1990,38,,Cement Viajan,93-95 BARRIO VIAJANTES CEMENTISTA,1,1990,123,True
+1991,38,,Cement Viajan,95 BARRIO VIAJANTES ,0,1991,123,True
+2027,38,,Cement C/Cgob,93 BARRIO CEMENTISTA CON CASA DE GOBIERNO,1,2027,124,True
+2028,38,,Viajant C/Gob,95 BARRIO VIAJANTES CON CASA DE GOBIERNO,0,2028,124,True
+2123,38,,Cem-Manzotti,93 ESC. MANZOTTI,1,2123,131,True
+2147,38,,Esc. Manzotti,93/95 ESC MANZOTTI B  VIAJANTES ,0,2147,131,True
+2148,38,,Es Cemen Manzo,93/95 CAS DE BOB B CEMENTISTA ESCUELA MANZOTTI,1,2148,132,True
+2150,38,,Es Esc Manzo Viaj,93/95 ESC MANZOTTI CASA DE GOBIERNO B  VIAJANTES ,0,2150,132,True
+2012,39,,Infanta S Cg,94 BARRIO INFANTA SIN CASA DE GOBIERNO,1,2012,125,True
+2013,39,,Barrio Infanta,94 BARRIO INFANTA TERMINAL,0,2013,125,True
+2025,39,,Infanta C/C Gob,94 BARRIO INFANTA CON CASA DE GOBIERNO,1,2025,126,True
+2026,39,,Infanta C Gob,94 BARRIO INFANTA CON CASA DE GOBIERNO ,0,2026,126,True
+2029,40,,Cadore-Ctro-Cgo,101 CADORE-CENTRO POR CASA DE GOBIERNO,1,2029,211,True
+2030,40,,Centro  B Cadore,101 CADORE -CENTRO-POR CASA DE GOBIERNO,0,2030,211,True
+2069,40,,Cadore Centro,NULL,1,2069,212,True
+2070,40,,Centro-B Cadore,NULL,0,2070,212,True
+2042,41,,S.Cayet-Cg-Hosp,DE IDA B SAN CAYETANO,1,2042,222,True
+2071,41,,Caye-6Sec-Cg Hos,BARRIO SAN CAYETANO -6TA SECCION  CON CASA DE GOBIERNO Y HOSPITAL LAGOMAGGIORE,0,2071,222,True
+2377,54,,D Vic Alg Zapata,NULL,1,2377,184,True
+2979,41,,6Ta Secc H Lago,102 B  SAN CAYETANO 6ta SECCION HOSPITAL LAGOMAGIORE,1,2979,224,True
+2980,41,,6Ta Dorrego,102 6ta SECCION DORREGO B  SAN CAYETANO,0,2980,224,True
+2047,42,,Naza-Unc-Liceo,Nazareno-UNC-por Julian Barraquero-Liceo Agricola,1,2047,232,True
+2048,42,,Naza-Unc-L.Agri,NAZARENO-UNC-JULIAN BARRAQUERO-LICEO AGRICOLA,0,2048,232,True
+2049,42,,Naz-Unc-Jbjus-Li,NULL,1,2049,233,True
+2050,42,,Naz-Unc-Jbjus-Li,NULL,0,2050,233,True
+2051,42,,Na-Qi-Uni-Unc-Li,NULL,1,2051,234,True
+2052,42,,Na-Qi-Uni-Unc-Li,NULL,0,2052,234,True
+2053,42,,Naz-S/Unc X Barr,NULL,1,2053,235,False
+2054,42,,Naz-S/Unc X Barr,NULL,0,2054,235,False
+2055,42,,Na-S/Unc X Jbjus,NULL,1,2055,236,False
+2056,42,,Na-S/Unc X Jbjus,NULL,0,2056,236,False
+2057,42,,Na-Qui-Dad S/Unc,NULL,1,2057,237,False
+2058,42,,Na-Qui-Dad.S/Unc,NULL,0,2058,237,False
+3133,42,,Na-Qui-Unc S/Dad,NULL,0,3133,238,True
+3134,42,,Na-Qui-Unc S/Dad,NULL,1,3134,238,True
+2061,42,,Na-Unc X Barr-Li,NAZ-UNCXBARRAQ-LICEO,1,2061,239,False
+2062,42,,Na-Unc X Barr-Li,NAZ-UNCXBARRAQ-LICEO,0,2062,239,False
+2063,42,,Na-Uncxjbj-Li Sc,NAZARENO-UNC POR JUAN B JUSTO-LICEO AGRICOLA AP. SAN CAYETANO,1,2063,240,False
+2064,42,,Na-Uncxjbj-Li.Sc,NAZARENO-UNC POR JUAN B JUSTO-LICEO AGRICOLA AP. SAN CAYETANO,0,2064,240,False
+2044,43,,Unimev-Banc Cg,NULL,1,2044,242,True
+2901,43,,Bancar Cg Unimev,104 CON CASA DE GOBIERNO UNIMEV CONTROL,0,2901,242,True
+2067,43,,Unimev Banc S Cg,BARRIO UNIMEV,1,2067,244,True
+2068,43,,Unimev-Banc-S/Cg,BARRIO UNIMEV,0,2068,244,True
+3023,44,,C.Hipico-E.G.B.,111 C.HIPICO-E.G.B.,1,3023,174,True
+3026,44,,Fav-Unc-H.Ctral,111 C.HIPICO-E.G.B.,0,3026,174,True
+3035,44,,C.Hip-Egb-B Oliv,111 C.HIP-EGB-B OLIV,1,3035,175,True
+3037,44,,Ctro-Lh-H.Ctral,111 C.HIP-EGB-B OLIV,0,3037,175,True
+3024,44,,C Hipico.Olivares,NULL,1,3024,176,True
+3034,44,,Ctro-Lh-Xh.Ctral,NULL,0,3034,176,True
+2213,45,,115 Sanid Chall,NULL,1,2213,167,True
+2214,45,,115 Challao Ctro,NULL,0,2214,167,True
+2556,45,,Sdad.Chall.S.Isid,Activar para fiesta Virgen de Lourdes,1,2556,170,True
+2557,45,,Sdad.Ctro,Activar para fiesta Virgen de Lourdes,0,2557,170,True
+2933,46,,B.Matheu-Unc-Zoo,116-Bo.Matheu - UNC,1,2933,271,False
+2954,46,,B.Mat.-Unc-Zoo,NULL,0,2954,271,False
+2934,46,,B.Mat.-Unc-Zoo,116-Bo.Matheu - Zoo,1,2934,272,False
+2955,46,,B.Mat.-Unc-Zoo,116-Bo.Matheu - Zoo,0,2955,272,False
+2157,47,,B La Glo X R.P.,121 B La Glo x R.P.,1,2157,230,True
+2158,47,,B La Gloria X Rp,B  La Gloria por Rodriguez Peña,0,2158,230,True
+2084,47,,9Jul-Als-C.Impsa,NULL,1,2084,242,True
+2163,47,,B Lglor-9Jul-Als,B La Gloria por 9 de julio-Alsina-Club Impsa,0,2163,242,True
+2169,48,,B La Glo-P.Olive,B  LA GLORIA POR PUENTE OLIVE,1,2169,231,True
+2171,48,,B La Glo-P.Olive,B  LA GLORIA POR PUENTE OLIVE,0,2171,231,True
+2170,49,,B Ant. Gc Ctro,BARRIO ANTARTIDA,1,2170,232,True
+2177,49,,B Ant Pla G/Cruz,123 BARRIO ANTARTIDA B  EL MIRADOR PLAZA G CRUZ ,0,2177,232,True
+2159,50,,Directo Acc Sur,124 DIRECTO  PÒR ACCESO SUR,1,2159,233,True
+2160,50,,La Glor Acc Sur,124 LA GLORIA POR ACCESO SUR ,0,2160,233,True
+2172,50,,B L.Glor-Dir-Cos,B  La Gloria -Directo por Costanera,1,2172,234,True
+2173,50,,B L.Glo-Dir-Cost,B La Gloria Directo por Costanera,0,2173,234,True
+2183,51,,B La Glo V Nueva,125 BARRIO LA GLORIA VILLA NUEVA HOSPITAL NOTTI,1,2183,235,True
+2184,51,,V Nue La Gloria,125 VILLA NUEVA HOSPITAL NOTTI PLAZA GODOY CRUZ B  LA GLORIA,0,2184,235,True
+2136,52,,B Vict Acc.Nor,131 BARRIO VICTORIA POR ACCESO NORTE,1,2136,115,True
+2137,52,,B Vict Acc.Nor,131 BARRIO VICTORIA POR ACCESO NORTE,0,2137,115,True
+2863,52,,A Borb-Ctro X Acc,BORBOLLON DE CENTRO A ZONA POR ACCESO NORTE  No corresponde ida,0,2863,152,True
+2864,52,,A Borb X Acc,BORBOLLON POR ACCESO NORTE,1,2864,153,True
+2869,52,,A Borb X Acc,BORBOLLON POR ACCESO NORTE,0,2869,153,True
+2639,52,,B Cuyan X Acc N,131 CUYANITA POR ACCESO NORTE A BORBOLLON,1,2639,158,True
+2640,52,,B Cuyan X Acc N,131 CUYANITA POR ACCESO NORTE A BORBOLLON,0,2640,158,True
+2635,52,,B Cuyanita Borbo,131 CUYANITA POR CALLE MAIPÚ A BORBOLLON,1,2635,159,True
+2636,52,,B Cuyanita Borbo,131 CUYANITA POR CALLE MAIPÚ A BORBOLLON,0,2636,159,True
+2537,53,,B Vic Pza Ls Hs,BARRIO VICTORIA PLAZA LAS HERAS ,1,2537,179,True
+2538,53,,B Vic Pza Ls Hs,LAS HERAS CALLE MAIPU EL BORBOLLON,0,2538,179,True
+2138,54,,A B Vict X Maipu,133 B VICTORIA X MAIPU,1,2138,116,True
+2144,54,,A B Vict X Maipu,NULL,0,2144,116,True
+2146,54,,A B Vict C/Gob,133A B VICTORIA X MAIPU C/GOB,1,2146,117,True
+2165,54,,A B Vic X Mpu C.G,NULL,0,2165,117,True
+2166,54,,A B Vict X Zapata,133A B VICTORIA POR CALLE ZAPATA,1,2166,118,True
+2168,54,,A B Vic. X Zapata,133A B VICTORIA X CALLE ZAPATA,0,2168,118,True
+2870,54,,B Borbo X C Maipu,BORBOLLON POR CALLE MAIPU,1,2870,154,True
+2871,54,,B Borb X C Maipu,BORBOLLON POR CALLE MAIPÚ,0,2871,154,True
+2957,54,,B Borb X Maipu Cg,NULL,1,2957,155,True
+2958,54,,B Borb X Maipu Cg,NULL,0,2958,155,True
+2681,54,,B Borb Mpu Cuy,133B BORBOLLON POR CALLE MAIPÚ A CUYANITA,1,2681,157,True
+2682,54,,B Borb A Cuy,133B BORBOLLON POR CALLE MAIPÚ A CUYANITA,0,2682,157,True
+2566,54,,C Alg Ctro Mpu V,133C ALGARROBAL-CENTRO-CALLE MAIPU-B  VICTORIA,1,2566,174,True
+2568,54,,C Alg Ctro Mpo V,ALGARROBAL-CENTRO-CALLE MAIPU-B  VICTORIA,0,2568,174,True
+2536,54,,D Vic Cen Mpu Al,B VICTORIA-CENTRO POR C. MAIPÚ-ALGARROBAL DE ABAJO,1,2536,178,True
+2539,54,,D Vi Ctro Mpu Alg,B VICTORIA-CENTRO-CENTRO MAIPÚ-ALGARROBAL DE ABAJO,0,2539,178,True
+2433,54,,D Vic Alg Zap,133 B  Victoria al Algarrobal Por Zapata,0,2433,184,True
+2330,54,,C Alg Aba Vict Cg,133 ALGARROBAL ABAJO B VICTORIA CASA GOBIERNO X MAIPU,1,2330,185,True
+2371,54,,C Alg Vic Cg Mpu,NULL,0,2371,185,True
+2311,54,,E Borboll.Zapata,133E BORBOLLON POR CALLE ZAPATA,1,2311,186,True
+2318,54,,E Borbo X Zapata,NULL,0,2318,186,True
+2200,54,,D Vic La Pega,133D B  VICTORIA CENTRO,1,2200,188,True
+2201,54,,D Cent Alg Pega,133D CENTRO ALGARROBAL LA PEGA CONTROL ,0,2201,188,True
+2198,54,,C Alg Pega Ctro,NULL,1,2198,189,True
+2262,54,,C Alg Pega Ctro,AGARROBAL ABAJO-LA PEGA-CENTRO B  VICTORIA-CONTROL,0,2262,189,True
+3132,55,,Mpu-Mza Lin/Terr,151-MAIPU-MENDOZA POR LINEA VUELTA POR TERRADA,1,3132,169,True
+3155,55,,Mza-Maipu Terr,NULL,0,3155,169,False
+1615,55,,Mpu Pte Oliv Mza,MAIPU PUENTE OLIVE MENDOZA ,1,1615,170,True
+1617,55,,Mza Pte Oli Mpu,MENDOZA PUERNTE OLIVE MAIPÚ,0,1617,170,True
+1623,55,,Pte Olive C Gob,MAIPÚ PTE OLIVE CON C/ GOBIERNO MENDOZA,1,1623,171,True
+1624,55,,Mza P Olive Mpu,MENDOZA PUENTE OLIVE MAIPÚ,0,1624,171,True
+1974,55,,Escol Vieytes,ESCOLAR VIEYTES,1,1974,173,False
+2975,55,,Escol Vieytes,ESCOLAR VIEYTES,0,2975,173,False
+3139,55,,Esc.Virg Car De Cuyo,ESCUELA VIRGEN DEL CARMEN DE CUYO 1/2 DIA,1,3139,174,False
+3154,55,,Esc.Virg Carm Cuyo,NULL,0,3154,174,False
+3094,55,,Esc.Vieytes Tarde,ESCOLAR VIEYTES DE TARDE,1,3094,175,False
+3156,55,,Esc Ivcc Tarde,NULL,0,3156,175,False
+1978,55,,Escol Ivcc,ESCOLAR IVCC TARDE,1,1978,176,False
+2978,55,,Escol Ivcc,ESCOLAR IVCC VUELTA,0,2978,176,False
+3069,55,,Escolar Vieytes,NULL,1,3069,177,False
+1625,55,,Mpu Bdo Pte Ol,MPÚ BOEDO PTE OLIVE MDZ,1,1625,180,True
+1626,55,,Mza Pte O Bdo Mp,MENDOZA POR PUENTE OLIVE BOEDO MAIPÚ,0,1626,180,True
+1620,56,,Mza-Ac S-Terr-Mpu,RECORRIDO 152 -MAIPU POR TERRADA-ACCESO SUR ,0,1620,172,True
+3051,56,,Mpu Mza Ter Acc S,152 MAIPÚ MENDOZA TERRADA POR ACCESO SUR,1,3051,172,True
+1703,57,,Maipu-Mza X Maza,Maipú - Mendoza  por Maza ,1,1703,111,True
+1704,57,,Mza-Maipu X Maza,Mendoza Maipú por Maza ,0,1704,111,True
+1936,57,,Mpu-Mza-Cgob-Maz,NULL,1,1936,112,True
+1937,57,,Maipu-Mza-Maza,NULL,0,1937,112,True
+1939,58,,Mpu Mza Exp.Maza,NULL,1,1939,113,True
+1940,58,,Mza-Mpu Exp.Maza,NULL,0,1940,113,True
+1610,59,,Maip-Exp.Urq-Mza,161- MAIPU EXPRESO URQUIZA-MENDOZA,1,1610,111,True
+1611,59,,Mza-Exp.Urq-Maip,161- MAIPU-EXPRESO URQUIZA-MENDOZA,0,1611,111,True
+1613,59,,Mpu-Exp.Stea-Mza,161-MAIPU-EXPRESO-SARRATEA-MENDOZA,1,1613,112,True
+1614,59,,Mz-Exp.Stea-Maip,161-MAIPU-EXPRESO SARRATEA-MENDOZA,0,1614,112,True
+1675,60,,Maip H Ital Mza,162 LINEA POR HSPITAL ITALIANO MENDOZA ,1,1675,121,True
+1676,60,,A Mendoza Maipu,MENDOZA POR LINEA MAIPU,0,1676,121,True
+1621,60,,T.Sosa-Hosp.Ital,RECORRIDO 162 BARRIO TROPERO SOSA - HOSPITAL ITALIANO.,1,1621,124,True
+1622,60,,A-H.Ital.B.T.Sosa,RECORRIDO 162 BARRIO TROPERO SOSA- HOSPITAL ITALIANO,0,1622,124,True
+1678,60,,Mal T Sosa Mza,BARRIO MALCAYAE TROPERO SOSA MENDOZA,1,1678,125,True
+1680,60,,C-Mza-Trop.S-Mal,Recorrido 162- Malcayanes -Tropero Sosa,0,1680,125,True
+1632,60,,C.Gob-Ref.Terr,CASA DE GOBIERNO-REFUERZO TERRADA,1,1632,126,True
+1633,60,,Ref.Terr-C.Gob.,CASA DE GOBIERNO -REFUERZO TERRADA,0,1633,126,True
+1641,60,,Mpu-Mza-C.Gob,162-POR CASA DE GOBIERNO,1,1641,127,True
+1648,60,,B Mendoza Maipu,NULL,0,1648,127,True
+1630,60,,Pescara H It Mza,162B LINEA POR PESCARA HOSPITAL ITALIANO MENDOZA,1,1630,128,True
+1631,60,,B Pescara Maipu,162 PESCARA MAIPÚ ,0,1631,128,True
+3211,60,,Boedo Maipu,NULL,0,3211,129,True
+1684,60,,M Y T Sosa Mza,162 MALCAYAE Y TROPERO SOSA MENDOZA,1,1684,130,True
+1685,60,,C Mza Mal T.S.Mpu,162 MENDOZA BARRIO MALCAYAE TROPERO SOSA MAIPÚ,0,1685,130,True
+3212,60,,C Ref.Cg C Rioja,162 LINEA POR HSPITAL ITALIANO MENDOZA ,1,3212,500,True
+3213,60,,C Ref.Cg C Rioja,MENDOZA POR LINEA MAIPU,0,3213,500,True
+1628,60,,Boedo C.Gob Mza,162 POR BOEDO C/ CASA DE GOBIERNO MENDOZA  codigo redbus 128,1,1628,501,True
+1629,60,,Boedo C-Gob Mpu,162 POR BOEDO  CON CASA DE GOBIERNO MAIPÚ  codigo redbus 128,0,1629,501,True
+1647,61,,Maipu-Mza P.Naz,NULL,1,1647,131,True
+1696,61,,Mza-Maipu X Naz,Mendoza-Maipú por Nazareno,0,1696,131,True
+1955,61,,Nazareno-Centro,RECORRIDO DESDE EL B NAZARENO AL CENTRO,1,1955,132,True
+1959,61,,Nazareno-Vuelta,RECORRIDO 163 NAZARENO DESDE EL CENTRO AL B  NAZARENO,0,1959,132,True
+3257,62,,Esc Comercio Coquim,NULL,1,3257,148,False
+3258,62,,Esc Comercio S Eduar,NULL,1,3258,149,False
+1686,62,,Loc Coq Mpu,165 LOCAL COQUIMBITO MAIPU,1,1686,151,True
+1687,62,,Mpu Coquimbito,165 MAIPU COQUIMBITO ,0,1687,151,True
+1960,62,,Esc.Gabrielli(Maña),ESCUELA GABRIELLI CORTO DE MAÑANA,1,1960,153,False
+3062,62,,Esc.Gabrielli,NULL,0,3062,153,False
+3260,62,,Esc Gabrielli Corto,NULL,1,3260,154,False
+1973,62,,Es Esc. Gabriell,NULL,0,1973,155,False
+2972,62,,Local Esc.Gabr Lar,LOCAL ESCULA GABRIELLI LARGO ,1,2972,155,False
+1963,62,,Escolar Gabrieli,NULL,1,1963,156,False
+1691,62,,Coq. San Eduardo,165 COQUIMBITO MAIPÚ BARRIO SAN EDUARDO,1,1691,158,True
+1694,62,,Local Coquim Luzur,LOCAL COQUIMBITO LUZURIAGA,0,1694,158,True
+1964,63,,Utma S Cay P.Va,UTMA-SAN CAYETANO POR REDRO VARGAS,1,1964,161,True
+2910,63,,Utma-S.Cay-P.Var,UTMA-SAN CAYETANO POR P. VARGAS,0,2910,161,True
+1966,63,,Utma-S.Cay-Lama,UTMA-SAN CAYETANO POR LAMADRID,1,1966,162,True
+2909,63,,Utma-S.Cay-Lama,UTMA-SAN CAYETANO POR LAMADRID,0,2909,162,True
+1968,63,,163 Utma Antar,163 UTMA ANTARTIDA ,1,1968,163,True
+2757,75,,A Corr.X Nac Mil.,A22A CORR.X NAC.MIL.,0,2757,211,True
+2912,63,,B Anta-Ctro-Dorr,BARRIO ANTARTIDA CENTRO POR DORREGO,0,2912,163,True
+2913,63,,Naz-Cg X Dorr,NAZARENO CON CASA DE GOBIERNO POR DORREGO,1,2913,164,True
+2966,63,,Nazar Cg Xdorr,NULL,0,2966,164,True
+1906,64,,Mpu.Coq.R.Cr.Mza,Maipú - Coquimbito - Rodeo de la Cruz - Mendoza,1,1906,114,True
+1909,64,,Mpu.Coq.R.Crz.Mz,Maipú - Coquimbito - Rodeo de la Cruz - Mendoza,1,1909,115,True
+1956,64,,Mpu.R.Cruz-Mza,Maipú - Rodeo de la Cruz - Mendoza,1,1956,116,True
+1985,64,,Maipu.R.Cruz-Mdz,Maipu - Rodeo de la Cruz - Mendoza,1,1985,117,True
+2637,64,,V.Viñ.Gutierr.Lc,171 V.VIÑEDO Z.ALCOHOLERA GUTIERREZ,1,2637,118,True
+2641,64,,Z.Alcoh.Gut.Mpu,171 V.VIÑEDO Z.ALCOHOLERA GUTIERREZ,0,2641,118,True
+2107,64,,Mpu.Rpeña.Mdz,Maipú - Rodriguez Peña - Mendoza,1,2107,123,True
+2620,64,,R.Cruz Gut.Maipu,171 V.NUEVA R.CRUZ GUTIERREZ,0,2620,123,True
+2118,64,,Maipú-R.Peña-Mdz,Maipú - Rodriguez Peña - Mendoza,1,2118,125,True
+2119,64,,Mdz-R.Cruz-Mpu,Mendoza - Rodeo de la Cruz - Maipú,0,2119,125,True
+2615,64,,R.Cruz V.Viñedo,171 V.VIÑDO V.NUEVA R.CRUZ,0,2615,145,True
+2959,64,,Maipú.R.Cruz.Mdz,171V.NUEVA R.CRUZ X GUTIERREZ,1,2959,145,True
+2616,64,,R.Cruz Mza,171 V.VIÑEDO R.CRUZ V.NUEVA MZA,1,2616,146,True
+2617,64,,Rcruz V.Viñ.Gut,171 V.VIÑEDO V.NUEVA R.CRUZ GUTIRREZ ,0,2617,146,True
+2618,64,,R.Cruz V.Nuv.Mza,171 V.VIÑEDO R.CRUZ MZA R.CRUZ MAIPU,1,2618,147,True
+2619,64,,R.Cruz Gut.Maipu,171 V.NUEVA R.CRUZ GUTIERREZ,0,2619,147,True
+2621,64,,Rcruz V.Nuv.Mz,171 V.VIÑEDO V.NUEVA R.CRUZ MZA,1,2621,148,True
+2224,64,,Mpu.Viñ.Rcruz.Mz,Maipú - Viejo Viñedo - Rodeo de la Cruz - Mendoza,1,2224,149,True
+2249,64,,Mz.Rcruz.Vviñedo,Mendoza - Rodeo de la Cruz - Viejo Viñedo,0,2249,149,True
+2225,64,,Mpu.Viñ.Rcruz.Mz,NULL,1,2225,150,True
+2226,64,,Mpu.Viñ.Rcruz.Mz,Maipú - Viejo Viñedo - Rodeo de la Cruz - Mendoza,1,2226,151,True
+2227,64,,Mpu.Viñ.Rcruz.Mz,Maipú - Viejo Viñedo - Rodeo de la Cruz - Mendoza,1,2227,152,True
+2544,64,,Mz.Rcruz.Mpu,Mendoza - Rodeo de la Cruz - Maipú,0,2544,152,True
+2228,64,,Mpu.Viñ.Rcruz.Mz,Maipú - Viejo Viñedo - Rodeo de la Cruz - Mendoza,1,2228,153,True
+2275,64,,Mz.Rcruz.Viñ.Mpu,Mendoza - Rodeo de la Cruz - Viejo Viñedo - Maipú,0,2275,153,True
+2626,64,,V.Viñ.Rcruz Mz,171 V.VIÑEDO V.NUEVA R.CRUZ GUTIERREZ,1,2626,173,True
+2631,64,,Mz V.Nva.Rcruz,171 V.VIÑEDO V.NUEVA R.CRUZ GUTIERREZ,1,2631,174,True
+2634,64,,R.Cruz Gutierr.,171 V.NUEVA R.CRUZ GUTIERREZ,0,2634,175,True
+2016,65,,Maipu-R.Cruz-Mdz,Maipu - Rodeo de la Cruz - Mendoza,1,2016,119,True
+2019,65,,Mpu-R.Cruz-Mdz,Maipú - Rodeo de la Cruz - Mendoza,1,2019,120,True
+2894,65,,V.Nuev.R.Cruz Mza,172 MAIPU.R.CRUZ RUTTINI ORTEGA 173,1,2894,121,True
+2024,65,,Maipú-R.Cruz-Mdz,Maipú - Rodeo de la Cruz - Mendoza,1,2024,122,True
+2043,65,,Mdz-R.Cruz-Maipú,Mendoza - Rodeo de la Cruz - Maipú,0,2043,122,True
+2113,65,, Mpu.R.Peña.Mdz,Maipú - Rodriguez Peña - Mendoza,1,2113,124,True
+2116,65,,Mdz.R.Cruz.Mpu,Mendoza - Rodeo de la Cruz - Maipú,0,2116,124,True
+2141,65,,Mpu R.Peña.R.Mdz,Maipú - Rodriguez Peña - Mendoza,1,2141,126,True
+2142,65,,Mdz.R.Cruz.Maipú,Mendoza - Rodeo de la Cruz - Maipú,0,2142,126,True
+2162,65,,Mdz.R.Cruz.Mpú,Mendoza - Rodeo de la Cruz - Maipú,0,2162,127,True
+2167,65,,Maipú.R.Peña.Mdz,Maipú - Rodriguez Peña - Mendoza,1,2167,127,True
+2178,65,,Mdz.R.Cruz.Mpú,Mendoza - Rodeo de la Cruz - Maipú,0,2178,128,True
+2179,65,,Maipú.R.Peña.Mdz,Miapú - Rodriguez Peña - Mendoza,1,2179,128,True
+2434,65,,R.Cruz.Mdz,Rodeo de la Cruz - Mendoza,1,2434,151,True
+2532,65,,Mdz.R.Cruz.Maipú,Mendoza - Rodeo de la Cruz - Maipú,0,2532,151,True
+2604,65,,Coq.R.Cruz Mza,172 V.NUEVA R.CRUZ COQ.T.SOSA,1,2604,154,True
+2633,65,,R.Cruz Mza,172 R.CRUZ V.NUEVA MZA,1,2633,175,True
+3307,65,,Cens-Mpu R.C.Mza,172 ESC.CENS MAIPU RODEO DE LA CRUZ COQUIMBITO 173,1,3307,314,False
+2319,66,,Mdz.R.Peña.Maipú,Mendoza - Rodriguez Peña - Maipú,0,2319,114,True
+1911,66,,Mz Gcr.V.Viñ Mpu.,Mendoza - G.Cruz - R.Peña - Coquimbito - V.Viñedo - Maipú,0,1911,115,True
+2034,66,,R.Cruz.Mdz,Rodeo de la Cruz- Mza.,1,2034,115,True
+1957,66,,R.Cruz-Mdz,Rodeo de la Cruz - Mendoza,1,1957,116,True
+1958,66,,Mz-Rutt.Ort-Mpu,Mendoza - Ruttini - Ortega - Maipú,0,1958,116,True
+2872,66,,Maipú.R.Cruz.Mdz,Maipú - Rodeo de la Cruz - Mendoza,1,2872,117,True
+2873,66,,B Mz.Z.Alc.Ort,Mendoza - Zona Alcoholera - Ortega,0,2873,117,True
+2018,66,,Mz Gcruz.Coq.Mpu,Mendoza - Plaza Godoy Cruz - R.Peña - Coquimbito - Maipú ,0,2018,119,True
+2033,66,,R.Cruz-Mdz,Rodeo de la Cruz - Mendoza,1,2033,119,True
+2020,66,,R.Cruz-Mdz,Rodeo de la Cruz - Mendoza,1,2020,120,True
+2022,66,,Mz-Rutt.Ort-Mpu,Mendoza - Ruttini - Ortega - Maipú,0,2022,120,True
+2021,66,,R.De La Cruz-Mdz,Rodeo de la Cruz - Mendoza ,1,2021,121,True
+2023,66,,Mdz.Z.Alcoho.Ort,Mendoza - Zona Alcoholera - Ortega,0,2023,121,True
+2099,66,,Maipú.R.Peña.Mdz,Maipú - Rodriguez Peña - Mendoza,1,2099,123,True
+2115,66,,Maipú.R.Peña.Mdz,Maipú - Rodriguez Peña - Mendoza,1,2115,124,True
+2127,66,,Mpu.Ort.Rpeña.Mz,Maipú - Ortega - Rodriguez Peña - Mendoza,1,2127,125,True
+2140,66,,Mpu.Ort.Rpeña.Mz,Maipú - Ortega - Rodriguez Peña - Mendoza,1,2140,126,True
+2182,66,,Mpú.Z.Alcoho.Mz,Maipú - Zona Alcoholera - Rodriguez Peña - Mendoza,1,2182,128,True
+1709,66,,Exp.Mpu.Rpeña Mz,Expreso  Maipú - R.Peña Mza ,1,1709,129,True
+1710,66,,Exp.Mza Mpu Rpeña,Expreso Rodríguez Peña Mendoza Maipú,0,1710,129,True
+1711,66,,Exp.Nech.Mpu Mza,Expreso  Maipú   Ortega Necochea Rodríguez Peña Mendoza,1,1711,130,True
+1712,66,,Exp.Nec.Mza Mpu,Expreso  Ortega Necochea Rodríguez Peña Mendoza Maipú,0,1712,130,True
+1640,112,,Centro-Parque,NULL,1,1640,111,True
+2622,66,,Z.Ind.Gcruz V.V.,173 ZONA IND.PL.G.CRUZ COQ.T.SOSA V.VIÑ.,1,2622,148,True
+2623,66,,R.Peña.V.V.Coq,173 Z.IND.PL.G.CRUZ.COQ.T.SOSA V.VIÑEDO,0,2623,148,True
+2344,66,,R.Cruz.Mdz,Rodeo de la Cruz - Mendoza,1,2344,150,True
+2369,66,,Mz.Rpeña.Vviñedo,Mendoza - Rodriguez Peña - Viejo Viñedo,0,2369,150,True
+2605,66,,Mza R.Peña Ort.,173 ZONA IND.PL.GCRUZ ORT.V.VIÑEDO,1,2605,154,True
+2606,66,,Rpeña V.Viñ.Ort.,173 ZONA IND.PLA.G.CRUZ.COQ.T.SOSA .V.VIÑEDO,0,2606,154,True
+2627,66,,Z.Ind.Gcruz Coq,173 ZONA IND.PL.G.CRUZ COQ.T.SOSA,1,2627,173,True
+2628,66,,R.Peña Coq.Tsosa,173 ZONA IND. PL.G.CRUZ COQ.T.SOA,0,2628,173,True
+2630,66,,Coq.R.Peña Mza,173 MAIPU R.PEÑA MZA R.CRUZ V.VIÑEDO 171,1,2630,174,True
+1714,66,,Mza Gc.B.Mor.Mpu,MAIPU MENDOZA POR B.MORON - PTE OLIVE - PL. GODOY CRUZ ,0,1714,182,True
+3350,66,,Mpu.Mza Mor.Gc.Mz,MAIPU MENDOZA POR B.MORON - PTE OLIVE - PL. GODOY CRUZ  ,1,3350,182,True
+3348,66,,Exp.Mpu.Accest.Mz,Expreso - Maipú - B° 25 De Mayo - Acceso Este - Mendoza,1,3348,196,True
+3349,66,,Mza Accest.Mpu,Expreso Mendoza - Acceso Este - B° 25 De Mayo - Maipú,0,3349,196,True
+3308,66,,R.Cruz Mza,172 ESC.CENS MAIPU RODEO DE LA CRUZ COQUIMBITO 173,1,3308,314,False
+3309,66,,R.Peña Coq.Mpu,172 ESC.CENS 172 MAIPU RODEO DE LA CRUZ COQUIMBITO 173,0,3309,314,False
+3310,66,,R.Peña Coq.Mpu,172 ESC.CENS 172 MAIPU RODEO DE LA CRUZ COQUIMBITO 173,0,3310,314,False
+1713,67,,Tsosa Mza P.Gcruz,B° Amupe -  Tropero Sosa Mendoza por Plaza Godoy Cruz,1,1713,131,True
+3351,67,,Mza P.Gcruz Tsosa,Mendoza por Plaza Godoy Cruz Maipú - Tropero Sosa - B° Amupe,0,3351,131,True
+2185,67,,T.Sosa Mza Cost.,B° Amupe - Tropero Sosa - Mendoza por Costanera,1,2185,132,True
+2186,67,,Mza P.Gcruz Tsosa,Mendoza Por Pl.Godoy Cruz - Tropero Sosa B° Amupe,0,2186,132,True
+2194,67,,R.Esc.Mza P.Gcruz,B° Remedios de Escalada T.Sosa Maipú Mza por Plaza Godoy Cruz,1,2194,133,True
+2195,67,,Mza Tsosa P.Gcruz,Mza por Plaza Godoy Cruz Maipú T.Sosa ,0,2195,133,True
+2196,67,,C.Barro Mz Gcruz,Castro Barros - Tropero Sosa Mza por Plaza de Godoy Cruz,1,2196,134,True
+2197,67,,Mz P.Gcruz Tsosa,Mza por Plaza de Godoy Cruz Tropero Sosa ,0,2197,134,True
+2220,67,,Cbarros Mza Cost,Castro Barros - Tropero Sosa Mza por Costanera,1,2220,135,True
+2222,67,,Mz P.Gcruz Tsosa,Mza Por Pl.Godoy Cruz Tropero Sosa,0,2222,135,True
+2306,67,,T.S.Malc.Mz Gcruz,B° Malcayae - Tropero Sosa Mendoza por Plaza Godoy Cruz,1,2306,136,True
+2308,67,,Mz Gcruz Malc.T.S,Mendoza por Plaza Godoy Cruz B° Malcayae  Tropero Sosa ,0,2308,136,True
+1725,67,,Tsosa Z.Ind.Mza,B° Tropero Sosa - Zona Industrial,1,1725,137,True
+1756,67,,3Esq.T.S.Malc.Mza,3 ESQUINAS TROPERO SOSA MALCAYAE MENDOZA POR PLAZA G. CRUZ,1,1756,178,True
+2474,67,,Mza G.Cruz T.Sosa,MENDOZA POR PLAZA G.CRUZ MALCAYAES T.SOSA,0,2474,178,True
+2477,67,,Mza Gcruz T.Sosa,174 B°AMUPE-T.SOSA MZA PL.G.CRUZ 3ESQ.,1,2477,179,True
+2519,67,,Mza Gcruz Mpu T.S,MENDOZA POR PLAZA G. CRUZ MAIPU TROPERO SOSA B° AMUPE,0,2519,179,True
+2520,67,,Tsosa Mpu.Gc.Mz,B° AMUPE TROPERO SOSA MENDOZA POR P. GODOY CRUZ 3 ESQUINAS,1,2520,180,True
+2521,67,,Mz Mpu.Tsosa.3Esq,MENDOZA POR P. GODOY CRUZ MAIPU TROPERO SOSA 3 ESQUINAS,0,2521,180,True
+1765,67,,Tsos.Bjazm.Gc.Mz,B° Amupe -Tropero Sosa Mza por Pl. Godoy Cruz -(APERTURA LOS JAZMINES),1,1765,193,True
+2820,67,,Mza Mpu.Jazm.Tsos,Mza por Pl. Godoy Cruz - Maipú - B°Los Jazmines -Tropero Sosa - B° Amupe,0,2820,193,True
+1839,67,,Chach.Mpu.Mza,Chachingo por Urquiza Paraíso Ruta 60 Malcayae - Maipú - R. Peña - Mendoza,0,1839,247,True
+1769,68,,Maipu-Lujan,Maipu - Lujan,1,1769,211,True
+1770,68,,Lujan-Maipu,LUJAN MAIPU,0,1770,211,True
+1771,68,,Mpu Lujan Sup,Maipú - Lujan - Maipú (Superiora de ida),1,1771,212,True
+1772,68,,Lujan Maipu,LUJAN MAIPU,0,1772,212,True
+1774,68,,Lujan Maipu Mza,LUJAN MAIPU MZA,0,1774,213,True
+2696,68,,Mza Maip Luj,NULL,1,2696,213,True
+2876,68,,Mza Maip.Luj.Sup,Mendoza - Lujan por Maipú (entra a la Superiora de ida y vuelta),1,2876,214,True
+2877,68,,Luj.Maip.Sup Mza,Lujan por Maipú Mendoza - (entra a la Superiora de ida  y vuelta) ,0,2877,214,True
+1898,68,,Maip.Rec.Lujan,Maipú - Recoaro - Luján,1,1898,298,True
+2773,68,,Lujan Rec.Maipu,Luján - Recoaro - Maipú ,0,2773,298,True
+1777,69,,Mza Mpu.Pmol.Cagr,Mendoza - Pedro Molina - C. Agrarias(Superiora de vuelta) ,1,1777,215,True
+1778,69,,C.Agr.Sup.Mpu.Mza,Mendoza - Pedro Molina - C. Agrarias(Superiora de vuelta) ,0,1778,215,True
+1779,69,,Mza Mpu.Sup.Cagr,Mendoza - Pedro Molina - C. Agrarias(Superiora de ida ) - Maipú,1,1779,216,True
+1780,69,,C.Agr.Sup.Mpu.Mza,C. Agrarias - Pedro Molina - Maipú Mendoza  ,0,1780,216,True
+1781,69,,Mza Mpu.Sup.Cagr.,Mendoza - Pedro Molina - C. Agrarias(Superiora de ida ) - Maipú ,1,1781,217,True
+1782,69,,C.Agr.P.Mol.Mpu,C. Agrarias - Pedro Molina - Maipú ,0,1782,217,True
+1783,69,,Mza.Mpu.Sup.C.Agr,Mendoza - Pedro Molina - C. Agrarias(Superiora de ida y de vuelta ),1,1783,218,True
+1784,69,,C.Agr.Sup.Mpu.Mza,C. Agrarias - Pedro Molina - (Superiora) Maipú Mendoza,0,1784,218,True
+1785,69,,Mpu.Sup.C.Agr, Maipú Pedro Molina - C. Agrarias(Superiora),1,1785,219,True
+1786,69,,C.Agr.Sup.Mpu.Mza,C. Agrarias - Pedro Molina (Superiora) - Maipú - Mendoza ,0,1786,219,True
+3162,69,,Mza Maip.P.Mol.,181MENDOZA PEDRO MOLINA C.AGRARIAS SUP.IDA ,1,3162,220,True
+3164,69,,Mza Mpusup.C.Agr.,181 MZA P.MOLINA C.AGRARIAS SUPERIORA DE IDA,1,3164,221,True
+3167,69,,P.Mol.Mpu Mza,181 MZA P.MOLINA C.AGRARIS SUPERIORA IDA,0,3167,221,True
+3305,69,,Maipu Mendoza,MAIPU MENDOZA (P.MOLINA C.AGRARIAS),1,3305,288,True
+1741,70,,V.Cast.Maipu, Maipú B° Canciller - Videla Castillo - Maipú (LOCAL),0,1741,163,True
+2891,70,,Mpu.Ba.Canc.Vcast,Maipú Ba. Canciller - Videla Castillo - Maipu (LOCAL),1,2891,163,True
+2890,70,,Mpu.Canc.V.C.Esc, Maipú B° Canciller - Videla Castillo - Maipú (LOCAL) hasta la Escuela Bernardo Ortiz,1,2890,164,True
+1638,112,,Centro-Vnueva,NULL,1,1638,122,True
+2892,70,,V.Cast.Maipu,Maipú B° Canciller - Videla Castillo - Maipú (LOCAL) hasta la Escuela Bernardo Orti,0,2892,164,True
+1744,70,,Mpu.V.Cast.Canc.,Maipú Videla Castillo B° Canciller- Maipú (LOCAL) ,1,1744,165,True
+2895,70,,V.Castillo Maipu,Maipú Videla Castillo B° Canciller- Maipú (LOCAL),0,2895,165,True
+1746,70,,Mpu.V.C.Canc.Esc.,Maipú Videla Castillo B° Canciller- Maipú (LOCAL) hasta la Escuela Bernardo Ortiz,1,1746,166,True
+1747,70,,V.Castillo Maipu,Maipú Videla Castillo B° Canciller- Maipú (LOCAL) hasta la Escuela Bernardo Ortiz,0,1747,166,True
+3092,70,,Maipu V.Cast.Mza,182 MAIPU VIDELA CASTILLO MZA,1,3092,177,True
+3093,70,,Maipu V.Cast.Mza,182 MAIPU VIDELA CASTILLO MENDOZA,0,3093,177,True
+1791,70,,3Esq.Sup.Mpu.Mza,Tres Esquinas (Superior) Maipú Mendoza,0,1791,222,True
+3168,70,,Mza Mpu 3Esq.,182 MZA 3 ESQUINAS SUPERIORA DE VUELTA RIO MZA,1,3168,222,True
+1793,70,,3Esquinas Maipu,Tres Esquinas Maipú,0,1793,223,True
+3171,70,,Mza Mpu Sup.3Esq,182 MZA 3 ESQUINAS SUPERIORA DE IDA MAIPU,1,3171,223,True
+1794,70,,Maipu 3 Esquinas,Maipú - 3 Esquinas (x P.Molina) ,1,1794,224,True
+3204,70,,3Esq.Sup.Mpu.Mza,182 MAIPU 3 ESQUINAS X P.MOLINA (SUPERIORA DE VUELTA)REGRESA X CRUZ DE PIEDRA - MZA,0,3204,224,True
+1797,70,,3Esq.X P.Mol.Mpu,Tres Esquinas por Pedro Molina - Maipú,0,1797,225,True
+3184,70,,Mza Mpu Sup 3Esq.,182 MZA TRES ESQUINAS POR PEDRO MOLINA (SUPERIORA DE IDA) MAIPU,1,3184,225,True
+1799,70,,3Esqpm.Supmpumza,Tres Esquinas por Pedro Molina (Superiora) Maipú Mendoza,0,1799,226,True
+3185,70,,Mza 3Esq.Xp.Mol.,182 MENDOZA TRES EQUINAS POR P.MOLINA (SUPERIORA DE VTA) ,1,3185,226,True
+3190,70,,Mza Mpu 3Esq.,182 MENDOZA TRES ESQUINAS X P.MOLINA,1,3190,227,True
+3191,70,,3Esq.P.M.Mpumza,182 TRES ESQUINAS x P.MOLINA MENDOZA,0,3191,227,True
+1802,70,,Mpu 3Esq.Xp.Mol,Maipú - Tres Esquinas por Pedro Molina,1,1802,228,True
+3193,70,,3Esqxp.M.Mpu Mza,182 MAIPU TRES ESQUINAS POR P.MOLINA MZA,0,3193,228,True
+3196,70,,Mza Mpu.Sup3Esqpm,182 MENDOZA TRES ESQUINAS POR P.MOLINA (SUPERIORA DE IDA Y VUELTA),1,3196,229,True
+3197,70,,3Esqpm.Supmpumza,182 MENDOZA TRES ESQUINAS POR P.MOLINA (SUPERIORA DE IDA Y VUELTA),0,3197,229,True
+3199,70,,Mza Mpu3Esq.Xpm,182 MENDOZA - TRES ESQUINAS POR P.MOLINA HASTA RIO MZA,1,3199,230,True
+3201,70,,3Esq.Mpu Mza,182 MENDOZA TRES ESQUINAS X P.MOLINA HASTA RIO MZA,0,3201,230,True
+3202,70,,Mza Mpu Sup Rec.,182 MENDOZA RECOARO (SUPERIORA DE IDA),1,3202,231,True
+3207,70,,Rec.Mpu.Mza,182 MENDOZA RECOARO (SUPERIORA DE IDA),0,3207,231,True
+3209,70,,Mza Mpu Sup.Rec.,182 MENDOZA RECOARO (SUPERIORA DE IDA)- MAIPU,1,3209,232,True
+3210,70,,Recoaro Maipu,182 MENDOZA RECOARO (SUPERIORA DE IDA) - MAIPU,0,3210,232,True
+3173,70,,Rec.Sup.Mpu Mza,182 MEDOZA RECOARO (SUPERIORA DE VUELTA),0,3173,233,True
+3235,70,,Mza Mpu Rec.,182 MENDOZA RECOARO (SUPERIORA DE IDA),1,3235,233,True
+1813,70,,Maipu Recoaro,Maipú - Recoaro,1,1813,234,True
+3216,70,,Rec.Sup.Mpu Mza,182 MAIPU RECOARO (SUPERIORA DE VTA) MENDOZA,0,3216,234,True
+3217,70,,Rec.Sup.Mpu.Mza,182 RECOARO MENDOZA(SUPERIORA),1,3217,235,True
+3218,70,,Mpu Recoaro,182 MAIPU RECOARO MENDOZA,1,3218,236,True
+3219,70,,Rec.Mpu.Mza,182 MAIPU RECOARO - MENDOZA,0,3219,236,True
+3220,70,,Mzampu Sup.C.P.,182 MENDOZA CRUZ DE PIEDRA(SUPERIORA DE IDA)MAIPU (OZAMIS Y V.ARANDA),1,3220,237,True
+3224,70,,C.Piedra Mpu,182 MENDOZA CRUZ DE PIEDRA (SUPERIORA DE IDA)MAIPU (HASTA OZAMIS Y V.ARANDA),0,3224,237,True
+3225,70,,Mza.Mpu Sup.C.P.,182 MENDOZA CRUZ DE PIEDRA (SUPERIORA DE IDA)MAIPU (HASTA V.ARANDA Y MAZA,1,3225,238,True
+3227,70,,C.De Piedra Mpu,182 MENDOZA CRUZ DE PIEDRA (SUPERIORA DE IDA) MAIPU (HASTA V.ARANDA Y MAZA),0,3227,238,True
+3228,70,,Mza Mpu Sup.C.P.,182 MENDOZA CRUZ DE PIEDRA (SUPERIORA IDA Y VUELTA),1,3228,239,True
+3229,70,,C.P.Sup.Mpu Mza,182 MENDOZA CRUZ DE PIEDRA (SUPERIORA IDA Y VUELTA) ,0,3229,239,True
+3230,70,,Mza Mpu Sup.Ch.,182 MENDOZA CHACHINGO POR RUSSELL (SUPERIORA IDA Y VUELTA),1,3230,240,True
+3231,70,,Chruss.Sup.Mpumza,182 MENDOZA CHACHINGO POR RUSSELL (SUPERIORA DE IDA Y VUELTA),0,3231,240,True
+3232,70,,Mpu Chach.,182 MAIPU CHACHINGO POR RUSSELL - MENDOZA,1,3232,241,True
+3234,70,,Ch.Russ.Mpu Mza,182 MAIPU CHACHINGO POR RUSSELL MENDOZA,0,3234,241,True
+3236,70,,Mza Mpu Russ.Cha,182 MENDOZA CHACHINGO POR RUSSELL (SUPERIORA DE VUELTA),1,3236,242,True
+3237,70,,Chruss.Sup.Mpumza,182 MENDOZA CHACHINGO POR RUSSELL (SUPERIORA DE VUELTA ),0,3237,242,True
+1832,70,,Chach.Russ.Maipu,Chachingo por Russell - Maipú,0,1832,243,True
+3238,70,,Mza Mpusup.Russch,182 MENDOZA CHACHINGO POR RUSSELL (SUPERIORA DE IDA)- MAIPU,1,3238,243,True
+3239,70,,Mza Maipu,182 MENDOZA MAIPU (CHACHINGO),1,3239,244,False
+3240,70,,Mza Mpuchach.Urq.,182 MENDOZA CHACHINGO POR URQUIZA PARAISO POR RUTA 60 MENDOZA,1,3240,245,True
+3241,70,,Chach.Urq.Mpumza,182 MENDOZA CHACHINGO POR URQUIZA PARAISO RUTA 60 MENDOZA,0,3241,245,True
+1837,70,,Chachingo Urq.Mpu,Chachingo por Urquiza Paraíso Ruta 60 - Maipú,0,1837,246,True
+3242,70,,Mzampu Chach.Urq.,182 MENDOZA CHACHINGO POR URQUIZA PARAISO RUTA 60 MAIPU,1,3242,246,True
+1838,70,,Maipu Chach.Urq.,Maipú - Chachingo por Urquiza,1,1838,247,True
+3243,70,,Mza Mpusup3E.Lunl,182 MENDOZA LUNLUNTA POR EL BAJO (SUPERIORA IDA Y VUELTA),1,3243,248,True
+3244,70,,Lunl.3E.Supmpumza,182 MENDOZA LUNLUNTA POR EL BAJO (SUPERIORA IDA Y VUELTA),0,3244,248,True
+3245,70,,Mza Maip.Sup.Lunl,182 MENDOZA LUNLUNTA POR EL BAJO REGRESA POR EL ALTO (SUPERIORA DE IDA Y VUELTA),1,3245,249,True
+3246,70,,Lunl.Sup.Maip.Mza,182 MENDOZA LUNLUNTA POR EL BAJO REGRESA POR EL ALTO (SUPERIORA DE IDA Y VUELTA),0,3246,249,True
+3248,70,,Mza Maip.Sup.Lunl,182 MENDOZA LUNLUNTA POR EL BAJO REGRESA POR EL ALTO (SUPERIORA DE IDA) MAIPU,1,3248,250,True
+3249,70,,Lunlunta Maipu,182 MENDOZA LUNLUNTA POR EL BAJO REGRESA POR EL ALTO (SUPERIORA DE IDA) MAIPU,0,3249,250,True
+3250,70,,Mza Mpu.Sup.Lunl.,182 MENDOZA LUNLUNTA POR EL ALTO REGRESA POR EL BAJO (SUPERIORA DE IDA),1,3250,251,True
+3251,70,,Lunl.Maipu Mza,182 MENDOZA LUNLUNTA POR EL ALTO REGRESAPOR EL BAJO (SUPERIORA DE IDA),0,3251,251,True
+3252,70,,Mza Maip.Sup.Lunl,182 MENDOZA LUNLUNTA POR EL ALTO REGRESA POR EL BAJO (SUPERIORA DE IDA Y VUELTA),1,3252,252,True
+3253,70,,Lunl.Sup.Maip.Mza,182 MENDOZA LUNLUNTA POR EL ALTO REGRESA POR EL BAJO (SUPERIORA DE IDA Y VUELTA),0,3253,252,True
+3254,70,,Maipu Lunlunta,182 MAIPU LUNLUNTA POR EL ALTO REGRESA POR EL BAJO (SUPERIORA DE VUELTA )MENDOZA,1,3254,253,True
+3261,70,,Lunl.Sup.Maip.Mza,182 MAIPU LUNLUNTA POR EL ALTO REGRESA POR EL BAJO (SUPERIORA DE VUELTA)MENDOZA,0,3261,253,True
+3263,70,,Mza Maipu Lunl.,182 MENDOZA LUNLUNTA POR EL ALTO REGRESA POR EL BAJO,1,3263,254,True
+3265,70,,Lunl.Maipu Mza,182 MENDOZA LUNLUNTA POR EL ALTO REGRESA POR EL BAJO,0,3265,254,True
+3289,70,,Mza Mpu.3Esq.Pmol,Mendoza - Maipú - Tres Esquina por Pedro Molina,1,3289,268,True
+3290,70,,3Esq.Pmolina Mpu, Tres Esquina por Pedro Molina Maipú,0,3290,268,True
+1884,70,,Maip.C.De Piedra,Maipú - Cruz de Piedra hasta Videla Aranda y Maza,1,1884,269,True
+3291,70,,C.P.Sup.Mpumza,Cruz de Piedra - (Superiora) Maipú -  Mza,0,3291,269,True
+3292,70,,Maipu Chachingo,Maipú - Chachingo por Russell ,1,3292,270,True
+3293,70,,Chruss.Sup.Mpumza,Chachingo por Russell - Maipú - (Superiora) Mendoza,0,3293,270,True
+3295,70,,Rec.Lunl.S.Mpumza,Recoaro Lunlunta por el Bajo - Maipú(Superiora)- Mendoza,0,3295,271,True
+3296,70,,Mza Mpu.S.3E.Lunl, Mendoza - Maipú(Superiora) - Tres Esquinas por Pedro Molina - Lunlunta ,1,3296,272,True
+3297,70,,Lunlunta Maipu,Lunlunta Maipú,0,3297,272,True
+3300,70,,Mza Maip.Sup.Lunl,Mendoza - Maipú(Superiora) - Lunlunta por el Bajo regresa por el Alto ,1,3300,287,True
+3301,70,,Lunl.Maipu Mza,Lunlunta - Maipú - Mendoza,0,3301,287,True
+1856,71,,Mza Mpu.Barrancas, Mendoza - Maipú - Barrancas por el Alto ida y Vuelta,1,1856,255,True
+1857,71,,Barr.Alt.Mpu.Mza,Barrancas por el Alto - Maipú - Mendoza,0,1857,255,True
+3268,71,,Mza Mpu.Sup.Bar.A,183 MENDOZA BARRANCAS POR EL ALTO Y VUELTA,1,3268,256,True
+3270,71,,Barr.A.Sup.Mpumza,183 MENDOZA BARRANCAS POR EL ALTO IDA Y VUELTA (SUPERIORA DE IDA),0,3270,256,True
+3271,71,,Mza Map.Barr.Alt,183 MENDOZA BARRANCAS POR EL ALTO IDA Y VUELTA (SUPERIORA DE VUELTA),1,3271,257,True
+3272,71,,Barr.A.Sup.Mpumza,183 MENDOZA BARRANCAS POR EL ALTO IDA Y VUELTA (SUPERIORA DE VUELTA),0,3272,257,True
+3273,71,,Mza Maip.Barr.Alt,183 MENDOZA BARRANCAS POR EL ALTO REGRESA POR EL CARRIL (SUPERIORA DE VUELTA),1,3273,258,True
+3275,71,,Barr.C.Sup.Mpumza,183 MENDOZA BARRANCAS POR EL ALTO REGRESA POR EL CARRIL (SUPERIORA DE VUELTA),0,3275,258,True
+1865,71,,Maipu Barr.Carril,Maipú - Barrancas por el carril ,1,1865,259,True
+3277,71,,Barr.Alt.Maip.Mza,183 MAIPU BARRANCAS POR EL CARRIL REGRESA POR EL ALTO MENDOZA,0,3277,259,True
+1867,71,,Mpu.R.60 Barr.Alt,Maipú - Ruta N° 60 - Barrancas por el alto,1,1867,260,True
+3279,71,,Barrc.R60 Mpu.Mza,Barrancas por el carril - Ruta N° 60 - (Superiora)Maipú  Mendoza,0,3279,260,True
+3280,71,,Mza Barr.Xurq.Alt,Mendoza - Maipú - Barrancas por Urquiza por el Alto ,1,3280,261,True
+3283,71,,Barrxurq.A.Mpumza,Barrancas por Urquiza - por el Alto - Maipú - Mendoza,0,3283,261,True
+1872,71,,Mpu Barr.Urq.Carr,Maipú - Barrancas por Urquiza por el Carril ,1,1872,262,True
+3284,71,,Barrxurq.A.Mpumza,Barrancas por Urquiza Regresa por el Alto - Maipú - Mendoza,0,3284,262,True
+1876,71,,Barr.Urq.Carr.Mpu,Barrancas por Urquiza por el Carril - Maipú,0,1876,263,True
+3285,71,,Mza Mpu.Bar.Urq.A,Mendoza - Maipú - Barrancas por Urquiza por el Alto ,1,3285,263,True
+1878,71,,Barr X Carril.Mpu,Barrancas por el Carril - Russell - Maipú,0,1878,264,True
+3286,71,,Mza Mpu.Barrurq.A,Mendoza - Maipú - Barrancas por Urquiza por el Alto,1,3286,264,True
+2964,71,,Maipu Mza(Barr.),NULL,1,2964,265,True
+3287,71,,Mza Mpu.Bar.Urq.A,Mendoza - Maipú - Barrancas por Urquiza por el Alto,1,3287,266,True
+3288,71,,Barr.Urq.Alt.Mpu,Barrancas por Urquiza por el Alto - Maipú,0,3288,266,True
+3299,71,,Barr.A.Sup.Mpumza,Barrancas por el Alto - Maipú(Superiora) - Mendoza,0,3299,273,True
+3313,71,,Mza Mpu.Sup.Barr,Mendoza - Maipú (Superiora) - Barranca por el Alto,1,3313,273,True
+1894,71,,Mpu.Barr.Urq.Carr,183MPU.BARR.URQ.CARR,1,1894,274,True
+2911,71,,Barrxurq.C.Mpumza,183MPU.BARR.URQ.CARR,0,2911,274,True
+1900,71,,Maipu Barr. Alt,Maipú Barrancas por el alto,1,1900,294,True
+3367,71,,Barr.Alt.Maipu,183 MAIPÚ BARRANCAS MAIPÚ  ,0,3367,294,True
+3311,71,,Mpu Barr.Esc.C.P.,183 MAIPU BARRANCAS MAIPU (ESC.CRUZ DE PIEDRA),1,3311,317,True
+3312,71,,Barrancas Maipu,183 MAIPU BARRANCAS MAIPU ESC.CRUZ DE PIEDRA,0,3312,317,True
+1748,72,,Mza Maip.Jun.,Mendoza Junín Mendoza (x Maipú),1,1748,167,True
+1749,72,,Junin Maipu Mza,Mendoza Junín Mendoza (x Maipú),0,1749,167,True
+2965,72,,Maipu Junin,Maipú -Junín - Maipú - Mendoza,1,2965,168,True
+2969,72,,Junin Maipu Mza,JUNIN MAIPU MENDOZA,0,2969,168,True
+2970,72,,Maipú - Mendoza,Maipú - Mendoza,1,2970,169,True
+1755,73,,St.Blanc.Ortg.Mpu,Santa Blanca El Paraíso por Gutiérrez - Ortega - Maipú ,0,1755,171,True
+3352,73,,Mpu.Ort.St.Blanc,Maipú Gutiérrez Ortega Santa Blanca El Paraíso,1,3352,171,True
+2530,74,,A R.Cruz X Nac.,A21 RODEO DE LA CRUZ POR NACIONAL,1,2530,111,True
+2677,74,,A R.Cruz X Nac.,A21A R.CRUZ X NAC.,0,2677,111,True
+2534,74,,A R.Cruz X Nac.Pi,A21 RODEO DE LA CRUZ X NACIONAL-PICCIONE,0,2534,112,True
+2852,74,,A R.Cruz X Nac.Pi,A21 RODEO DE LA CRUZ X NACIONAL,1,2852,112,True
+2535,74,,B R.Cruz X Nac.,A21 RODEO DE LA CRUZ X NACIONAL SHOPPING,0,2535,113,True
+2698,74,,B R.Cruz X Nac.,A21 R. DE LA CRUZ X NACIONAL SHOPPING,1,2698,113,True
+2699,74,,B R.Cruz X Nac.Sh,A21 R.DE LA CRUZ X NAC. SHOPPING,1,2699,115,True
+2984,74,,B R.Cruz X Nac.Sh,A21 RODEO DE LA CRUZ SHOPPING DE IDA,0,2984,115,True
+2756,75,,A Corr.X Nac.Mil.,A22 CORRALITOS X NACIONAL MILAGROS,1,2756,211,True
+2758,75,,B Corrxnac.S.Vte,A 22 CORRALITOS X NACIONAL MILAGROS SAN VICENTE ,1,2758,212,True
+2759,75,,B Corrxnac.S.Vte,A22 CORRALITOS X NACIONAL MILAGROS SAN VICENTE,0,2759,212,True
+2760,75,,C Corrxnac.Malv.,A22 CORRALITOS X NACIONAL MALVINAS GRILLI,1,2760,213,True
+2761,75,,C Corrxnac.Malv.,A22 CORRALÑITOS X NACIONAL MALVINAS GRILLI,0,2761,213,True
+2762,75,,D Corr.Ferrari,A22 CORRALITOS X NACIONAL FERRARI,1,2762,215,True
+2763,75,,D Corr Ferrari,A22 CORRALITOS X NACIONAL FERRARI,0,2763,215,True
+2764,75,,E Corr.Violetas,A22 CORRALITOS POR ACC.ESTE VIOLETAS X PONCE,1,2764,216,True
+2765,75,,E Corr Violet,A22 CORRALITOS X ACC. ESTE VIOLETAS X PONCE,0,2765,216,True
+2766,75,,F Corr.X Nac.,A22F CORR.X NAC.,1,2766,217,True
+2767,75,,F Corr.X Nac.,A22 CORRALITOS X NACIONAL ,0,2767,217,True
+2769,75,,C Corrxnac.Malv.,A22 CORRALITOS X NACIONAL GRILLI MALVINAS,1,2769,218,True
+2770,75,,C Corrxnac.Malv.,A22 CORRALITOS X NACIONAL GRILLI MALVINAS VTA X SALCEDO,0,2770,218,True
+3099,75,,A Corr.X Nac.,A22A CORR.X NAC. ,1,3099,219,True
+3100,75,,A Corr X Nac,A22 CORRALITOS MILAGROS VEA SALCEDO,0,3100,219,True
+2774,75,,B Corrxnac.S.Vte,A22 CORRALITOS X NACIONAL SAN VICENTE,1,2774,220,True
+2775,75,,B Corrxnac S Vte,A22 CORRALITOS X NAC. SAN VICENTE,0,2775,220,True
+2776,75,,C Corrxnac.Malv.,A22 CORRALITOS X NACIONAL MALVINAS,1,2776,221,True
+2777,75,,C Corrxnac.Malv.,A22 CORRALITOS X NACIONAL MALVINAS,0,2777,221,True
+2778,75,,E Corr.Violetas,A22 CORRALITOS X NACIONAL ,1,2778,222,True
+2779,75,,E Corr.Violetas,A22 CORRALITOS X NACIONAL REG. KM 11 SALCEDO,0,2779,222,True
+2780,75,,F Corr.X Nac.Mva.,A22 CORRALITOS X NACIONAL MILAGROS MALVINAS,1,2780,223,True
+2781,75,,F Corr.X Nac.Mva.,A22 CORRALITOS MILAGROS MALVINAS,0,2781,223,True
+2782,75,,A Corr.X Nac.,A22A CORR.X NAC.,1,2782,224,True
+2783,75,,A Corr.X Nac.,A22 CORRALITOS X NACIONAL MILAGROS VEA,0,2783,224,True
+2784,75,,E Corr.Violetas,A22 CORRALITOS X ACC. ESTE VIOLETAS X TIRASSO,1,2784,225,True
+2785,75,,E Corr.Violetas,A22 CORRALITOS X ACC. ESTE VIOLETAS TIRASSO,0,2785,225,True
+2786,75,,G Corr.Grilli/Mil,A22 CORRALITOS X NACIONAL GRILLI,1,2786,226,True
+2787,75,,G Corr.Grilli/Mil,A22 CORRALITOS X NACIONAL GRILLI ,0,2787,226,True
+3102,75,,G Corr.Grilli/Mil,A22 CORRALITOS MILAGROS VEA REGRESA SALCEDO,0,3102,227,True
+3103,75,,G Corr.Grilli/Mil,A22 CORRALITOS MILAGROS VEA,1,3103,227,True
+2790,75,,D Corr.Ferrari,A22 CORRALITOS X NACIONAL SALE FERRARI,1,2790,229,True
+3105,75,,D Corr.Ferrari,A22 CORRALITOS POR NACIONAL MILAGROS VEA,0,3105,229,True
+3107,75,,B Corrxnac.S.Vte,A22 CORRALITOS POR NACIONAL FERRARI MILAGROS VEA REGRESA RODEO SALCEDO,1,3107,230,True
+3108,75,,B Corrxnc S.Vte,A22 CORRALITOS POR NACIONAL FERRARI MILAGROS VEA REGRESA RODEO SALCEDO,0,3108,230,True
+2796,75,,D Corr.Ferrari,A22 CORRALITOS X NACIONAL FERRERI,0,2796,231,False
+3109,75,,D Corr.Ferrari,A22CORRALITOS POR NACIONAL FERRARI MILAGROS RODEO,1,3109,231,True
+2713,76,,San Jav Nac,B23 B° SANTA ANA SAN JAVIER X NACIONAL,1,2713,135,True
+2714,76,,San Jav Nac,A23 B°SANTA ANA SAN JAVIER X NAC.,0,2714,135,True
+2717,76,,San Jav Nac/Cgob,A23 B° SANTA ANA SAN JAVIER X NAC. C.GOB,0,2717,136,True
+3028,76,,San Jav Nac/Cgob,A23 B° SANTA ANA SAN JAVIER CASA DE GOBIERNO,1,3028,136,True
+3031,76,,San Jav Nac/Cgob,A23 B° SANTA ANA B° SAN JAVIER CASA DE GOBIERNO IDA,0,3031,136,False
+3079,77,,Primavera X Nac.,A24 PRIMAVERA POR NACIONAL,0,3079,142,False
+3081,77,,Primav.X Nac.,A24 PRIMAVERA POR NACIONAL,1,3081,142,True
+2748,78,,Escorihuela,A25 B° ESCORIHUELA X NACIONAL,1,2748,191,True
+2749,78,,Escorihuela,A25 B° ESCORIHUELA X NACIONAL R.DE LA CRUZ,0,2749,191,True
+2751,78,,Escorihuela,A25 B° ESCORIHUELA X NAC.C.GOBIERNO,0,2751,192,True
+2907,78,,Escorihuela,A25 B° ESCORIHUELA X NACIONAL CASA DE GOBIERNO,1,2907,192,True
+2987,78,,Escorihuela,A25 B°ESCORIHUELA PARQUE DE DESCANSO,1,2987,195,True
+2988,78,,Escorihuela,A25 B° ESCORIHUELA X NACIONAL PARQUE DE DESCANSO,0,2988,195,True
+2744,79,,Colonia Segovia,A27 COLONIA SEGOVIA X G. CRUZ,1,2744,171,False
+2745,79,,Colonia Segovia,A27 COLONIA SEGOVIA R.DE LA CRUZ X G.CRUZ,0,2745,171,False
+3042,80,,R.Cruz C.Bombal,A 28 COLONIA BOMBAL MENDOZA,0,3042,181,False
+3043,80,,R.Cruz C.Bombal,A28 COLONIA BOMBAL POR NACIONAL,1,3043,181,False
+2731,81,,Pedregal X Nac.,A 29 PEDREGAL X NACIONAL,1,2731,161,False
+2732,81,,Pedregal X Nac.,A 29 PEDREGAL R. DE LA CRUZ,0,2732,161,False
+2701,82,,R.Cruz X G.Cruz,B21 MZA.R.DE LA CRUZ,1,2701,114,True
+2702,82,,R Cruz X G Cruz,B21 R. CRUZ MENDOZA PQUE. DESCANSO,1,2702,116,True
+2704,82,,R.Cruz X G.Cruz,B21 R. CRUZ X G. CRUZ SANTA RITA,1,2704,117,True
+2797,83,,A Corr. Km 14,B 22 CORRALITOS X G,1,2797,250,True
+2798,83,,A Corr.Km 14,B22 CORRALITOS X G. CRUZ KM 14,0,2798,250,True
+2800,83,,A Corr.Km 14,B22A CORRALITOS X G. CRUZ KM 14 MILAGROS MALVINAS,1,2800,252,True
+2801,83,,A Corr.Km 14,B22A CORRALITOS KM 14 MILAGROS MALVINAS,0,2801,252,True
+2825,83,,A Corr. X G.Cruz,B22 CORRALITOS X GODOY CRUZ,0,2825,253,True
+3214,83,,Corr.X G.Cruz,B22A CORRALITOS POR CARRIL GODOY CRUZ,1,3214,253,True
+2827,83,,B Corr.X G.Cruz,B22B CORRALITOS X GODOY CRUZ MALVINAS,1,2827,254,True
+3112,83,,B V.Nueva Corr.,B22B CORRALITOS POR GODOY CRUZ,0,3112,254,True
+2829,83,,B Corr.X G.Cruz,B22B CORRALITOS X G. CRUZ MILAGROS,1,2829,255,True
+2830,83,,B V.Nueva Corr.,B22B CORRALITOS X G.CRUZ MILAGROS,0,2830,255,True
+2831,83,,B Corr.Km 14,B22B CORRALITOS X G. CRUZ KM 14 SAN VICENTE,1,2831,256,True
+2832,83,,B  Corr.Km14,B22B CORRALITOS X G.CRUZ KM 14 SAN VICENTE,0,2832,256,True
+2833,83,,C Corr.X G.Cruz,B22 CORRALITOS X GODOY CRUZ MILAGROS VEA SALCEDO,1,2833,257,True
+2834,83,,C V.Nueva Corr.,B22C CORRALITOS X GODOY CRUZ MILAGROS VEA SALCEDO,0,2834,257,True
+2835,83,,C Corr.Km 14,B22C CORRALITOS KM 14 VTA. RODEO,1,2835,258,True
+2836,83,,C V.Nueva Corr,B22C CORRALITOS X GODOY CRUZ SALCEDO,0,2836,258,True
+2837,83,,C Corr.X G.Cruz,B22C CORRALITOS X GODOY CRUZ MALVINAS SAN VICENTE,1,2837,259,True
+2838,83,,C V.Nueva Corr.,B22C  CORRALITOS X G.CRUZ MALVINAS SAN VICENTE,0,2838,259,True
+2841,83,,D Corr.Km14,B22 CORRALITOS X G.CRUZKM 14 GRILLI SAN VICENTE ,1,2841,262,True
+2842,83,,D V.Nueva Corr.,B22D CORRALITOS X G.CRUZ GRILLI SAN VICENTE,0,2842,262,True
+2843,83,,D Corr.Km14 Mil.,B22D CORRALITOS X GODOY CRUZ KM 14 MILAGROS,1,2843,263,True
+2844,83,,D V.N Corr Km 14,B22D CORRALITOS X GODOY CRUZ KM 14 MILAGROS,0,2844,263,True
+2846,83,,E Corr.X G.Cruz,B22E CORRALITOS X GODOY CRUZ GRILLI,1,2846,264,True
+2847,83,,E V N Corr.,B22 CORRALITOS X GPDOY CRUZ GRILLI,0,2847,264,True
+2850,83,,E Corr.X G.Cruz,B22E CORRALITOS X GODOY CRUZ MILAGROS VEA,1,2850,265,True
+3117,83,,E V.Nueva Corr.,B22E CORRALITOS POR GODOY CRUZ MILAGROS VEA DE IDA ,0,3117,265,True
+2709,84,,Sta.Ana X G.Cruz,B23 B STA ANA X G.CRUZ,1,2709,131,True
+2710,84,,Sta.Ana X G.Cruz,B23 VILLA NUEVA R. DE LA CRUZ,0,2710,131,True
+2985,84,,B S.Ana C.Gob,B23 B SANTA ANA X GODOY CRUZ CASA DE GOBIERNO,1,2985,134,True
+2986,84,,V.Nueva R.Cruz,B23 B SANTA ANA X GODOY CRUZ CASA DE GOBIERNO ,0,2986,134,True
+2845,85,,A24 Primav.X G.Cruz,A24 PRIMAVERA X GODOY CRUZ,1,2845,141,True
+3098,85,,Primav.X G.Cruz,B24PRIMAVERA POR GODOY CRUZ,0,3098,141,False
+2726,86,,B.Nueva X G.Cruz,B25 BUENA NUEVA X G.CRUZ ,1,2726,151,True
+2727,86,,V.Nueva R. Cruz,B25 BUENA NUEVA X G. CRUZ ,0,2727,151,True
+3122,86,,B.Nueva C.Gob,B25 BUENA NUEVA POR GODOY CRUZ CASA DE GOBIERNO ,1,3122,153,True
+3123,86,,B23 B.Nueva C.Gob,B25 BUENA NUEVA POR GODOY CRUZ,0,3123,153,True
+2733,87,,A Paraguay,B26A B PARAGUAY X G. CRUZ,1,2733,162,True
+2734,87,,A Paraguay,B26A B PARAGUAY,0,2734,162,True
+2989,87,,A Paraguay Roca,B26A B PARAGUAY POR GODOY CRUZ ROCA ,0,2989,163,True
+2992,87,,A Paraguay Roca,B26A B PARAGUAY X GODOY CRUZ ROCA,1,2992,163,True
+2993,87,,A Par. Palmeras,B26 B PARAGUAY PALMERAS,1,2993,164,True
+2997,87,,A Par.Palmeras,B26 B PARAGUAY PALM. ,0,2997,164,True
+2740,87,,B Paraguay Notti,B26B B PARAGUAY X NAC. HTAL. NOTTI,1,2740,165,True
+3372,87,,B Paraguay Notti,B26B PARAGUAY NOTTI,0,3372,165,True
+3010,87,,B Paraguay Munic.,B26 B PARAGUAY POR GODOY CRUZ MUNICIPAL,1,3010,166,True
+3366,87,,B Paraguay Munic.,B26B PARAGUAY MUNICIPAL,0,3366,166,True
+2754,88,,Escor.X G.Cruz,B27 B ESCORIHUELA X G. CRUZ,1,2754,197,True
+2755,88,,Escor.X G.Cruz,B27 B ESCORIHUELA X G.CRUZ,0,2755,197,True
+1726,89,,S.D Maipu Mendoza,Servicio Diferencial Maipú - Mendoza,1,1726,138,True
+1727,89,,S.D Mendoza Maipu,Servicio Diferencial Mendoza - Maipú ,0,1727,138,True
+1728,90,,Sd 3 Esq.Maip.Mza,Servicio Diferencial - Tres Esquinas - Mendoza - Maipú,1,1728,139,True
+2725,90,,Sd Mendoza Maipu,Servicio Diferencial Mendoza - Maipú,0,2725,139,True
+2730,91,,Sd Maipu Mendoza,Servicio Diferencial - Maipú - Mendoza - Tres Esquinas,1,2730,140,True
+2736,91,,Sd Mza Maipu 3Esq.,Servicio Diferencial Mendoza - Maipú - Tres Esquinas,0,2736,140,True
+2854,92,,Sd Recoaro Maip.Mza,Servicio Diferencial Recoaro - Mendoza Maipú,1,2854,141,True
+2853,92,,Sd Mendoza Maipu,Servicio Diferencial Recoaro - Mendoza Maipú,0,2853,141,True
+2856,93,,Sd Rec.Cem.Maip.Mza,Servicio Diferencial Recoaro - Mendoza Maipú (Entrada Cementerio Oasis de Paz),1,2856,142,True
+2857,93,,Sd Mendoza Maipu,Servicio Diferencial Mendoza Maipú,0,2857,142,True
+2858,94,,Sd Maipu Mendoza,Servicio Diferencial  Maipú - Mendoza,1,2858,143,True
+2859,94,,Sd Mza Maip.Recoaro,Servicio Diferencial   Mendoza - Maipú - Recoaro,0,2859,143,True
+2221,95,,F.Cuyo-Chac-Ctro,012 - Carrodilla - Centro Por Flor de Cuyo - Chacras de Coria,1,2221,121,True
+2230,95,,Fcuyo-Casta-Ctro,012 - Centro - B  Flor de Cuyo - B  Los Castaños,0,2230,121,True
+3052,95,,F.Cuyo-Ctro,012 - Carrodilla por B  Flor de Cuyo - Centro,1,3052,122,True
+3053,95,,F.Cuyo-Ctro,012 - Centro - Carrodilla por B  Flor de Cuyo,0,3053,122,True
+3059,95,,F.Cuyo-Chac-Ctro,012 - Carrodilla - Centro por B  Flor de Cuyo,1,3059,123,True
+3060,95,,F.Cuyo-Chac-Ctro,012 - Centro - Chacras de Coria - Cementeria Parque Jardin Mendoza,0,3060,123,True
+2243,96,,Ctro-Lherasxroca,013 - Carrodilla - Centro - Las Heras por Roca - Casa de Gobierno,1,2243,131,True
+3061,96,,Lher.Carrodxroca,013 - Las Heras - Carrodilla por Roca,0,3061,131,True
+2960,96,,Carr-Lherasxroca,013 - Carrodilla - Las Heras por Roca,1,2960,132,True
+3085,96,,Lasher.Carrxroca,NULL,0,3085,132,True
+2245,96,,Es - Esc. Roca,013 - Escolar Roca de las 07:20 hs,1,2245,133,False
+2246,96,,Es - Esc. Roca,013-Escolar Roca7:20,0,2246,133,False
+2247,96,,Es -Esc. Roca,013 - Escolar Roca de las 12:30,1,2247,134,False
+2248,96,,Es - Esc. Roca,013 - Escolar Roca de las 12:30 hs,0,2248,134,False
+2250,96,,Es - Esc. Roca,013 - Escolar Roca de las 17:30 hs,1,2250,135,False
+2251,96,,Es - Esc. Roca,013 - Escolar Roca de las 17:30 hs,0,2251,135,False
+2252,96,,Es1 - Esc.Goretti,013ES1 - Escolar Goretti - San Pablo de las 12:30 hs,1,2252,136,False
+2255,96,,Es1 - Esc.Goretti,013 - Escolar Goretti - San Pablo de las 18:00 hs,0,2255,136,False
+2561,97,,G.Crz.Cto.S/C.Gob,NULL,1,2561,112,True
+2204,97,,Centro,NULL,1,2204,111,True
+2317,97,,G.Cruz.Centro,NULL,0,2317,111,True
+2562,97,,31G.Cruz.Plaza,NULL,0,2562,112,True
+1690,98,,A-Carr-Cg-Ctroxfa,011A - CARRODILLA - CENTRO X FIGUEROA ALCORTA - C. GOB.,1,1690,111,True
+2998,98,,A-Ctro-Carrxf.A.,011 - Centro - Carrodilla x F. Alcorta - C. Gob,0,2998,111,True
+2999,98,,A-Carr-Ctro.Xf.A.,011 - Centro Carrodilla por F. Alcorta ,0,2999,112,True
+3003,98,,A-Carr-Ctro.Xf.A.,011A - Carrodilla - Centro por F. Alcorta,1,3003,112,True
+2994,98,,B-B21-Ctro.Xf.A.,011 - B. 21 de Julio - Carrodilla - Centro por F. Alcorta - C/Gob. ,1,2994,113,True
+3000,98,,B-B21-Ctro.Xf.A.,011B-Centro - Carrodilla x F. Alcorta ,0,3000,113,True
+3001,98,,A-Carr-Ctroxf.A.,011A - Centro - Carrodilla x F. Alcorta,0,3001,114,True
+3004,98,,A-Carr-Ctro.Xf.A.,011-B. 21de Julio - Carrodilla - Centro x F. Alcorta ,1,3004,114,True
+2995,98,,C-Ctro-B21-Carr,011C - Centro - Carrodilla x F. Alcorta - B. 21 de Julio ,0,2995,115,True
+2996,98,,C-Ctro-B21-Carr,011C - Carrodilla - Centro - B. 21 de Julio x F. Alcorta - C/Gob. ,1,2996,115,True
+3005,98,,C-Ctro-B21-Carr,011C - Carrodilla - Centro x F. Alcorta - B. 21 de Julio,1,3005,116,True
+3006,98,,C-Ctro-B21-Carr,011C - Centro - Carrodilla x F. Alcorta - B. 21 de Julio,0,3006,116,True
+2239,98,,B-B21-Ctro.Xf.A.,011 - Carrodilla-B. 21 de Julio - Centro x F. Alcorta,1,2239,117,True
+2241,98,,B-B21-Ctro.Xf.A.,011 - Centro - Carrodilla x F. Alcorta - B.21 de Julio.,0,2241,117,True
+2990,98,,B-B21-Ctro.Xf.A.,NULL,0,2990,118,True
+2991,98,,B-B21-Ctro.Xf.A.,011 - Carrodilla-B. 21 de Julio - Centro x F. Alcorta. C./Gob.,1,2991,118,True
+2218,99,,Vin.Estan.Lago.M,NULL,1,2218,142,True
+2215,99,,Vin.X Oeste.Lago,NULL,1,2215,141,True
+2216,99,,34-Godoy Cruz,NULL,0,2216,141,True
+2219,99,,34.Estanzuela G.Cruz,NULL,0,2219,142,True
+2546,99,,B Vin.Oeste.S/Unc,NULL,1,2546,143,True
+2547,99,,34Vin.X.Oeste.G.Cruz,NULL,0,2547,143,True
+2558,99,,B Vin.B Est.S/Unc,NULL,1,2558,144,True
+2559,99,,B Vin.B Esta.Gc,NULL,0,2559,144,True
+2475,99,,B Vin.Lago.B.Fuch,NULL,1,2475,145,True
+2476,99,,B Vin.O.G.C.Bfuch,NULL,0,2476,145,True
+2550,99,,B Ref.Vin.Unc,NULL,1,2550,162,True
+2551,99,,C Ref.Vin.Est.L.A,NULL,1,2551,163,True
+2552,99,,R.Vin.Est.Lic.Cto,NULL,1,2552,164,True
+2553,99,,Re.Vin.O.Lic.Unc,NULL,1,2553,165,True
+2211,100,,Pablo Vi Lic Unc,NULL,1,2211,151,True
+2212,100,,35-Pablo Vi,NULL,0,2212,151,True
+2548,100,,Ref.Liceo,NULL,1,2548,160,True
+2549,100,,Ref.B.Pblov.Ctrol,NULL,1,2549,161,True
+2643,101,,Foec.Xpza.Ctro,041 - Foecyt - Sarmiento x Plaza de Godoy Cruz - Estanzuela Directo,1,2643,112,True
+2644,101,,Foec.Xpza.Ctro,041 - Foecyt - Sarmiento x Plaza de Godoy Cruz - Estanzuela Directo,0,2644,112,True
+2645,101,,Foec.Xpza.Ctro,041 - Foecyt - Sarmiento por San Martin - Estanzuela por Plaza de Godoy Cruz,1,2645,113,True
+2647,101,,Foec.Xpza.Ctro,041 - Foecyt - Sarmiento por San Martin - Estanzuela por Plaza de Godoy Cruz,0,2647,113,True
+2648,101,,Foec.Dir.Ctro.,041 - Foecyt - Sarmiento por San Martín - Estanzuela por Plaza de Godoy Cruz - B  Ruiseñor,1,2648,114,True
+2649,101,,Foec.Xpza.Ctro,041 - Foecyt - Sarmiento por San Martín - Estanzuela por Plaza de Godoy Cruz - B  Ruiseñor,0,2649,114,True
+2650,102,,B.Fuchsxpza.Ctro,042 - B  Fuchs por Plaza de Gody Cruz,1,2650,121,True
+2651,102,,B.Fuchsxpza.Ctro,042 - B  Fuchs por Plaza de Godoy Cruz,0,2651,121,True
+2652,103,,Palmares.Centro,043 - Palmares x Italia - Centro - Palmares,1,2652,131,True
+2653,103,,Palmares.Centro,043 - Palmares x Italia - Centro - Palmares,0,2653,131,True
+2654,104,,Expresoxp.Andes,044 - Expreso por Paso de Los Andes,1,2654,141,True
+2656,104,,Expresoxp.Andes,044 - Expreso por Paso de Los Andes,0,2656,141,True
+2657,105,,Est.Directo.Ctro,045 - B  La Estanzuela por Plaza de Godoy Cruz - Centro - FoecYt,1,2657,151,True
+2658,105,,Est.Directo.Ctro,045 - B  La Estanzuela por Plaza de Godoy Cruz - Centro - FoecYt,0,2658,151,True
+2659,105,,Est-Ctrodir/Ruis,045 - Estanzuela Directo - Centro - FoecYt,1,2659,152,True
+2661,105,,Estctro Dir/Ruis,045 - Estanzuela Directo - Centro - FoecYt,0,2661,152,True
+2662,105,,Estctrodir/Ruis,045 - B  Ruiseñor - Estanzuela por San Martin - FOECyT,1,2662,154,True
+2663,105,,Estctro Dirruis,045 - B  Ruiseñor - Estanzuela por San Martin - FOECyT,0,2663,154,True
+2664,106,,Mosc.Bombal.Ctro,046 - Mosconi - Bombal - Centro - Mosconi,1,2664,161,True
+2666,106,,Ctro.Bombal.Mosc,046 - Mosconi - Bombal - Centro - Mosconi,0,2666,161,True
+2667,106,,Mosc.Bombal.Ctro,046 - Expreso Mosconi por Paso de Los Andes,1,2667,162,True
+2668,106,,Mosc.Bombal.Ctro,046 - Mosconi Expreso por Paso de Los Andes,0,2668,162,True
+3159,107,,Vinculacion O-E,047 - Servicio Vinculacion Oeste - Este,1,3159,171,True
+3161,107,,Vinculacion O-E,047 - Servicio Vinculacion Oeste - Este,0,3161,171,True
+2860,108,,Sd Maipu Mendoza,Servicio Diferencial  Maipú - Mendoza - Recoaro - Entrada Cementerio Oasis de Paz,1,2860,144,True
+2861,108,,Sd Mza Maip.Rec.Cem.,Servicio Diferencial  Maipú - Mendoza - Recoaro - Entrada Cementerio Oasis de Paz,0,2861,144,True
+1602,109,,001 Mdz Gutz,NULL,0,1602,001,True
+3370,109,,001 Gutz Mdz,NULL,1,3370,001,True
+2925,110,,Municip.Pza. C/G,NULL,1,2925,271,True
+2946,110,,Municip.Pza. C/G,NULL,0,2946,271,False
+2926,110,,Municip.Pza. C/G,NULL,1,2926,272,True
+2947,110,,Municip.Pza. C/G,NULL,0,2947,272,False
+2950,110,,Hosp. Carrillo,NULL,0,2950,275,True
+2976,110,,Hosp. Carrillo,NULL,1,2976,275,True
+2928,110,,Municip.Salta,NULL,1,2928,276,False
+2930,110,,Municip.Salta,NULL,1,2930,277,True
+2951,110,,Municip.X Salta,NULL,0,2951,277,True
+2931,110,,Municip.Salta,NULL,1,2931,279,False
+2952,110,,Municip.Salta,NULL,0,2952,279,False
+3373,111,,P.M.-Centro-Unimev,NULL,0,3373,111,False
+3371,111,,Unimev-Centro-P.M,NULL,1,3371,121,False
+3369,111,,Unimev-Centro-P.M,NULL,1,3369,122,False
+3354,111,,P.Molina-Unimev,NULL,1,3354,112,True
+3359,111,,Unimev-Centro,NULL,0,3359,112,True
+3353,111,,Unimev-P.Molina,NULL,1,3353,122,True
+3358,111,,P.Mol.Ctro.Term,NULL,0,3358,122,True
+1642,112,,Centro-Dorrego,NULL,1,1642,133,True
+1643,112,,Cent-Pellegrini,NULL,1,1643,141,True
+1674,112,,Gc-Lh,NULL,1,1674,153,True
+1681,112,,Unc,NULL,1,1681,162,True

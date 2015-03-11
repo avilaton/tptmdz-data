@@ -1,2 +1,2 @@
-feed_publisher_name,feed_start_date,feed_version,feed_end_date,feed_lang,feed_publisher_url
-a name,,0.0.1,,es,http://www.aurl.com
+feed_publisher_name,feed_publisher_url,feed_lang,feed_version,feed_start_date,feed_end_date
+a name,http://www.aurl.com,es,0.0.1,,
