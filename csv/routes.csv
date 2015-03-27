@@ -1,113 +1,113 @@
 route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color,active
-7,eptm,032,,32EST.G.CRUZ,Bus,,,True
-1,eptm,014,,014F-BcoEnc/Pan/Loc.,Bus,,,True
-2,eptm,015,,015-B.Cast.-Ch.-Ctro,Bus,,,True
-3,eptm,016,,016B-L.UNC.S.El.,Bus,,,True
-4,eptm,017,,017-B.Aler-Luj-Maipu,Bus,,,True
-5,eptm,018,,018-Exp. Roca C.Gob.,Bus,,,True
-6,eptm,019,,019C-Lj.Ctro.Hue.SMt,Bus,,,True
-8,eptm,033,,033-LAS HERAS,Bus,,,True
-9,eptm,051,,051B S.ANA-SHOP-PQUE,Bus,,,True
-10,eptm,052,,052D S.LNZO-UNC-LIC,Bus,,,True
-11,eptm,053,,053D BEL-H.L-UNC-LIC,Bus,,,True
-12,eptm,054,,054K-M.C.NIEVE.CTRO,Bus,,,True
-13,eptm,055,,055J-CENTROxCALLE 7,Bus,,,True
-14,eptm,056,,056D-ALAM-EL CARMEN,Bus,,,True
-15,eptm,061,,061 S.Y SIERR BORB,Bus,,,True
-16,eptm,062,,062C M.H.SEUREK SC.G,Bus,,,True
-17,eptm,063,,063A IND.PATR.CGPI,Bus,,,True
-18,eptm,064,,064A UJEMVI C/C.GOB,Bus,,,True
-19,eptm,065,,065A 1 DE MAYO,Bus,,,True
-20,eptm,066,,066A DOR-MATHEU-S/CG,Bus,,,True
-21,eptm,067,,067A EXP DOR C/CGOB,Bus,,,True
-22,eptm,068,,068A ORTIZ C/CG,Bus,,,True
-23,eptm,069,,069 MUNI LAS HERAS,Bus,,,True
-24,eptm,071,,071B GLLEN-GC-GOBxOB,Bus,,,True
-25,eptm,072,,072F S.IGN-COLON-GOB,Bus,,,True
-26,eptm,073,,073C B°SUPE/Jud-C.G.,Bus,,,True
-27,eptm,074,,074C B°SUPE/Jud/C.G.,Bus,,,True
-28,eptm,075,,075A SUPE-PLAZA G.C.,Bus,,,True
-29,eptm,076,,076A EXPR/SUPE-CTRO,Bus,,,True
-30,eptm,081,,081 Roca x SanMartín,Bus,,,True
-31,eptm,082,,082-San Miguel C.Gob,Bus,,,True
-32,eptm,083,,083 Finca González,Bus,,,True
-33,eptm,084,,084 Minetti,Bus,,,True
-34,eptm,086,,086-Espejo Casa Gob.,Bus,,,True
-35,eptm,088,,088 Shopping - Notti,Bus,,,True
-36,eptm,091,,091B UNC VIAJANTES,Bus,,,True
-37,eptm,092,,092ES ESC PAROIS IDA,Bus,,,True
-38,eptm,093,,093ES ESC MANZO VIAJ,Bus,,,True
-39,eptm,094,,094 INFANTA C GOB,Bus,,,True
-40,eptm,101,,101 CENTRO-B CADORE,Bus,,,True
-41,eptm,102,,102 6ta DORREGO,Bus,,,True
-42,eptm,103,,103 NA-UNCxJBJ-LI.SC,Bus,,,True
-43,eptm,104,,104 UNIMEV-BANC-S/CG,Bus,,,True
-44,eptm,111,,111 CTRO-LH-xH.CTRAL,Bus,,,True
-45,eptm,114,,114SDAD.CTRO,Bus,,,True
-46,eptm,116,,116-B.Mat.-UNC-Zoo,Bus,,,True
-47,eptm,121,,121 B LGLOR-9JUL-ALS,Bus,,,True
-48,eptm,122,,122 B LA GLO-P.OLIVE,Bus,,,True
-49,eptm,123,,123 B ANT PLA G/CRUZ,Bus,,,True
-50,eptm,124,,124 B L.Glo-Dir-Cost,Bus,,,True
-51,eptm,125,,125 V NUE LA GLORIA,Bus,,,True
-52,eptm,131,,131B CUYANITA BORBO,Bus,,,True
-53,eptm,132,,132 B VIC PZA LS HS,Bus,,,True
-54,eptm,133,,133C ALG PEGA CTRO,Bus,,,True
-55,eptm,151,,151-MZA PTE O BDO MP,Bus,,,True
-56,eptm,152,,152MPU MZA TER ACC S,Bus,,,True
-57,eptm,153,,153 MAIPU-MZA-MAZA,Bus,,,True
-58,eptm,155,,155 MZA-MPU EXP.MAZA,Bus,,,True
-59,eptm,161,,161-MZ-EXP.STEA-MAIP,Bus,,,True
-60,eptm,162,,162 BOEDO C-GOB MPU,Bus,,,True
-61,eptm,163,,163 NAZARENO-VUELTA,Bus,,,True
-62,eptm,165,,LOCAL COQUIM LUZUR,Bus,,,True
-63,eptm,166,,166 NAZAR CG XDORR,Bus,,,True
-64,eptm,171,,171 R.CRUZ GUTIERR.,Bus,,,True
-65,eptm,172,,172CENS-MPU R.C.MZA,Bus,,,True
-66,eptm,173,,173 R.PEÑA COQ.MPU,Bus,,,True
-67,eptm,174,,174CHACH.MPU.MZA,Bus,,,True
-68,eptm,175,,175 LUJAN REC.MAIPU,Bus,,,True
-69,eptm,181,,MAIPU MENDOZA ,Bus,,,True
-70,eptm,182,,182 LUNL.MAIPU MZA,Bus,,,True
-71,eptm,183,,183 BARRANCAS MAIPU,Bus,,,True
-72,eptm,184,,184 MENDOZA MAIPU,Bus,,,True
-73,eptm,185,,185 MPU.ORT.ST.BLANC,Bus,,,True
-74,eptm,A21,,A21B R.CRUZ X NAC.SH,Bus,,,True
-75,eptm,A22,,A22D CORR.FERRARI,Bus,,,True
-76,eptm,A23,,A23 SAN JAV Nac/CGob,Bus,,,True
-77,eptm,A24,,A24 PRIMAV.X NAC.,Bus,,,True
-78,eptm,A25,,A25 ESCORIHUELA,Bus,,,True
-79,eptm,A27,,A27 COLONIA SEGOVIA,Bus,,,True
-80,eptm,A28,,A28 R.CRUZ C.BOMBAL,Bus,,,True
-81,eptm,A29,,A29 PEDREGAL X NAC. ,Bus,,,True
-82,eptm,B21,,B21 R.CRUZ X G.CRUZ,Bus,,,True
-83,eptm,B22,,B22E V.NUEVA CORR.,Bus,,,True
-84,eptm,B23,,B23 V.NUEVA R.CRUZ,Bus,,,True
-85,eptm,B24,,B24 PRIMAV.X G.CRUZ,Bus,,,True
-86,eptm,B25,,B23 B.NUEVA C.GOB,Bus,,,True
-87,eptm,B26,,B26B PARAGUAY MUNIC.,Bus,,,True
-88,eptm,B27,,B27 ESCOR.X G.CRUZ,Bus,,,True
-89,eptm,D138,,S.D MENDOZA MAIPU,Bus,,,True
-90,eptm,D139,,SD MENDOZA MAIPU,Bus,,,True
-91,eptm,D140,,SD MZA MAIPU 3ESQ.,Bus,,,True
-92,eptm,D141,,SD MENDOZA MAIPU,Bus,,,True
-93,eptm,D142,,SD MENDOZA MAIPU,Bus,,,True
-94,eptm,D143,,SD MZA MAIP.RECOARO,Bus,,,True
-95,eptm,012,,012-F.Cuyo-Chac-Ctro,Bus,,,True
-96,eptm,013,,013ES1 - Esc.Goretti,Bus,,,True
-97,eptm,031,,31G.CRUZ.PLAZA,Bus,,,True
-98,eptm,011,,011B-B21-Ctro.xF.A.,Bus,,,True
-99,eptm,034,,034RE.VIN.O.LIC.UNC,Bus,,,True
-100,eptm,035,,035REF.B.PBLOV.CTROL,Bus,,,True
-101,eptm,041,,041-Foec.xPza.Ctro,Bus,,,True
-102,eptm,042,,042-B.FuchsXPza.Ctro,Bus,,,True
-103,eptm,043,,043-Palmares.Centro,Bus,,,True
-104,eptm,044,,044-ExpresoXP.Andes,Bus,,,True
-105,eptm,045,,045-EstCtro DirRuis,Bus,,,True
-106,eptm,046,,046-Mosc.Bombal.Ctro,Bus,,,True
-107,eptm,047,,047-Vinculacion O-E,Bus,,,True
-108,eptm,D144,,SD MZA MAIP.REC.CEM.,Bus,,,True
-109,eptm,MTM,,MTM 001 Gutz Mdz,Bus,,,True
-110,eptm,087,,087-Municip.Salta,Bus,,,True
-111,eptm,T11,,unimev-centro-p.m,Bus,,,True
-112,eptm,T12,,T12-UNC,Bus,,,True
+98,1,011,,011B-B21-Ctro.xF.A.,Bus,,,True
+7,,032,,32EST.G.CRUZ,Bus,,,True
+1,,014,,014F-BcoEnc/Pan/Loc.,Bus,,,True
+2,,015,,015-B.Cast.-Ch.-Ctro,Bus,,,True
+3,,016,,016B-L.UNC.S.El.,Bus,,,True
+4,,017,,017-B.Aler-Luj-Maipu,Bus,,,True
+5,,018,,018-Exp. Roca C.Gob.,Bus,,,True
+6,,019,,019C-Lj.Ctro.Hue.SMt,Bus,,,True
+8,,033,,033-LAS HERAS,Bus,,,True
+9,,051,,051B S.ANA-SHOP-PQUE,Bus,,,True
+10,,052,,052D S.LNZO-UNC-LIC,Bus,,,True
+11,,053,,053D BEL-H.L-UNC-LIC,Bus,,,True
+12,,054,,054K-M.C.NIEVE.CTRO,Bus,,,True
+13,,055,,055J-CENTROxCALLE 7,Bus,,,True
+14,,056,,056D-ALAM-EL CARMEN,Bus,,,True
+15,,061,,061 S.Y SIERR BORB,Bus,,,True
+16,,062,,062C M.H.SEUREK SC.G,Bus,,,True
+17,,063,,063A IND.PATR.CGPI,Bus,,,True
+18,,064,,064A UJEMVI C/C.GOB,Bus,,,True
+19,,065,,065A 1 DE MAYO,Bus,,,True
+20,,066,,066A DOR-MATHEU-S/CG,Bus,,,True
+21,,067,,067A EXP DOR C/CGOB,Bus,,,True
+22,,068,,068A ORTIZ C/CG,Bus,,,True
+23,,069,,069 MUNI LAS HERAS,Bus,,,True
+24,,071,,071B GLLEN-GC-GOBxOB,Bus,,,True
+25,,072,,072F S.IGN-COLON-GOB,Bus,,,True
+26,,073,,073C B°SUPE/Jud-C.G.,Bus,,,True
+27,,074,,074C B°SUPE/Jud/C.G.,Bus,,,True
+28,,075,,075A SUPE-PLAZA G.C.,Bus,,,True
+29,,076,,076A EXPR/SUPE-CTRO,Bus,,,True
+30,,081,,081 Roca x SanMartín,Bus,,,True
+31,,082,,082-San Miguel C.Gob,Bus,,,True
+32,,083,,083 Finca González,Bus,,,True
+33,,084,,084 Minetti,Bus,,,True
+34,,086,,086-Espejo Casa Gob.,Bus,,,True
+35,,088,,088 Shopping - Notti,Bus,,,True
+36,,091,,091B UNC VIAJANTES,Bus,,,True
+37,,092,,092ES ESC PAROIS IDA,Bus,,,True
+38,,093,,093ES ESC MANZO VIAJ,Bus,,,True
+39,,094,,094 INFANTA C GOB,Bus,,,True
+40,,101,,101 CENTRO-B CADORE,Bus,,,True
+41,,102,,102 6ta DORREGO,Bus,,,True
+42,,103,,103 NA-UNCxJBJ-LI.SC,Bus,,,True
+43,,104,,104 UNIMEV-BANC-S/CG,Bus,,,True
+44,,111,,111 CTRO-LH-xH.CTRAL,Bus,,,True
+45,,114,,114SDAD.CTRO,Bus,,,True
+46,,116,,116-B.Mat.-UNC-Zoo,Bus,,,True
+47,,121,,121 B LGLOR-9JUL-ALS,Bus,,,True
+48,,122,,122 B LA GLO-P.OLIVE,Bus,,,True
+49,,123,,123 B ANT PLA G/CRUZ,Bus,,,True
+50,,124,,124 B L.Glo-Dir-Cost,Bus,,,True
+51,,125,,125 V NUE LA GLORIA,Bus,,,True
+52,,131,,131B CUYANITA BORBO,Bus,,,True
+53,,132,,132 B VIC PZA LS HS,Bus,,,True
+54,,133,,133C ALG PEGA CTRO,Bus,,,True
+55,,151,,151-MZA PTE O BDO MP,Bus,,,True
+56,,152,,152MPU MZA TER ACC S,Bus,,,True
+57,,153,,153 MAIPU-MZA-MAZA,Bus,,,True
+58,,155,,155 MZA-MPU EXP.MAZA,Bus,,,True
+59,,161,,161-MZ-EXP.STEA-MAIP,Bus,,,True
+60,,162,,162 BOEDO C-GOB MPU,Bus,,,True
+61,,163,,163 NAZARENO-VUELTA,Bus,,,True
+62,,165,,LOCAL COQUIM LUZUR,Bus,,,True
+63,,166,,166 NAZAR CG XDORR,Bus,,,True
+64,,171,,171 R.CRUZ GUTIERR.,Bus,,,True
+65,,172,,172CENS-MPU R.C.MZA,Bus,,,True
+66,,173,,173 R.PEÑA COQ.MPU,Bus,,,True
+67,,174,,174CHACH.MPU.MZA,Bus,,,True
+68,,175,,175 LUJAN REC.MAIPU,Bus,,,True
+69,,181,,MAIPU MENDOZA ,Bus,,,True
+70,,182,,182 LUNL.MAIPU MZA,Bus,,,True
+71,,183,,183 BARRANCAS MAIPU,Bus,,,True
+72,,184,,184 MENDOZA MAIPU,Bus,,,True
+73,,185,,185 MPU.ORT.ST.BLANC,Bus,,,True
+74,,A21,,A21B R.CRUZ X NAC.SH,Bus,,,True
+75,,A22,,A22D CORR.FERRARI,Bus,,,True
+76,,A23,,A23 SAN JAV Nac/CGob,Bus,,,True
+77,,A24,,A24 PRIMAV.X NAC.,Bus,,,True
+78,,A25,,A25 ESCORIHUELA,Bus,,,True
+79,,A27,,A27 COLONIA SEGOVIA,Bus,,,True
+80,,A28,,A28 R.CRUZ C.BOMBAL,Bus,,,True
+81,,A29,,A29 PEDREGAL X NAC. ,Bus,,,True
+82,,B21,,B21 R.CRUZ X G.CRUZ,Bus,,,True
+83,,B22,,B22E V.NUEVA CORR.,Bus,,,True
+84,,B23,,B23 V.NUEVA R.CRUZ,Bus,,,True
+85,,B24,,B24 PRIMAV.X G.CRUZ,Bus,,,True
+86,,B25,,B23 B.NUEVA C.GOB,Bus,,,True
+87,,B26,,B26B PARAGUAY MUNIC.,Bus,,,True
+88,,B27,,B27 ESCOR.X G.CRUZ,Bus,,,True
+89,,D138,,S.D MENDOZA MAIPU,Bus,,,True
+90,,D139,,SD MENDOZA MAIPU,Bus,,,True
+91,,D140,,SD MZA MAIPU 3ESQ.,Bus,,,True
+92,,D141,,SD MENDOZA MAIPU,Bus,,,True
+93,,D142,,SD MENDOZA MAIPU,Bus,,,True
+94,,D143,,SD MZA MAIP.RECOARO,Bus,,,True
+96,,013,,013ES1 - Esc.Goretti,Bus,,,True
+97,,031,,31G.CRUZ.PLAZA,Bus,,,True
+99,,034,,034RE.VIN.O.LIC.UNC,Bus,,,True
+100,,035,,035REF.B.PBLOV.CTROL,Bus,,,True
+101,,041,,041-Foec.xPza.Ctro,Bus,,,True
+102,,042,,042-B.FuchsXPza.Ctro,Bus,,,True
+103,,043,,043-Palmares.Centro,Bus,,,True
+104,,044,,044-ExpresoXP.Andes,Bus,,,True
+105,,045,,045-EstCtro DirRuis,Bus,,,True
+106,,046,,046-Mosc.Bombal.Ctro,Bus,,,True
+107,,047,,047-Vinculacion O-E,Bus,,,True
+95,1,012,,012-F.Cuyo-Chac-Ctro,Bus,,,True
+108,,D144,,SD MZA MAIP.REC.CEM.,Bus,,,True
+109,,MTM,,MTM 001 Gutz Mdz,Bus,,,True
+110,,087,,087-Municip.Salta,Bus,,,True
+111,,T11,,unimev-centro-p.m,Bus,,,True
+112,,T12,,T12-UNC,Bus,,,True
