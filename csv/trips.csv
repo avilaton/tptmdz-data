@@ -758,6 +758,7 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,shape_id,
 3242,70,,Mzampu Chach.Urq.,182 MENDOZA CHACHINGO POR URQUIZA PARAISO RUTA 60 MAIPU,1,3242,246,True
 1838,70,,Maipu Chach.Urq.,Maipú - Chachingo por Urquiza,1,1838,247,True
 3243,70,,Mza Mpusup3E.Lunl,182 MENDOZA LUNLUNTA POR EL BAJO (SUPERIORA IDA Y VUELTA),1,3243,248,True
+2530,74,,A R.Cruz X Nac.,A21 RODEO DE LA CRUZ POR NACIONAL,1,2530,111,True
 3244,70,,Lunl.3E.Supmpumza,182 MENDOZA LUNLUNTA POR EL BAJO (SUPERIORA IDA Y VUELTA),0,3244,248,True
 3245,70,,Mza Maip.Sup.Lunl,182 MENDOZA LUNLUNTA POR EL BAJO REGRESA POR EL ALTO (SUPERIORA DE IDA Y VUELTA),1,3245,249,True
 3246,70,,Lunl.Sup.Maip.Mza,182 MENDOZA LUNLUNTA POR EL BAJO REGRESA POR EL ALTO (SUPERIORA DE IDA Y VUELTA),0,3246,249,True
@@ -820,7 +821,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,shape_id,
 2970,72,,Maipú - Mendoza,Maipú - Mendoza,1,2970,169,True
 1755,73,,St.Blanc.Ortg.Mpu,Santa Blanca El Paraíso por Gutiérrez - Ortega - Maipú ,0,1755,171,True
 3352,73,,Mpu.Ort.St.Blanc,Maipú Gutiérrez Ortega Santa Blanca El Paraíso,1,3352,171,True
-2530,74,,A R.Cruz X Nac.,A21 RODEO DE LA CRUZ POR NACIONAL,1,2530,111,True
 2677,74,,A R.Cruz X Nac.,A21A R.CRUZ X NAC.,0,2677,111,True
 2534,74,,A R.Cruz X Nac.Pi,A21 RODEO DE LA CRUZ X NACIONAL-PICCIONE,0,2534,112,True
 2852,74,,A R.Cruz X Nac.Pi,A21 RODEO DE LA CRUZ X NACIONAL,1,2852,112,True
@@ -969,7 +969,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,shape_id,
 2204,97,,Centro,NULL,1,2204,111,True
 2317,97,,G.Cruz.Centro,NULL,0,2317,111,True
 2562,97,,31G.Cruz.Plaza,NULL,0,2562,112,True
-1690,98,,A-Carr-Cg-Ctroxfa,011A - CARRODILLA - CENTRO X FIGUEROA ALCORTA - C. GOB.,1,1690,111,True
 2998,98,,A-Ctro-Carrxf.A.,011 - Centro - Carrodilla x F. Alcorta - C. Gob,0,2998,111,True
 2999,98,,A-Carr-Ctro.Xf.A.,011 - Centro Carrodilla por F. Alcorta ,0,2999,112,True
 3003,98,,A-Carr-Ctro.Xf.A.,011A - Carrodilla - Centro por F. Alcorta,1,3003,112,True
@@ -1053,3 +1052,6 @@ trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,shape_id,
 1643,112,,Cent-Pellegrini,NULL,1,1643,141,True
 1674,112,,Gc-Lh,NULL,1,1674,153,True
 1681,112,,Unc,NULL,1,1681,162,True
+1690,98,,A-Carr-Cg-Ctroxfa,011A - CARRODILLA - CENTRO X FIGUEROA ALCORTA - C. GOB.,1,1690,111,False
+1,,,,,,,,False
+2,,,,,,,,False
